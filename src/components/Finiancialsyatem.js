@@ -53,7 +53,7 @@ function Finiancialsystem() {
                   <img src={Decentralization} />
                 </div>
                 <div className="text-light">
-                  <p className="F2F-graphy">Decentralization</p>
+                  <span className="F2F-graphy">Decentralization</span>
                   <p className="F2F-org">Transparent</p>
                   <p className="F2F-subgraphy">
                    Full access and visibility to information <br/>and protocol.

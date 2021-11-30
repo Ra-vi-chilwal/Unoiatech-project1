@@ -1,0 +1,47 @@
+.N2N-navitems ul li a{
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 110%;
+    color: #FFFFFF;
+    
+
+
+}
+#N2N-logo{
+font-size: 14px;
+padding-left: 50px;
+/* padding-top: 4px; */
+}
+.btn-get-nrgy{
+    background: linear-gradient(98.56deg, #ED652E -21.77%, #EB5214 106%);
+    box-shadow: 10px 14px 34px rgba(237, 101, 46, 0.3);
+    border-radius: 64px;
+    padding:10px 25px 10px 25px;
+    border: 1px solid #ED652E;
+    color: white;
+}
+.btn-form-N2N{
+    padding-right: 100px;
+}
+#N2N-discover{
+    padding-left:50px;
+    font-family: "Poppins";
+}
+#N2N-dapps{
+    padding-left:50px;
+    font-family: "Poppins";
+}
+#N2N-dashbord{
+    padding-left:50px;
+    font-family: "Poppins";
+}
+#N2N-newto{
+    padding-left:50px;
+    font-family: "Poppins";
+}
+.N2N-font{
+    font-size: 14px;
+    padding: 2px 10px;
+}

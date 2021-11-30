@@ -1,0 +1,63 @@
+.F2F-color{
+    background-color: rgb(2, 12, 41);
+    color: white;
+}
+.F2F-head{
+    padding-top: 35px;
+    text-align: center;
+    font-family: "Poppins";
+font-style: italic;
+font-weight: bold;
+font-size: 54px;
+line-height: 120%;
+}
+.F2F-org{
+    color:#ED652E;
+    font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 110%;
+
+}
+.cryptography{
+    margin-right:20px;
+}
+.Blockchain{
+    margin-left:20px;
+}
+.F2F-graphy{
+    font-size: 28px;
+    font-style: normal;
+font-weight: bold;
+}
+.F2F-subgraphy{
+    font-size: 14px;
+}
+.card-cryptography{
+   
+background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.076) 5.43%, rgba(255, 255, 255, 0.016) 88.67%);
+backdrop-filter: blur(90px);
+    border-radius: 34px;
+   
+}
+#cryptography-body{
+    padding-bottom: 69px;
+}
+#body-blockchain{
+    padding-bottom: 108px;
+}
+.img-chin{
+       
+    background: linear-gradient(117.89deg, rgba(255, 255, 255, 0.152) -102.44%, rgba(255, 255, 255, 0.032) 116.65%);
+    backdrop-filter: blur(90px);
+display: inline-block;
+border-radius: 10px;
+padding:5px;
+
+}
+#body-distribution{
+    padding-bottom: 39px;
+}
+#body-finance{
+    padding-bottom: 20px;
+}

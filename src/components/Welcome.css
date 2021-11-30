@@ -1,0 +1,52 @@
+.N2N-welcome-1st{
+    border: 1px solid black;
+    /* backdrop-filter: blur(90px); */
+    /* background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%); */
+}
+.section-welcome{
+background-color: rgb(2, 12, 41);
+}
+.row{
+    --bs-gutter-x: 0rem;
+}
+.N1N-h1{
+    font-family: "Poppins";
+font-style: italic;
+font-weight: bold;
+font-size: 54px;
+line-height: 100%;
+/* padding-top: 30px; */
+}
+.N2N-item{
+    padding-top: 57px;
+    color: white;
+}
+.N2N-span{
+    font-family: "Poppins";
+    padding-left: 2px;
+font-style: italic;
+font-weight: bold;
+font-size: 16px;
+line-height: 110%;
+color:#ED652E;
+}
+.N2N-NRGY{
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+}
+.btn-learn{
+    border-radius: 64px;
+    margin-left: 40px;
+    padding:10px 25px 10px 25px;
+}
+.N2N-1st{
+    color: white;
+    font-family: "Poppins";
+font-style: normal;
+font-weight: bold;
+font-size: 90px;
+line-height: 110%;
+}

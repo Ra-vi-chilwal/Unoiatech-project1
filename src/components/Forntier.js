@@ -1,6 +1,7 @@
 import React from "react";
 import Ellipse181 from "../images/Ellipse181.png";
 import SECURING from "../images/SECURING.png";
+import Group82 from "../images/Group82.png";
 import "./Forntier.css";
 function Forntier(){
     return(
@@ -11,11 +12,18 @@ function Forntier(){
        <div className="col-2"></div>
        <div className="col-4 Forntier-F3F">
        <span className="N2N-span-2">TOKENOMICS</span>
+       <div class="position-absolute end-0">
+   
+   <img  className="F3F-82" src={Group82} alt=""/>
+   
+   </div>
        <div className="F3F-head pt-0">
+       
           <p className="head-F3F">
           SECURING THE <br/> NEW FINANCIAL<br/> FRONTIER 
           </p>
         </div>
+       
         <div>
             <p className="F3F_ptag">A high-value digital asset designed to secure the future <br/>-- $NRGY is a strong, liquid cryptocurrency token that <br/>fuels powerful new DeFi innovations.<br/>
             <br/>

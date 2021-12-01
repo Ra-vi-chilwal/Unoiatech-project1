@@ -1,6 +1,6 @@
 import React from "react";
 import "./Coin.css";
-// import Group82 from "../images/Group82.png";
+ 
 import coin12 from "../images/coin12.png";
 import Group6173 from "../images/Group6173.png";
 import image2 from "../images/image2.png";
@@ -9,7 +9,9 @@ function Coin(){
         <>
         <div className="Coin">
         <div className="row">
-        <div className="col-2"></div>
+        <div className="col-2">
+     
+        </div>
         <div className="col-4">
          <img src={coin12} alt=""/>
         </div>

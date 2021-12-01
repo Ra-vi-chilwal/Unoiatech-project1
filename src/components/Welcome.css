@@ -9,6 +9,10 @@ background-color: rgb(2, 12, 41);
 .row{
     --bs-gutter-x: 0rem;
 }
+.N2N-p{
+font-size: 16px;
+font-weight: 400;
+}
 .N1N-h1{
     font-family: "Poppins";
 font-style: italic;
@@ -40,7 +44,7 @@ color:#ED652E;
 .btn-learn{
     border-radius: 64px;
     margin-left: 40px;
-    padding:10px 25px 10px 25px;
+    padding:11px 33px 11px 33px;
 }
 .N2N-1st{
     color: white;
@@ -49,4 +53,48 @@ font-style: normal;
 font-weight: bold;
 font-size: 90px;
 line-height: 110%;
+}
+.img-182_N2N{
+    /* padding-top: 24px; */
+    border-radius: 34px;
+}
+.card-W2W{
+    padding-bottom: 0px;
+    margin-left: 180px;
+  height: 287px;
+    margin-right: 93px;
+    background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%);
+backdrop-filter: blur(90px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 35px;
+}
+.st-colm{
+margin-left:51px;
+padding-top: 34px;
+}
+.st-colm-3{
+margin-left: 28px;
+font-size: 16px;
+padding-top: 34px;
+}
+.st-colm-2{
+margin-left:28px;
+font-size: 16px;
+padding-top: 34px;
+}
+.st-colm-1{
+margin-left:28px;
+font-size: 16px;
+padding-top: 34px;
+}
+.r-N2N{
+    border-radius: 34px;
+}
+.N2N-img-174{
+    padding-left: 227px;
+}
+.N2N-img-8{
+    padding-left: 170px;
+    padding-bottom: 300px;
 }

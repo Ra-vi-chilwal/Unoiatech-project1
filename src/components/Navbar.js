@@ -8,7 +8,7 @@ function Navbar(){
         <div>
         <nav class="navbar navbar-expand-lg navbar-light" style={{background:"rgb(2, 12, 41)"}}>
   <div class="container-fluid">
-  <img id="N2N-logo" src={logo}/>
+  <img id="N2N-logo" src={logo} alt=""/>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -33,7 +33,7 @@ function Navbar(){
   </ul>
       <form class="btn-form-N2N">
        
-      <button class="btn btn-success btn-get-nrgy" type="submit"><img src={vector}/><span className="N2N-font">GET NRGY</span></button>
+      <button class="btn btn-success btn-get-nrgy" type="submit"><img src={vector} alt=""/><span className="N2N-font">GET NRGY</span></button>
       </form>
     </div>
   </div>

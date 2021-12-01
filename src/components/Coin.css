@@ -1,0 +1,37 @@
+.Coin{
+    background-color: rgb(2, 12, 41);
+    color: white;
+}
+.coin-org{
+    font-family: "Poppins";
+font-style: italic;
+font-weight: bold;
+font-size: 16px;
+line-height: 110%;
+color:#ED652E;
+text-shadow: 3px 4px 54px rgba(255, 255, 255, 0.3);
+}
+.coin-head{
+    
+font-style: italic;
+font-weight: bold;
+font-size: 48px;
+line-height: 120%;
+}
+.coin_p_C2C{
+    font-size: 14px;
+}
+.see-on{
+
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 140%;
+}
+.coin-img-2{
+    background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%);
+backdrop-filter: blur(90px);
+/* Note: backdrop-filter has minimal browser support */
+color: #FFFFFF;
+border-radius: 4px;
+}

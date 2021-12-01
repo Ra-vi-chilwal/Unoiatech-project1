@@ -6,23 +6,39 @@ import Cryptography from "../images/Cryptography.png";
 import Decentralization from "../images/Decentralization.png";
 import Distribution from "../images/Distribution.png";
 import Finance from "../images/Finance.png";
+import vector2 from "../images/Vector2.png";
+ import Group61 from "../images/Group61.png";
 function Finiancialsystem() {
   return (
     <>
       <div className="F2F-color">
-        <div className="F2F-head">
-          <p>
+      
+        <div className="">
+        <div class="position-absolute">
+   
+   <img  class="Group61" src={Group61} alt=""/>
+   </div>
+          <p className="F2F-head">
             NRGY DEFI FINANCIAL <br />
             SYSTEM
           </p>
+        
+        
         </div>
-        <div className="row">
+        
+        <div className="pt-5 row">
+       
+        <div class="position-absolute">
+   
+            <img  class="vector2-N2N" src={vector2} alt=""/>
+            </div>
           <div className="col-1"></div>
           <div className="col-3 cryptography">
             <div className="card card-cryptography" id="cryptography-body">
-              <div class="card-body">
+         
+              <div class="card-body F3F-body">
                 <div className="img-chin">
-                  <img src={Cryptography} />
+                  <img src={Cryptography} alt=""/>
                 </div>
                 <div className="text-light">
                   <p className="F2F-graphy">Cryptography</p>
@@ -48,9 +64,9 @@ function Finiancialsystem() {
 
           <div className="col-3 ">
             <div className="card card-cryptography">
-              <div class="card-body">
+              <div class="card-body F3F-body">
                 <div className="img-chin">
-                  <img src={Decentralization} />
+                  <img src={Decentralization} alt=""/>
                 </div>
                 <div className="text-light">
                   <span className="F2F-graphy">Decentralization</span>
@@ -74,10 +90,11 @@ function Finiancialsystem() {
           </div>
 
           <div className="col-3 Blockchain">
+       
             <div className="card card-cryptography" id="body-blockchain">
-              <div class="card-body">
+              <div class="card-body F3F-body">
                 <div  className="img-chin">
-                  <img src={Blockchain} />
+                  <img src={Blockchain} alt="" />
                 </div>
                 <div className="text-light">
                   <p className="F2F-graphy">Blockchain</p>
@@ -100,13 +117,14 @@ function Finiancialsystem() {
           </div>
           <div className="col-2"></div>
         </div>
+        
         <div className="pt-3 row">
           <div className="col-1"></div>
           <div className="col-3 cryptography">
             <div className="card card-cryptography" id="body">
-              <div class="card-body">
+              <div class="card-body F3F-body">
                 <div className="img-chin">
-                  <img src={Application} />
+                  <img src={Application} alt=""/>
                 </div>
                 <div className="text-light">
                   <p className="F2F-graphy">Application</p>
@@ -129,9 +147,9 @@ function Finiancialsystem() {
 
           <div className="col-3 ">
             <div className="card card-cryptography" id="body-finance">
-              <div class="card-body">
+              <div class="card-body F3F-body">
                 <div className="img-chin">
-                  <img src={Finance} />
+                  <img src={Finance} alt=""/>
                 </div>
                 <div className="text-light">
                   <p className="F2F-graphy">Finance</p>
@@ -153,9 +171,9 @@ function Finiancialsystem() {
 
           <div className="col-3 Blockchain">
             <div className="card card-cryptography" id="body-distribution">
-              <div class="card-body">
+              <div class="card-body F3F-body">
                 <div  className="img-chin">
-                  <img src={Distribution} />
+                  <img src={Distribution} alt="" />
                 </div>
                 <div className="text-light">
                   <p className="F2F-graphy">Distribution</p>

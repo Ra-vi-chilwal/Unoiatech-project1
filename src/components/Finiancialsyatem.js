@@ -33,7 +33,7 @@ function Finiancialsystem() {
             <img  class="vector2-N2N" src={vector2} alt=""/>
             </div>
           <div className="col-1"></div>
-          <div className="col-3 cryptography">
+          <div className="col-sm-3 py-3 py-sm-0 cryptography">
             <div className="card card-cryptography" id="cryptography-body">
          
               <div class="card-body F3F-body">
@@ -62,7 +62,7 @@ function Finiancialsystem() {
             </div>
           </div>
 
-          <div className="col-3 ">
+          <div className="col-sm-3 py-3 py-sm-0 Decentralization">
             <div className="card card-cryptography">
               <div class="card-body F3F-body">
                 <div className="img-chin">
@@ -89,7 +89,7 @@ function Finiancialsystem() {
             </div>
           </div>
 
-          <div className="col-3 Blockchain">
+          <div className="col-sm-3 py-3 py-sm-0 Blockchain">
        
             <div className="card card-cryptography" id="body-blockchain">
               <div class="card-body F3F-body">
@@ -115,12 +115,12 @@ function Finiancialsystem() {
               </div>
             </div>
           </div>
-          <div className="col-2"></div>
+          <div className="col-0 col-sm-2"></div>
         </div>
         
         <div className="pt-3 row">
-          <div className="col-1"></div>
-          <div className="col-3 cryptography">
+          <div className="col-0 col-sm-1 py-3 py-sm-0 Application"></div>
+          <div className="col-sm-3  cryptography">
             <div className="card card-cryptography" id="body">
               <div class="card-body F3F-body">
                 <div className="img-chin">
@@ -145,7 +145,7 @@ function Finiancialsystem() {
             </div>
           </div>
 
-          <div className="col-3 ">
+          <div className="col-sm-3 py-3 py-sm-0 Finance">
             <div className="card card-cryptography" id="body-finance">
               <div class="card-body F3F-body">
                 <div className="img-chin">
@@ -169,7 +169,7 @@ function Finiancialsystem() {
             </div>
           </div>
 
-          <div className="col-3 Blockchain">
+          <div className="col-sm-3 py-3 py-sm-0 Blockchain">
             <div className="card card-cryptography" id="body-distribution">
               <div class="card-body F3F-body">
                 <div  className="img-chin">
@@ -193,7 +193,7 @@ function Finiancialsystem() {
               </div>
             </div>
           </div>
-          <div className="col-2"></div>
+          <div className="col-2 "></div>
         </div>
       </div>
     </>

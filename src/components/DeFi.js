@@ -69,11 +69,11 @@ function Welcome() {
         
         <div className="card card-W2W">
         <div className="row">
-         <div class="position-absolute">
+        <div class="position-absolute">
    
             <img  class="r-N2N" src={Ellipse181} alt=""/>
-            </div> 
-         {/* <div className="col-1"></div>  */}
+            </div>
+        {/* <div className="col-1"></div> */}
       <div className='col-3 st-colm '>
         
       <span className="N2N-1st pt-5">1st</span>
@@ -86,22 +86,22 @@ function Welcome() {
                 </p>
               </div>
       </div>
-     
+      <div className="col-1"></div>
             <div className="col-2 st-colm-1">
-              <img className="respo-W2W" src={airo} alt=""/>
+              <img src={airo} alt=""/>
           
-              <div className="pt-2 text-light text-center create-with-1">
-                <span className="resp-span-W2W">
+              <div className="pt-2 text-light text-center">
+                <span>
                   Share in the new <br />
                   digital economy
                 </span>
               </div>
             </div>
             <div className="col-2 st-colm-2">
-              <img  className="respo-W2W"  src={airo2}  alt=""/>
+              <img src={airo2}  alt=""/>
         
-              <div className="pt-2 text-center text-light create-with-1">
-                <span className="resp-span-W2W">
+              <div className="pt-2 text-center text-light">
+                <span>
                   Share in the new <br />
                   digital economy
                 </span>
@@ -114,9 +114,9 @@ function Welcome() {
    <img  class="img-182_N2N" src={Ellipse182} alt=""/>
    </div>
   <div className="inner-img">             
-   <img  className="respo-W2W" src={airo3} alt="" />
+   <img src={airo3} alt="" />
               <div className="pt-2 text-center text-light create-with">
-                <span className="resp-span-W2W">
+                <span>
                   Create with better <br />
                   technology and <br />
                   distribution

@@ -73,3 +73,46 @@ padding:5px;
     padding: 156px 40px;
    
 }
+@media  screen and (min-width:350px)and (max-width:500px) {
+
+    .F2F-head {
+        padding-top: 70px;
+        position: relative;
+        font-size: 35px;
+        line-height: 120%;
+         padding-right:0px;
+    }
+    .Blockchain {
+     margin-left: 0px;
+    }
+    
+    .Group61 {
+     padding: 130px 0px;
+     width: 100%;
+    }
+    .vector2-N2N {
+        padding-left: 0px;
+        width: 100%;
+    }
+    .cryptography {
+       padding-left: 24px;
+       padding-right: 24px;
+    }
+    .Decentralization{
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+
+    .Blockchain{
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+.Application{
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.Finance{
+    padding-left: 24px;
+    padding-right: 24px;
+}
+}

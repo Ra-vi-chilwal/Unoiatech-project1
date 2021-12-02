@@ -35,3 +35,30 @@ backdrop-filter: blur(90px);
 color: #FFFFFF;
 border-radius: 4px;
 }
+.vector-492{
+    padding-top: 563px;
+   
+}
+.coin12-p{
+    width:100%
+}
+@media  screen and (min-width:350px)and (max-width:500px) {
+    .coin-org {
+        
+        font-size: 8px;
+      
+}
+
+.coin-head {
+   
+    font-size: 34px;
+   
+}
+.NRGY_C2C{
+    font-size: 8px;
+}
+
+.img-gol {
+    display: none;
+}
+}

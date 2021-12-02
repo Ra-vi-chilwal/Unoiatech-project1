@@ -5,6 +5,9 @@
 .Forntier-F3F{
     padding-top: 247px;
 }
+.F3F-82{
+    padding-right: 72px;
+}
 .N2N-span-2{
     font-family: "Poppins";
     padding-left: 25px;
@@ -47,4 +50,57 @@ line-height: 160%;
 }
 .F3F_ptagp{
 font-weight: bold;    
+}
+.ell-8-1{
+    padding-right: 404px;
+    padding-top: 216px;
+}
+.svector{
+    /* border: 1px solid rgba(255, 255, 255, 0.3); */
+/* box-shadow: 0px 4px 24px rgba(255, 255, 255, 0.2); */
+/* border-radius: 10px; */
+/* transform: rotate(-92.47deg); */
+}
+@media  screen and (min-width:350px)and (max-width:500px) {
+
+    .head-F3F {
+        
+        font-size: 20px;
+        line-height: 99%;
+    }
+    .F3F_ptag {
+      
+        font-size: 9px;
+        line-height: 128%;
+    }
+    .sec-F3F {
+         padding-left: 0px;
+    }
+    .security{
+        width: 100%;
+    padding-top: 46px;
+    padding-left: 0px;
+    }
+    .N2N-span-2 {
+        
+        font-size: 8px;
+      
+    }
+    .Forntier-F3F {
+        padding-top: 47px;
+    }
+   
+
+.vector-492 {
+    padding-top: 416px;
+    padding-left: 114px;
+    width: 77%;
+
+}
+
+.F3F-row {
+    padding-top: 100px;
+}
+    
+    
 }

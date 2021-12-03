@@ -12,8 +12,8 @@ function Forntier(){
        <div className="Forntier">
      
        <div className="row F3F-row">
-       <div className="col-2">
-       <div class="position-absolute end-0">
+       <div className="">
+       <div class="position-absolute start-0">
    
    <img  className="ell-8-1" src={Ell8} alt=""/>
    
@@ -40,11 +40,9 @@ function Forntier(){
             <br/>
              Fair market principals from the start, are used to <br/><span className="F3F_ptagp">promote deep liquidity of $NRGY to ensure capital input is proportional to the supply.</span></p>
         </div>
-        <div class="position-absolute start-0">
-   
-   <img  className="svector" src={svector49} alt=""/>
-   
-   </div>
+       
+  
+  
        </div>
        <div className="col-4">
        <div class="position-absolute end-0 group12">
@@ -63,12 +61,15 @@ function Forntier(){
 
        </div>
      
-       <div className="col-2">
        
-       </div>
 
        </div>
-
+       <div class="position-absolute start-0">
+   
+   <img  className="svector" src={svector49} alt=""/>
+   
+  
+   </div>
        </div>
         </>
     )

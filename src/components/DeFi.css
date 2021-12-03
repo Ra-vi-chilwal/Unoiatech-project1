@@ -1,4 +1,53 @@
-.defi{
+.Defi{
     background-color: rgb(2, 12, 41)!important;
-    color:blue;
+    color:white;
+    padding-top: 200px;
+}
+.Line19_D2D{
+padding-top: 132px;
+}
+
+.D2D-show{
+   display: inline;
+   padding-right: 396;
+}
+.card-W2W2{
+    padding-bottom: 0px;
+    margin-left: 180px;
+  height: 514px;
+    margin-right: 93px;
+    background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%);
+backdrop-filter: blur(90px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 35px;
+}
+.Show-Current{
+    
+}
+.r2-N2N{
+    padding: 24px;
+ 
+    padding-top: 71px;
+
+}
+.Defi-D2D{
+font-style: italic;
+font-weight: bold;
+font-size: 48px;
+line-height: 120%;
+}
+.Defi-tomato{
+    text-shadow: 3px 4px 54px rgba(255, 255, 255, 0.3);
+color: #ED652E;
+
+padding-left: 42px;
+font-style: italic;
+font-weight: bold;
+font-size: 16px;
+line-height: 110%;
+}
+.btn-D2D{
+    display: flex;
+    justify-content: end;
 }

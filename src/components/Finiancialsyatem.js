@@ -8,15 +8,16 @@ import Distribution from "../images/Distribution.png";
 import Finance from "../images/Finance.png";
 import vector2 from "../images/Vector2.png";
  import Group61 from "../images/Group61.png";
+ 
 function Finiancialsystem() {
   return (
     <>
       <div className="F2F-color">
       
         <div className="">
-        <div class="position-absolute">
+        <div class="position-absolute Group61">
    
-   <img  class="Group61" src={Group61} alt=""/>
+   <img  class="img-fluid" src={Group61} alt=""/>
    </div>
           <p className="F2F-head">
             NRGY DEFI FINANCIAL <br />
@@ -32,7 +33,7 @@ function Finiancialsystem() {
    
             <img  class="vector2-N2N" src={vector2} alt=""/>
             </div>
-          <div className="col-1"></div>
+
           <div className="col-sm-3 py-3 py-sm-0 cryptography">
             <div className="card card-cryptography" id="cryptography-body">
          
@@ -50,7 +51,7 @@ function Finiancialsystem() {
                     <br />
                     interaction on your behalf.
                   </p>
-                  <p className="F2F-org">Safty</p>
+                  <p className="F2F-org">Safety</p>
                   <p className="F2F-subgraphy">
                     You don’t need to share your real world
                     <br /> identity. Your Ethereum account and
@@ -115,11 +116,11 @@ function Finiancialsystem() {
               </div>
             </div>
           </div>
-          <div className="col-0 col-sm-2"></div>
+         
         </div>
         
         <div className="pt-3 row">
-          <div className="col-0 col-sm-1 py-3 py-sm-0 Application"></div>
+         
           <div className="col-sm-3  cryptography">
             <div className="card card-cryptography" id="body">
               <div class="card-body F3F-body">
@@ -193,7 +194,7 @@ function Finiancialsystem() {
               </div>
             </div>
           </div>
-          <div className="col-2 "></div>
+         
         </div>
       </div>
     </>

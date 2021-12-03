@@ -2,6 +2,10 @@
     background-color: rgb(2, 12, 41);
     color: white;
 }
+.coin-row{
+    display:flex;
+    justify-content: center;
+}
 .coin-org{
     font-family: "Poppins";
 font-style: italic;
@@ -42,23 +46,44 @@ border-radius: 4px;
 .coin12-p{
     width:100%
 }
+
+element.style {
+}
+.see-on {
+   
+    font-size: 8px;
+}
 @media  screen and (min-width:350px)and (max-width:500px) {
     .coin-org {
         
-        font-size: 8px;
+        font-size: 7px;
       
+}
+.vector490{
+    display: none;
+}
+.coin_p_C2C {
+    font-size: 6px;
+    width: 122%;
 }
 
 .coin-head {
    
-    font-size: 34px;
+    font-size: 19px;
    
 }
+.G-6173{
+    width:71%;
+}
 .NRGY_C2C{
-    font-size: 8px;
+    font-size: 7px;
 }
 
 .img-gol {
-    display: none;
+    width: 71%;
+
+}
+.img-fol-1{
+    font-size: 7px;
 }
 }

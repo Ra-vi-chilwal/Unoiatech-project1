@@ -2,6 +2,10 @@
     background-color: rgb(2, 12, 41);
     color: white;
 }
+.row{
+    display: flex;
+    justify-content: center;
+}
 .F2F-head{
     padding-top: 70px;
     text-align: center;
@@ -95,8 +99,8 @@ padding:5px;
         width: 100%;
     }
     .cryptography {
-       padding-left: 24px;
-       padding-right: 24px;
+        padding-left: 33px;
+        padding-right: 14px;
     }
     .Decentralization{
         padding-left: 24px;
@@ -115,4 +119,13 @@ padding:5px;
     padding-left: 24px;
     padding-right: 24px;
 }
+}
+@media  screen and (min-width:1450px)and (max-width:1650px) {
+    .Group61 {
+        padding: 156px 155px;
+        
+       }
+       .vector2-N2N{
+       padding-left: 25%;
+       }
 }

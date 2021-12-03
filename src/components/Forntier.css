@@ -2,6 +2,8 @@
     background-color: rgb(2, 12, 41);
     color: white;
 }
+
+ 
 .Forntier-F3F{
     padding-top: 247px;
 }
@@ -25,6 +27,8 @@ color:#ED652E;
 }
 .F3F-row{
     padding-top: 100px;
+    display: flex;
+    justify-content: center;
 }
 .sec-F3F{
     padding-left: 26px;
@@ -52,8 +56,13 @@ line-height: 160%;
 font-weight: bold;    
 }
 .ell-8-1{
-    padding-right: 404px;
+    /* padding-right: 404px; */
     padding-top: 216px;
+}
+.F3F-82 {
+    padding-right: 136px;
+    padding-top: 122px;
+
 }
 .svector{
     /* border: 1px solid rgba(255, 255, 255, 0.3); */
@@ -62,23 +71,30 @@ font-weight: bold;
 /* transform: rotate(-92.47deg); */
 }
 @media  screen and (min-width:350px)and (max-width:500px) {
-
+    .F3F-82 {
+        width: 100%;
+        padding-top: 38px;
+    }
     .head-F3F {
         
-        font-size: 20px;
+        font-size: 17px;
         line-height: 99%;
     }
     .F3F_ptag {
       
-        font-size: 9px;
+        font-size: 7px;
         line-height: 128%;
     }
     .sec-F3F {
          padding-left: 0px;
+        
+    }
+    .group12{
+        display: none;
     }
     .security{
-        width: 100%;
-    padding-top: 46px;
+        width: 137%;
+    padding-top: 0px;
     padding-left: 0px;
     }
     .N2N-span-2 {
@@ -101,6 +117,24 @@ font-weight: bold;
 .F3F-row {
     padding-top: 100px;
 }
+.ell-8-1{
+    width:100%;
+}
+.svector{
+width:36%;
+}   
     
-    
+}
+@media  screen and (min-width:1450px)and (max-width:1650px) {
+    .sec-F3F {
+        padding-left: 105px;
+    }
+    .vector-492 {
+        padding-top: 682px;
+    }
+    .F3F-82 {
+        padding-right: 136px;
+        padding-top: 122px;
+
+    }
 }

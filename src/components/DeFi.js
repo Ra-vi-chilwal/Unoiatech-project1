@@ -1,47 +1,49 @@
 import React from "react";
-import welcome from "../images/welocme.png";
+import Group6174 from "../images/Group6174.png";
+import Group6175 from "../images/Group6175.png";
+import Group6176 from "../images/Group6176.png";
+import Line19 from "../images/Line19.png";
 import vector from "../images/Vector3.png";
-import airo from "../images/airo1.png";
-import airo2 from "../images/airo2.png";
-import airo3 from "../images/airo3.png";
-import Ellipse174 from "../images/Ellipse174.png";
-import Ellipse181 from "../images/Ellipse181.png";
-import Ellipse182 from "../images/Ellipse182.png";
-import Ellipse8 from "../images/Ellipse8.png";
+import "./DeFi.css";
 
-import "./Welcome.css";
-function Welcome() {
+
+import Vector493 from "../images/Vector493.png";
+function DeFi() {
   return (
     <>
-      <section className="section-welcome">
-        <div className="row enter-1">
-         
-          <div className="col-6">
-            <img className="welcome-img-1" src={welcome} alt=""/>
+      <div class="position-absolute">
+        <img class="r2-N2N" src={Vector493} alt="" />
+      </div>
+      <section className="Defi">
+        <div className="pt-3 card card-W2W2">
+          <div>
+            <span className="pt-5 Defi-tomato">Democratizing DeFi</span>
           </div>
-          <div class="position-absolute end-0">
-   
-   <img  className="N2N-img-8" src={Ellipse8} alt=""/>
-   
-   </div>
-          <div className="col-6 N2N-item">
-            <div>
-     
-              <span className="N2N-span">WELCOME TO NRGY</span>
+          <div>
+            <span className="Defi-D2D">Democratizing DeFi</span>
+          </div>
+          <div className=" pt-5 row">
+            <div className="col-3">
+              <img src={Group6174} alt=""/>
             </div>
-            <span className="N1N-h1">
-              {" "}
-              A BETTER <br /> FINANCIAL SYSTEM FOR <br />
-              EVERYONE
-            </span>
-       
-            <p className="N2N-NRGY">
-              NRGY is the future of decentralized finance, a one-of-a-kind
-              distributed business building platform that enables the creation
-              of decentralized apps (DApps). NRGY leverages the power of its
-              financial technologies with an incentivized network community.
-            </p>
-            <button class="btn btn-success btn-get-nrgy" type="submit">
+            <div className="col-1 Line19_D2D">
+            <img src={Line19} alt=""/>
+            </div>
+            <div className="col-3">
+            <img src={Group6175} alt=""/>
+            </div>
+            <div className="col-1 Line19_D2D">
+            <img src={Line19} alt=""/>
+            </div>
+            <div className="col-3">
+            <img src={Group6176} alt=""/>
+            </div>
+            <div className="pt-5 row">
+            <div className="col-6 Show-Current">
+              <span className="pt-5">SHOW CURRENT SUPPLY 104k with a<br/> MAX of 4.3 million</span>
+              </div>
+              <div className="col-6">
+              <button class="btn btn-success btn-get-nrgy" type="submit">
               <img src={vector} alt="" />
               <span className="N2N-font">GET NRGY</span>
             </button>
@@ -51,91 +53,16 @@ function Welcome() {
             >
               <span className="N2N-font">LERN MORE</span>
             </button>
-        
-          <div class="position-absolute">
-   
-   <img  class="N2N-img-174" src={Ellipse174} alt=""/>
-   
-   </div> 
-  
-
-            {/* <h1 className="bg-light justify-content-end">hi</h1> */}
-          </div>
-{/*        
-          {/* <div className="col-2">
-        
-          </div> */}
-        </div>
-        
-        <div className="card card-W2W">
-        <div className="row">
-        <div class="position-absolute">
-   
-            <img  class="r-N2N" src={Ellipse181} alt=""/>
             </div>
-        {/* <div className="col-1"></div> */}
-      <div className='col-3 st-colm '>
-        
-      <span className="N2N-1st pt-5">1st</span>
-      <br/>
-              <div>
-                <p className="text-light text-center N2N-p">
-                  NRGY is the very first DeFi project to introduce the Infinity
-                  NFT™ royalty payment technology for licensors of intellectual
-                  property.
-                </p>
-              </div>
-      </div>
-      <div className="col-1"></div>
-            <div className="col-2 st-colm-1">
-              <img src={airo} alt=""/>
+            </div>
           
-              <div className="pt-2 text-light text-center">
-                <span>
-                  Share in the new <br />
-                  digital economy
-                </span>
-              </div>
-            </div>
-            <div className="col-2 st-colm-2">
-              <img src={airo2}  alt=""/>
-        
-              <div className="pt-2 text-center text-light">
-                <span>
-                  Share in the new <br />
-                  digital economy
-                </span>
-              </div>
-            </div>
-        
-            <div className="col-2 st-colm-3">
-            <div class="position-absolute end-0 top-0">
-   
-   <img  class="img-182_N2N" src={Ellipse182} alt=""/>
-   </div>
-  <div className="inner-img">             
-   <img src={airo3} alt="" />
-              <div className="pt-2 text-center text-light create-with">
-                <span>
-                  Create with better <br />
-                  technology and <br />
-                  distribution
-                  
-                </span>
-                </div>
-
-              </div>
-             
-            </div>
-
+          
+          </div>
         </div>
 
-        </div>
-       
-        {/* </div> */}
-       
+     
       </section>
     </>
   );
 }
-export default Welcome;
+export default DeFi;

@@ -16,32 +16,29 @@ function Welcome() {
       <section className="section-welcome">
         <div className="row enter-1">
          
-          <div className="col-6">
+          <div className="col-xs-6 col-4">
             <img className="welcome-img-1" src={welcome} alt=""/>
           </div>
-          <div class="position-absolute end-0">
-   
-   <img  className="N2N-img-8" src={Ellipse8} alt=""/>
-   
-   </div>
-          <div className="col-6 N2N-item">
+       
+          <div className="col-xs-6 col-4 N2N-item">
             <div>
      
               <span className="N2N-span">WELCOME TO NRGY</span>
             </div>
-            <span className="N1N-h1">
+            <span className="pt-5 N1N-h1">
               {" "}
               A BETTER <br /> FINANCIAL SYSTEM FOR <br />
               EVERYONE
             </span>
        
-            <p className="N2N-NRGY">
+            <p className="N2N-NRGY pt-5">
               NRGY is the future of decentralized finance, a one-of-a-kind
               distributed business building platform that enables the creation
               of decentralized apps (DApps). NRGY leverages the power of its
               financial technologies with an incentivized network community.
             </p>
-            <button class="btn btn-success btn-get-nrgy" type="submit">
+            <div className="pt-4">
+            <button class="btn  btn-get-nrgy" type="submit">
               <img src={vector} alt="" />
               <span className="N2N-font">GET NRGY</span>
             </button>
@@ -51,10 +48,15 @@ function Welcome() {
             >
               <span className="N2N-font">LERN MORE</span>
             </button>
-        
-          <div class="position-absolute">
+            </div>
+            <div class="position-absolute end-0">
    
-   <img  class="N2N-img-174" src={Ellipse174} alt=""/>
+   <img  className="" src={Ellipse8} alt=""/>
+   
+   </div>
+          <div class="position-absolute end-0">
+   
+   <img  class="" src={Ellipse174} alt=""/>
    
    </div> 
   
@@ -66,71 +68,69 @@ function Welcome() {
         
           </div> */}
         </div>
+       <div className="pt-5 section2">
+         <div className="container">
+  <div className="card card-W2W">
+<div className="row">
+  <div className='col-4 st-colm '>
         
-        <div className="card card-W2W">
-        <div className="row">
-         <div class="position-absolute">
-   
-            <img  class="r-N2N" src={Ellipse181} alt=""/>
-            </div> 
-         {/* <div className="col-1"></div>  */}
-      <div className='col-3 st-colm '>
-        
-      <span className="N2N-1st pt-5">1st</span>
-      <br/>
-              <div>
-                <p className="text-light text-center N2N-p">
-                  NRGY is the very first DeFi project to introduce the Infinity
-                  NFT™ royalty payment technology for licensors of intellectual
-                  property.
-                </p>
-              </div>
-      </div>
-     
-            <div className="col-2 st-colm-1">
-              <img className="respo-W2W" src={airo} alt=""/>
-          
-              <div className="pt-2 text-light text-center create-with-1">
-                <span className="resp-span-W2W">
-                  Share in the new <br />
-                  digital economy
-                </span>
-              </div>
-            </div>
-            <div className="col-2 st-colm-2">
-              <img  className="respo-W2W"  src={airo2}  alt=""/>
-        
-              <div className="pt-2 text-center text-light create-with-1">
-                <span className="resp-span-W2W">
-                  Share in the new <br />
-                  digital economy
-                </span>
-              </div>
-            </div>
-        
-            <div className="col-2 st-colm-3">
-            <div class="position-absolute end-0 top-0">
-   
-   <img  class="img-182_N2N" src={Ellipse182} alt=""/>
-   </div>
-  <div className="inner-img">             
-   <img  className="respo-W2W" src={airo3} alt="" />
-              <div className="pt-2 text-center text-light create-with">
-                <span className="resp-span-W2W">
-                  Create with better <br />
-                  technology and <br />
-                  distribution
-                  
-                </span>
+        <span className="N2N-1st pt-5">1st</span>
+        <br/>
+                <div>
+                  <p className="pt-4 text-light N2N-p">
+                    NRGY is the very first DeFi project to introduce the Infinity
+                    NFT™ royalty payment technology for licensors of intellectual
+                    property.
+                  </p>
                 </div>
-
+        </div>
+       
+              <div className="col-2 st-colm-1">
+                <img className="respo-W2W" src={airo} alt=""/>
+            
+                <div className="pt-2 text-light text-center create-with-1">
+                  <span className="resp-span-W2W">
+                    Share in the new <br />
+                    digital economy
+                  </span>
+                </div>
               </div>
-             
-            </div>
-
-        </div>
-
-        </div>
+              <div className="col-2 st-colm-2">
+                <img  className="respo-W2W"  src={airo2}  alt=""/>
+          
+                <div className="pt-2 text-center text-light create-with-1">
+                  <span className="resp-span-W2W">
+                    Share in the new <br />
+                    digital economy
+                  </span>
+                </div>
+              </div>
+          
+              <div className="col-2 st-colm-3">
+              <div class="position-absolute end-0 top-0">
+     
+     <img  class="img-182_N2N" src={Ellipse182} alt=""/>
+     </div>
+     <div className="last-img">
+    <div className="inner-img">             
+     <img  className="respo-W2W" src={airo3} alt="" /></div>
+                <div className="pt-2  text-center text-light create-with">
+                  <span className=" pb-5 resp-span-W2W">
+                    Create with better <br />
+                    technology and <br />
+                    distribution
+                    
+                  </span>
+                  </div>
+                  </div>
+  
+                
+               
+              </div>
+  </div>
+</div>
+         </div>
+       </div>
        
         {/* </div> */}
        

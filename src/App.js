@@ -11,9 +11,9 @@ function App() {
   <Navbar />
    <Welcome />
   <Finiancialsystem />
-    <Forntier />
-   <Coin />
-   {/* <DeFi />  */}
+     <Forntier />
+    <Coin />
+    {/* <DeFi />  */}
     </div>
   );
 }

@@ -23,6 +23,22 @@ padding-left: 50px;
     color: white;
     font-weight: 700;
 }
+.btn-get-nrgy:hover{
+    background: none;
+    /* box-shadow:none; */
+    border: 1px solid #ED652E;
+    color: #ED652E;
+}
+.btn-get-nrgy:focus{
+    background: none;
+    /* box-shadow:none; */
+    border: 1px solid #ED652E;
+    color: #ED652E;
+}
+.nav-mgi:hover{
+    color: #ED652E;
+}
+
 .btn-form-N2N{
     padding-right: 100px;
 }

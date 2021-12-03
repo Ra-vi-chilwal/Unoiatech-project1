@@ -3,6 +3,10 @@
     /* backdrop-filter: blur(90px); */
     /* background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%); */
 }
+.enter-1{
+    display: flex;
+    justify-content: center;
+}
 .section-welcome{
 background-color: rgb(2, 12, 41);
 }
@@ -11,14 +15,26 @@ background-color: rgb(2, 12, 41);
 }
 .N2N-p{
     padding-right: 70px;
-font-size: 16px;
+font-size: 14px;
 font-weight: 400;
+}
+.resp-span-W2W{
+    font-size: 12px;
+    
+
+    font-weight: 600;
+}
+.create-with{
+    padding-bottom: 18px;
+}
+.last-img{
+
 }
 .N1N-h1{
     font-family: "Poppins";
 font-style: italic;
 font-weight: bold;
-font-size: 54px;
+font-size: 64px;
 line-height: 100%;
 /* padding-top: 30px; */
 }
@@ -52,7 +68,7 @@ color:#ED652E;
     font-family: "Poppins";
 font-style: normal;
 font-weight: bold;
-font-size: 90px;
+font-size: 77px;
 line-height: 110%;
 }
 .img-182_N2N{
@@ -61,9 +77,7 @@ line-height: 110%;
 }
 .card-W2W{
     padding-bottom: 0px;
-    margin-left: 180px;
-  height: 290px;
-    margin-right: 93px;
+
     background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%);
 backdrop-filter: blur(90px);
 /* Note: backdrop-filter has minimal browser support */
@@ -99,16 +113,29 @@ padding-top: 34px;
     padding-left: 170px;
     padding-bottom: 300px;
 }
+.welcome-img-1{
+    padding-top: 33px;
+}
 
 @media  screen and (min-width:350px)and (max-width:500px) {
+    .btn-learn{
+        margin: 7px;
+    }
     .welcome-img-1{
         width:200px;
         height:200px;
+        padding-right: 36px;
     }
     .N2N-item {
         padding-top: 15px;
         color: white;
+        padding-left: 4px;
       
+    }
+    .N2N-span {
+       
+        font-size: 8px;
+       
     }
     .N1N-h1 {
         
@@ -221,6 +248,31 @@ margin-left: 10px;
 }
 .img-182_N2N {
   width: 0%;
+}
+}
+@media  screen and (min-width:1450px)and (max-width:1650px) {
+
+.st-colm-1 {
+   padding-left: 50px;
+   margin-left: 0px;  
+   }
+   .st-colm-3 {
+    padding-left: 50px;
+    margin-left: 0px;
+   }
+   .st-colm-2 {
+   padding-left: 50px;
+margin-left: 0px;
+   }
+   .st-colm {
+    margin-left: 4px;
+  
+}
+.inner-img{
+    padding-left: 0px;
+}
+.respo-W2W{
+    padding-left: 4px;
 }
 }
    

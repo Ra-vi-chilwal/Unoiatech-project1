@@ -9,29 +9,30 @@ import Group6174 from "../images/Group6174.png";
 import Group6175 from "../images/Group6175.png";
 import Group6176 from "../images/Group6176.png";
 import Line19 from "../images/Line19.png";
+import Ell179 from "../images/Ell179.png";
 function Coin() {
   return (
     <>
       <div className="Coin">
         <div className="row coin-row">
       
-          <div className="col-4">
+          <div className="col-sm-10 col-xs-10 col-md-4">
             <img className="coin12-p" src={coin12} alt="" />
           </div>
 
-
-          <div className="col-4">
+     
+          <div className="col-sm-10 col-xs-10 col-md-4 coin-build">
             <p className="coin-org">$NRGY ON ETHEREUM</p>
-            <p className="coin-head">A COIN BUILT TO RULE</p>
+            <p className="coin-head">A COIN BUILT TO<br/> RULE</p>
 
-            <p className="NRGY_C2C">
+            <div className="NRGY_C2C">
               <span className="F3F_ptagp">$NRGY on Ethereum</span> is an
               investment coin designed to
-              <br />
+            
               function inside its own ecosystem, providing functional
-              <br />
+             
               liquidity and attractive rewards to stakeholders.
-            </p>
+            </div>
             <div className="coin_p_C2C row">
               <div className="col-2"><img className="G-6173" src={Group6173} alt=""/></div><div className="col-10"><span className="F3F_ptagp">$NRGY</span> is a strong liquid currency that fuels independent developers</div>
             </div>

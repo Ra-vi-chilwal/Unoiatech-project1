@@ -1,6 +1,7 @@
 .F2F-color{
     background-color: rgb(2, 12, 41);
     color: white;
+    padding-top: 121px;
 }
 .row{
     display: flex;
@@ -67,14 +68,25 @@ padding:5px;
     padding-bottom: 0px;
 }
 .vector2-N2N{
-    padding-left: 296px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
 }
 .F3F-body{
     padding-left: 35px;
     padding-top: 40px;
 }
+.vector-2_n{
+    display: flex;
+    justify-content: center;
+}
 .Group61{
-    padding: 156px 40px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding-top: 99px;
    
 }
 @media  screen and (min-width:350px)and (max-width:500px) {
@@ -91,12 +103,11 @@ padding:5px;
     }
     
     .Group61 {
-     padding: 130px 0px;
-     width: 100%;
+      display: none;
+      
     }
     .vector2-N2N {
-        padding-left: 0px;
-        width: 100%;
+       display: none;
     }
     .cryptography {
         padding-left: 33px;
@@ -122,8 +133,11 @@ padding:5px;
 }
 @media  screen and (min-width:1450px)and (max-width:1650px) {
     .Group61 {
-        padding: 156px 155px;
-        
+        margin: auto;
+        left: 0;
+        right: 0;
+        text-align: center;
+        padding-top: 160px;
        }
        .vector2-N2N{
        padding-left: 25%;

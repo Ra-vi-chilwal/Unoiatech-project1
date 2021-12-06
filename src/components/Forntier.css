@@ -12,7 +12,7 @@
 }
 .N2N-span-2{
     font-family: "Poppins";
-    padding-left: 25px;
+    /* padding-left: 25px; */
 font-style: italic;
 font-weight: bold;
 font-size: 16px;
@@ -31,18 +31,21 @@ color:#ED652E;
     justify-content: center;
 }
 .sec-F3F{
-    padding-left: 26px;
+  
+}
+.sec-F3F {
+    padding-left: 25px;
 }
 .head-F3F{
     display: flex;
     text-align: start;
  
-    text-align: center;
     font-family: "Poppins";
 font-style: italic;
 font-weight: bold;
-font-size: 54px;
+font-size: 42px;
 line-height: 120%;
+padding-top: 23px;
 }
 .F3F_ptag{
 
@@ -60,9 +63,16 @@ font-weight: bold;
     padding-top: 216px;
 }
 .F3F-82 {
-    padding-right: 136px;
+  margin: auto;
+  left: 0;
+  right: 0;
+  text-align: center;
     padding-top: 122px;
+    width: 100%;
 
+}
+.vector4{
+    margin-top: -161px;
 }
 .svector{
     /* border: 1px solid rgba(255, 255, 255, 0.3); */
@@ -72,45 +82,47 @@ font-weight: bold;
 }
 @media  screen and (min-width:350px)and (max-width:500px) {
     .F3F-82 {
-        width: 100%;
-        padding-top: 38px;
+       display: none;
     }
     .head-F3F {
-        
-        font-size: 17px;
+        display: flex;
+    justify-content: center;
+        font-size: 35px;
         line-height: 99%;
+        padding-top: 23px;
     }
     .F3F_ptag {
       
-        font-size: 7px;
+        font-size: 14px;
         line-height: 128%;
+        /* display: flex; */
+        text-align: center;
+        padding-top: 23px;
     }
     .sec-F3F {
-         padding-left: 0px;
-        
+        padding-left: 0px;
     }
     .group12{
         display: none;
     }
     .security{
-        width: 137%;
+        width: 98%;
     padding-top: 0px;
     padding-left: 0px;
     }
     .N2N-span-2 {
-        
-        font-size: 8px;
+       padding-left: 96px;
+    
+        font-size: 13px;
       
     }
     .Forntier-F3F {
-        padding-top: 47px;
+        padding-top: 0px;
     }
    
 
 .vector-492 {
-    padding-top: 416px;
-    padding-left: 114px;
-    width: 77%;
+   display: none;
 
 }
 
@@ -118,16 +130,20 @@ font-weight: bold;
     padding-top: 100px;
 }
 .ell-8-1{
-    width:100%;
+  display: none;
 }
 .svector{
-width:36%;
+display: none;
 }   
+.coin12-p {
+ width: 100%;
+     padding-top: 0px;
+}
     
 }
-@media  screen and (min-width:1450px)and (max-width:1650px) {
+@media  screen and (min-width:1390px)and (max-width:1650px) {
     .sec-F3F {
-        padding-left: 105px;
+        padding-left: 55px;
     }
     .vector-492 {
         padding-top: 682px;

@@ -1,0 +1,33 @@
+.Rewards{
+    background: linear-gradient(180deg, #010D28 0%, #1A1521 100%);
+    color: #FFFFFF;
+}
+.bg-R2R2{
+  
+    padding: 21px; 
+background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%);
+backdrop-filter: blur(120px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 20px;
+}
+.R2R-min{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 90px;
+    line-height: 110%;
+    color: #3CEBC8;
+}
+.R2R-min-2{
+
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 120%;
+}
+.R2R-min-6{
+    font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 160%;
+}

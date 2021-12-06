@@ -29,7 +29,7 @@ function Finiancialsystem() {
         
         <div className="pt-5 row">
        
-        <div class="position-absolute">
+        <div class="position-absolute vector-2_n">
    
             <img  class="vector2-N2N" src={vector2} alt=""/>
             </div>

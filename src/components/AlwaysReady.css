@@ -1,0 +1,140 @@
+.AlwaysReady{
+background-color: rgb(2, 12, 41);
+}
+.Always-row{
+    padding-left: 181px;
+}
+.NGRYGO_A2A{
+    font-weight: bold;
+}
+
+.Benefits-A1A{
+    
+ padding-left: 176px;
+
+}
+.Benefit-A1A{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 120%;
+    /* padding-left: 66px; */
+    color: #FFFFFF;
+}
+.coin_p_C2A{
+    font-size: 14px;
+    /* padding-left: 50px; */
+}
+.img-El8{
+    padding-left: 358px;
+}
+.card-W2W5{
+    padding: 24px;
+    margin-right: 86px;
+    margin-left: 90px;
+    background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.114) 5.43%, rgba(255, 255, 255, 0.024) 88.67%);
+backdrop-filter: blur(120px);
+border-radius: 34px;
+}
+.pancak{
+    font-family: "Montserrat";
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 140%;
+color: #FFFFFF;
+}
+.btn-get-nrgy-2 {
+    background: linear-gradient(
+98.56deg, #ED652E -21.77%, #EB5214 106%);
+    box-shadow: 10px 14px 34px rgb(237 101 46 / 30%);
+    border-radius: 64px;
+    padding: 14px 38px 14px 38px;
+    /* border: 1px solid #ED652E; */
+    color: white;
+    /* font-weight: 700; */
+}
+.NARGYGO-A5A{
+    display: flex;
+    justify-content: end;
+}
+.p_a3a{
+padding-left: 12px;
+}
+.G-6171{
+    padding-right: 12px;
+}
+.img-ring{
+    padding-left: 112px;
+    padding-top: 39px;
+    max-width: 92%;
+}
+
+.A2A-org{
+    font-family: "Poppins";
+    font-style: italic;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 110%;
+    color:#ED652E;
+    text-shadow: 3px 4px 54px rgba(255, 255, 255, 0.3);
+}
+.the-coin-A2A{
+  color: #FFFFFF; 
+font-style: italic;
+font-weight: bold;
+font-size: 48px;
+line-height: 120%;
+}
+.coin-A2A{
+    padding-top: 361px;
+}
+@media  screen and (min-width:350px)and (max-width:500px) {
+    .mix-always{
+        font-size: 8px;
+    }
+    .coin-A2A {
+        padding-top: 85px;
+    }
+    .the-coin-A2A {
+      
+        font-size: 20px;
+       
+    }
+    .A2A-org {
+       
+        font-size: 16px;
+      
+    }
+     .Benefits-A1A {
+        padding-left: 16px;
+    }
+
+.Benefit-A1A {
+   
+    font-size: 10px;
+  
+}
+
+ .coin_p_C2A {
+    font-size: 7px;
+    /* width: 38px; */
+  
+} 
+.G-6171 {
+   width: 28px;
+}
+.coin-A2A {
+    padding-top: 190px;
+}
+.card-W2W5 {
+   
+   margin-right: 0px;
+}
+.btn-get-nrgy-2 {
+ 
+    padding: 3px 18px 3px 18px;
+    /* border: 1px solid #ED652E; */
+  
+}
+}

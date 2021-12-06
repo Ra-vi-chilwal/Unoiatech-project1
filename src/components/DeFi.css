@@ -1,41 +1,67 @@
 .Defi{
     background-color: rgb(2, 12, 41)!important;
     color:white;
-    padding-top: 200px;
+    padding-top: 327px;
 }
 .Line19_D2D{
 padding-top: 132px;
 }
-
+.img-Ekk175{
+    padding-top: 320px;
+}
 .D2D-show{
    display: inline;
    padding-right: 396;
 }
+.THEREADY{
+    padding-top: 162px;
+}
 .card-W2W2{
-    padding-bottom: 0px;
-    margin-left: 180px;
-  height: 514px;
-    margin-right: 93px;
+    padding-bottom: 29px;
+
     background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%);
 backdrop-filter: blur(90px);
 /* Note: backdrop-filter has minimal browser support */
 
 border-radius: 35px;
 }
+.demo-card{
+    padding-top: 20px;
+}
 .Show-Current{
-    
+    padding-left: 39px; 
 }
 .r2-N2N{
     padding: 24px;
  
-    padding-top: 71px;
+    padding-top: 173px;
 
+}
+.col-btn{
+    padding-left: 24px;
+}
+.btn-get-nrgy-2{
+    background: linear-gradient(98.56deg, #ED652E -21.77%, #EB5214 106%);
+    box-shadow: 10px 14px 34px rgba(237, 101, 46, 0.3);
+    border-radius: 64px;
+    padding:11px 40px 11px 40px;
+    /* border: 1px solid #ED652E; */
+    color: white;
+    font-weight: 700;
+}
+
+
+.btn-learn-2 {
+    border-radius: 64px;
+    /* margin-left: 40px; */
+    padding: 14px 24px 14px 24px;
 }
 .Defi-D2D{
 font-style: italic;
 font-weight: bold;
 font-size: 48px;
 line-height: 120%;
+padding-left: 39px;
 }
 .Defi-tomato{
     text-shadow: 3px 4px 54px rgba(255, 255, 255, 0.3);
@@ -50,4 +76,71 @@ line-height: 110%;
 .btn-D2D{
     display: flex;
     justify-content: end;
+}
+@media  screen and (min-width:350px)and (max-width:500px) {
+    .G-6174{
+        width: 100%;
+    }
+    .Line19_D2D {
+        padding-top: 46px;
+    }
+    .Defi-tomato {
+       
+        font-size: 12px;
+      
+    }
+    .btn-pdd {
+        padding-top: 23px;
+    }
+    .col-btn{
+        display: flex;
+        justify-content: center;
+    }
+    .btn-get-nrgy-2{
+        background: linear-gradient(98.56deg, #ED652E -21.77%, #EB5214 106%);
+        box-shadow: 10px 14px 34px rgba(237, 101, 46, 0.3);
+        border-radius: 64px;
+        padding:11px 32px 11px 32px;
+        margin-left: 12px;
+        /* border: 1px solid #ED652E; */
+        color: white;
+        font-weight: 700;
+    }
+    .Defi-D2D {
+       
+        font-size: 28px;
+      
+}
+.mix-show{
+    font-size: 17px;
+}
+.btn-learn-2 {
+  
+    margin: 10px;
+    padding: 7px 18px 9px 18px;
+}
+.N2N-font {
+    font-size: 8px;
+    padding: 3px 10px;
+    font-weight: 700;
+}
+.THEREAD-1 {
+    padding-top: 109px;
+    width:100%
+}
+
+.A2A-org {
+   
+    font-size: 8px;
+  
+}
+.the-coin-A2A {
+    
+    font-size: 20px;
+   
+}
+.img-Ekk175 {
+    padding-top: 361px;
+    width:43%;
+}
 }

@@ -1,10 +1,34 @@
 .Rewards{
     background: linear-gradient(180deg, #010D28 0%, #1A1521 100%);
     color: #FFFFFF;
+    padding-top: 255px;
 }
+.gp-R2R{
+    padding-top: 122px;
+}
+.center-card-R2R{
+    padding-top: 122px;
+   
+    margin-left: 12px;
+}
+.classic-12{
+    padding-top: 111px;
+}
+.bg-R2R2-1{
+   
+    padding: 11px; 
+background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%);
+backdrop-filter: blur(120px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 20px;
+}
+
+
 .bg-R2R2{
-  
-    padding: 21px; 
+    margin-left: 33px;
+    margin-top: 6px;
+    padding: 11px;
 background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%);
 backdrop-filter: blur(120px);
 /* Note: backdrop-filter has minimal browser support */
@@ -14,9 +38,19 @@ border-radius: 20px;
 .R2R-min{
     font-style: normal;
     font-weight: bold;
-    font-size: 90px;
+    font-size: 73px;
     line-height: 110%;
     color: #3CEBC8;
+}
+.btn-get-nrgy-4{
+    width: 169px;
+    border-radius: 64px;
+    padding: 9px 27px 9px 27px;
+    border: 1px solid white;
+    color: white;
+    font-weight: 700;
+    margin: 12px;
+
 }
 .R2R-min-2{
 
@@ -25,9 +59,60 @@ font-weight: bold;
 font-size: 20px;
 line-height: 120%;
 }
+.vector4923{
+    padding-top: 66px;
+}
+.elli342{
+    padding-top: 12px;
+}
+
+.R3R-para{
+    font-size: 12px;
+    color: white;
+}
 .R2R-min-6{
+    padding-top: 15px;
     font-style: normal;
 font-weight: normal;
-font-size: 14px;
+font-size: 12px;
 line-height: 160%;
+}
+@media  screen and (min-width:350px)and (max-width:500px) {
+    .Rewards {
+   
+        padding-top:5px;
+    }
+    .R3R-para {
+        font-size: 12px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+}
+.center-card-R2R {
+     padding-top: 0px;
+    margin-left: 12px;
+}
+
+
+.bg-R2R2 {
+    margin-left: 196px;
+    margin-top: 5px;
+    height: 310px;
+ 
+}
+.elli342{
+    display: none;
+}
+
+.bg-R2R2-1 {
+    margin-top: 7px;
+}
+.vector4923 {
+   display: none;
+}
+.buttn-5{
+    display: flex;
+    justify-content: center;
+}
 }

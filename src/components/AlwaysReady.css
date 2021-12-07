@@ -7,6 +7,10 @@ background-color: rgb(2, 12, 41);
 .NGRYGO_A2A{
     font-weight: bold;
 }
+.nfryf{
+    padding-top: 38px;
+    margin-right: -189px;
+    }
 
 .Benefits-A1A{
     
@@ -64,6 +68,7 @@ padding-left: 12px;
 .G-6171{
     padding-right: 12px;
 }
+
 .img-ring{
     padding-left: 112px;
     padding-top: 39px;
@@ -87,7 +92,7 @@ font-size: 48px;
 line-height: 120%;
 }
 .coin-A2A{
-    padding-top: 361px;
+    padding-top: 200px;
 }
 @media  screen and (min-width:350px)and (max-width:500px) {
     .mix-always{
@@ -98,43 +103,75 @@ line-height: 120%;
     }
     .the-coin-A2A {
       
-        font-size: 20px;
+        font-size: 33px;
+        display: flex;
+        justify-content: center;
+    
        
     }
+
+.img-ring {
+  display: none;
+}
+
+
+   
+
+.p_a3a {
+    padding-left: 12px;
+    font-size: 13px;
+    padding-top: 20px;
+}
     .A2A-org {
-       
+        padding-top: 56px;
         font-size: 16px;
-      
+        display: flex;
+        justify-content: center;
     }
      .Benefits-A1A {
         padding-left: 16px;
     }
-
+    .Always-row {
+        padding-left: 0px; 
+   }
 .Benefit-A1A {
-   
-    font-size: 10px;
+    padding-top: 38px;
+    font-size: 17px;
+    text-align: center;
   
 }
 
  .coin_p_C2A {
-    font-size: 7px;
+    font-size: 13px;
     /* width: 38px; */
   
 } 
 .G-6171 {
-   width: 28px;
+    padding-top: 26px;
+    width: 44px;
 }
 .coin-A2A {
     padding-top: 190px;
 }
+
 .card-W2W5 {
    
    margin-right: 0px;
+   margin-left: 0px;
 }
 .btn-get-nrgy-2 {
  
     padding: 3px 18px 3px 18px;
+    margin: 28px;
     /* border: 1px solid #ED652E; */
   
+}
+.NGRYGO_A3A{
+    font-size: 14px;
+    text-align: center;
+}
+.Every-trs{
+    padding-top: 23px;
+
 }
 }

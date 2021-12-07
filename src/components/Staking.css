@@ -1,7 +1,41 @@
 .staking{
     background-color: rgb(2, 12, 41);
+    padding-top: 400px;
 }
 .img-bgg-1{
     background: linear-gradient(146.74deg, rgba(232, 104, 57, 0.5) 21.86%, rgba(97, 121, 249, 0.5) 72.55%);
 filter: blur(650px);
+}
+.img-bgg{
+    width: 100%;
+   
+}
+.img-176_S2S{
+    padding-top: 272px;
+}
+
+@media  screen and (min-width:350px)and (max-width:500px) {
+    .welcome-img-2{
+        width:300px;
+    }
+    .ellipse177-S2S{
+        display: none;
+    }
+    .etih-rin {
+       display: none;
+    }
+    .pin-ball {
+      display: none; 
+    }
+    .img-bgg-1{
+        display: none;
+    }
+    .img-bgg{
+       display: none;
+       
+    }
+    .staking {
+        background-color: rgb(2, 12, 41);
+     padding-top: 100px;
+    }
 }

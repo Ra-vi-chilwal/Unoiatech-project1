@@ -14,7 +14,7 @@ padding-top: 132px;
    padding-right: 396;
 }
 .THEREADY{
-    padding-top: 162px;
+    padding-top: 10px;
 }
 .card-W2W2{
     padding-bottom: 29px;
@@ -133,6 +133,11 @@ line-height: 110%;
    
     font-size: 8px;
   
+}
+.THEREADY {
+    padding-top: 248px;
+    padding-right: 23px;
+    margin-right: 6px;
 }
 .the-coin-A2A {
     

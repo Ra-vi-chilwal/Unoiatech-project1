@@ -18,11 +18,10 @@ function App() {
       <Forntier />
      <Coin />
     <DeFi /> 
-  
-    {/* <AlwaysReady />
-    <Nrgyon /> */}
-      {/*<Staking />
-    <Rewards />  */}
+     <AlwaysReady />
+    <Nrgyon />  
+    <Staking />
+    <Rewards /> 
     </div>
   );
 }

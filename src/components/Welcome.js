@@ -21,15 +21,15 @@ function Welcome() {
 
           <div className="col-sm-6 N2N-item">
             <div>
-              <span className="N2N-span">WELCOME TO NRGY</span>
+              <span className="N2N-span pt-4">WELCOME TO NRGY</span>
             </div>
-            <span className="pt-5 N1N-h1">
+            <span className="pt-4 N1N-h1">
               {" "}
               A BETTER <br /> FINANCIAL <br/>SYSTEM FOR <br />
               EVERYONE
             </span>
 
-            <p className="N2N-NRGY pt-5">
+            <p className="N2N-NRGY pt-4">
               NRGY is the future of decentralized finance, a one-of-a-kind<br/>
               distributed business building platform that enables the creation
               of <br/>decentralized apps (DApps). NRGY leverages the power of its<br/>

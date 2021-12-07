@@ -182,6 +182,7 @@ padding-top: 34px;
         text-align: center;
         font-size: 13px;
         line-height: 166%;
+        justify-content: center;
     }
     .btn-get-nrgy-1{
         background: linear-gradient(98.56deg, #ED652E -21.77%, #EB5214 106%);

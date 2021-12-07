@@ -27,6 +27,7 @@ line-height: 120%;
 }
 .coin_p_C2C{
     font-size: 14px;
+    padding-top: 20px;
 }
 .see-on{
 
@@ -63,9 +64,7 @@ border-radius: 4px;
         justify-content: center;
       
 }
-.btn-pdd {
-    padding-top: 23px;
-}
+
 .vector490{
     display: none;
 }

@@ -13,6 +13,9 @@ import "./Welcome.css";
 function Welcome() {
   return (
     <>
+    <div class="position-absolute end-0">
+              <img className="ellip08" src={Ellipse8} alt="" />
+            </div>
       <section className="section-welcome">
         <div className="row enter-1">
           <div className="col-sm-6 welcol">
@@ -28,7 +31,7 @@ function Welcome() {
               A BETTER <br /> FINANCIAL <br/>SYSTEM FOR <br />
               EVERYONE
             </span>
-
+            
             <p className="N2N-NRGY pt-4">
               NRGY is the future of decentralized finance, a one-of-a-kind<br/>
               distributed business building platform that enables the creation
@@ -47,9 +50,7 @@ function Welcome() {
                 <span className="N2N-font">LERN MORE</span>
               </button>
             </div>
-            <div class="position-absolute end-0">
-              <img className="ellip08" src={Ellipse8} alt="" />
-            </div>
+         
             <div class="position-absolute end-0">
               <img class="ellip09" src={Ellipse174} alt="" />
             </div>
@@ -101,6 +102,9 @@ function Welcome() {
                 <div className="col-2 st-colm-3">
                   <div class="position-absolute end-0 top-0">
                     <img class="img-182_N2N" src={Ellipse182} alt="" />
+                  </div>
+                  <div class="position-absolute start-0 top-0">
+                    <img class="img-182_N2N" src={Ellipse181} alt="" />
                   </div>
                   <div className="last-img">
                     <div className="inner-img">

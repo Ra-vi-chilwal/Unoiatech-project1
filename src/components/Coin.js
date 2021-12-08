@@ -15,26 +15,33 @@ function Coin() {
     <>
       <div className="Coin">
         <div className="row coin-row">
-      
-          <div className="col-sm-10 col-xs-10 col-md-4">
+        
+          <div className="col-sm-10 col-xs-10 col-md-5">
             <img className="coin12-p" src={coin12} alt="" />
           </div>
 
-     
+          
           <div className="col-sm-10 col-xs-10 col-md-4 coin-build">
             <p className="coin-org">$NRGY ON ETHEREUM</p>
-            <p className="coin-head">A COIN BUILT TO<br/> RULE</p>
+            <p className="coin-head">
+              A COIN BUILT TO
+              <br /> RULE
+            </p>
 
             <div className="NRGY_C2C">
               <span className="F3F_ptagp">$NRGY on Ethereum</span> is an
-              investment coin designed to
-            
-              function inside its own ecosystem, providing functional
-             
-              liquidity and attractive rewards to stakeholders.
+              investment coin designed to function inside its own ecosystem,
+              providing functional liquidity and attractive rewards to
+              stakeholders.
             </div>
             <div className="coin_p_C2C row">
-              <div className="col-2"><img className="G-6173" src={Group6173} alt=""/></div><div className="col-10"><span className="F3F_ptagp">$NRGY</span> is a strong liquid currency that fuels independent developers</div>
+              <div className="col-2">
+                <img className="G-6173" src={Group6173} alt="" />
+              </div>
+              <div className="col-10">
+                <span className="F3F_ptagp">$NRGY</span> is a strong liquid
+                currency that fuels independent developers
+              </div>
             </div>
             <br />
             <div className="coin_p_C2C row">
@@ -47,22 +54,20 @@ function Coin() {
                 and robust reward system.
               </div>
             </div>
-            <p className=" see-on text-align-start">See On</p>
-            <div className="coin_p_C2C coin-img-2 row">
+            <p className=" see-on text-align-start">See On:</p>
+            <div className="coin_p_C2C-1 coin-img-2 row">
               <div className=" col-2 text-align-center">
                 <img className=" img-gol" src={image2} alt="" />
               </div>
-              <div className=" img-gol-1 col-10 pt-2">
+              <div className=" img-gol-1 col-10">
                 https://v2.info.uniswap.org/pair/0x51bf9908dac4a283
                 <br />
                 d017edc071d954ec3a4b1376
               </div>
             </div>
           </div>
-        
+          <div className="col-sm-0 col-xs-0 col-md-1"></div>
         </div>
-
-     
       </div>
     </>
   );

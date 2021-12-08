@@ -2,7 +2,11 @@
 background-color: rgb(2, 12, 41);
 }
 .Always-row{
-    padding-left: 181px;
+    padding-left: 99px;
+    padding-top: 52px;
+}
+.THECOIN_23{
+    padding-top: 230px;
 }
 .NGRYGO_A2A{
     font-weight: bold;
@@ -14,7 +18,7 @@ background-color: rgb(2, 12, 41);
 
 .Benefits-A1A{
     
- padding-left: 176px;
+ padding-left: 209px;
 
 }
 .Benefit-A1A{
@@ -53,7 +57,7 @@ color: #FFFFFF;
 98.56deg, #ED652E -21.77%, #EB5214 106%);
     box-shadow: 10px 14px 34px rgb(237 101 46 / 30%);
     border-radius: 64px;
-    padding: 14px 38px 14px 38px;
+    padding: 14px 27px 14px 27px;
     /* border: 1px solid #ED652E; */
     color: white;
     /* font-weight: 700; */
@@ -113,7 +117,10 @@ line-height: 120%;
 .img-ring {
   display: none;
 }
-
+.THECOIN_23 {
+     padding-top: 0px;
+     padding-left: 27px;
+}
 
    
 

@@ -50,8 +50,9 @@ line-height: 120%;
     /* font-family: "Montserrat"; */
 font-style: normal;
 font-weight: normal;
-font-size: 16px;
+font-size: 14px;
 line-height: 160%;
+padding-top: 14px;
 }
 .min-4{
     font-style: normal;

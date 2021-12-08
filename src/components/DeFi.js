@@ -7,7 +7,7 @@ import vector from "../images/Vector3.png";
 import "./DeFi.css";
 import Ell175 from "../images/Ell175.png";
 import Ell179 from "../images/Ell179.png";
-import THECOIN from "../images/THEREADY2.png";
+
 import Vector493 from "../images/Vector493.png";
 function DeFi() {
   return (
@@ -20,9 +20,7 @@ function DeFi() {
         <div class="position-absolute start-0">
           <img class="img-fluid img-Ekk175" src={Ell175} alt="" />
         </div>
-        <div className="position-absolute THEREADY">
-          <img className="THEREAD-1" src={THECOIN} alt="" />
-        </div>
+       
         <div className="container">
           <div className="pt-3 card card-W2W2">
             <div className="demo-card">
@@ -58,7 +56,7 @@ function DeFi() {
                     SHOW CURRENT SUPPLY 104k with a<br /> MAX of 4.3 million
                   </span>
                 </div>
-                <div className="col-md-3 btn-pdd col-btn">
+                <div className="col-md-2 btn-pdd col-btn">
                   <button class="btn btn-get-nrgy-2" type="submit">
                     <img src={vector} alt="" />
                     <span className="N2N-font">GET NRGY</span>

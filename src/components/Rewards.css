@@ -12,11 +12,11 @@
     margin-left: 12px;
 }
 .classic-12{
-    padding-top: 111px;
+    padding-top: 177px;
 }
 .bg-R2R2-1{
    
-    padding: 11px; 
+    padding: 16px; 
 background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%);
 backdrop-filter: blur(120px);
 /* Note: backdrop-filter has minimal browser support */
@@ -38,7 +38,7 @@ border-radius: 20px;
 .R2R-min{
     font-style: normal;
     font-weight: bold;
-    font-size: 73px;
+    font-size: 90px;
     line-height: 110%;
     color: #3CEBC8;
 }
@@ -59,22 +59,31 @@ font-weight: bold;
 font-size: 20px;
 line-height: 120%;
 }
+.classic-row1{
+    padding-top: 72px;
+}
 .vector4923{
     padding-top: 66px;
 }
+.read_top{
+    padding-top: 249px;
+}
+.T2T_head{
+    padding-top: 220px;
+}
 .elli342{
-    padding-top: 12px;
+    padding-top: 25px;
 }
 
 .R3R-para{
-    font-size: 12px;
+    font-size: 15px;
     color: white;
 }
 .R2R-min-6{
-    padding-top: 15px;
+    padding-top: 20px;
     font-style: normal;
 font-weight: normal;
-font-size: 12px;
+font-size: 14px;
 line-height: 160%;
 }
 @media  screen and (min-width:350px)and (max-width:500px) {
@@ -96,9 +105,9 @@ line-height: 160%;
 
 
 .bg-R2R2 {
-    margin-left: 196px;
+    margin-left: 236px;
     margin-top: 5px;
-    height: 310px;
+    height: 357px;
  
 }
 .elli342{
@@ -116,3 +125,4 @@ line-height: 160%;
     justify-content: center;
 }
 }
+/* techmology section................................................................................................ */

@@ -36,7 +36,7 @@ function Forntier(){
         </div>
        
         <div>
-            <p className="F3F_ptag">A high-value digital asset designed to secure the future <br/>-- $NRGY is a strong, liquid cryptocurrency token that <br/>fuels powerful new DeFi innovations.<br/>
+            <p className="F3F_ptag">A high-value digital asset designed to secure the future <br/><span className="F3F_ptagp">-- $NRGY</span> is a strong, liquid cryptocurrency token that <br/>fuels powerful new DeFi innovations.<br/>
             <br/>
              Fair market principals from the start, are used to <br/><span className="F3F_ptagp">promote deep liquidity of $NRGY to ensure capital<br/> input is proportional to the supply.</span></p>
         </div>
@@ -50,11 +50,16 @@ function Forntier(){
    <img  className="" src={Ellipse181} alt=""/>
    
    </div>
-   
+ 
 <div className="sec-F3F">
     <img className="security" src={SECURING} alt=""/>
 </div>
+        <div class="position-absolute start-0">
    
+   <img  className="svector" src={svector49} alt=""/>
+   
+  
+   </div>
    <div class="position-absolute end-0 vector4">
    
    <img  className="vector-492" src={Vector492} alt=""/>
@@ -64,12 +69,7 @@ function Forntier(){
      
     
        </div>
-       <div class="position-absolute start-0">
-   
-   <img  className="svector" src={svector49} alt=""/>
-   
-  
-   </div>
+    
        </div>
         </>
     )

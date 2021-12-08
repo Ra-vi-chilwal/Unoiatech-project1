@@ -9,6 +9,7 @@ import AlwaysReady from './components/AlwaysReady';
 import Nrgyon from './components/Nrgyon';
 import Staking from "./components/Staking";
 import Rewards from "./components/Rewards";
+import Technology from "./components/Technology";
 function App() {
   return (
     <div className="App">
@@ -22,6 +23,7 @@ function App() {
     <Nrgyon />  
     <Staking />
     <Rewards /> 
+    <Technology />
     </div>
   );
 }

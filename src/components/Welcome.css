@@ -21,11 +21,11 @@ background-color: rgb(2, 12, 41);
 }
 .N2N-p{
     padding-right: 70px;
-font-size: 14px;
+font-size: 16px;
 font-weight: 400;
 }
 .resp-span-W2W{
-    font-size: 12px;
+    font-size: 16px;
     
 
     font-weight: 600;
@@ -104,7 +104,7 @@ backdrop-filter: blur(90px);
 border-radius: 35px;
 }
 .st-colm{
-margin-left:51px;
+margin-left:0px;
 padding-top: 48px;
 }
 .st-colm-3{

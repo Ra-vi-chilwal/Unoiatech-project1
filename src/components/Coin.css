@@ -27,7 +27,15 @@ line-height: 120%;
 }
 .coin_p_C2C{
     font-size: 14px;
-    padding-top: 20px;
+    padding: 12px;
+}
+.img-gol-1{
+    padding-top: 9px;
+}
+.coin_p_C2C-1{
+font-size: 13px;
+padding-bottom: 8px;
+border: 1px solid;
 }
 .see-on{
 
@@ -45,14 +53,14 @@ border-radius: 4px;
 }
 
 .coin12-p{
-    width:100%;
+    width:83%;
     padding-top: 90px;
 }
 
 
 .see-on {
    
-    font-size: 18px;
+    font-size: 14px;
     padding-top: 33px;
     padding-left: 26px;
 }

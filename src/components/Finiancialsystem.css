@@ -15,7 +15,7 @@ font-style: italic;
 font-weight: bold;
 font-size: 54px;
 line-height: 120%;
-padding-right: 124px;
+position: relative;
 }
 .F2F-org{
     color:#ED652E;
@@ -44,6 +44,7 @@ font-weight: bold;
 background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.076) 5.43%, rgba(255, 255, 255, 0.016) 88.67%);
 backdrop-filter: blur(90px);
     border-radius: 34px;
+    border: 1px solid white;
    
 }
 #cryptography-body{
@@ -59,7 +60,7 @@ backdrop-filter: blur(90px);
 display: inline-block;
 border-radius: 10px;
 padding:5px;
-
+border: 1px solid white;
 }
 #body-distribution{
     padding-bottom: 39px;
@@ -86,7 +87,7 @@ padding:5px;
     left: 0;
     right: 0;
     text-align: center;
-    padding-top: 99px;
+    padding-top: 168px;
    
 }
 @media  screen and (min-width:350px)and (max-width:500px) {

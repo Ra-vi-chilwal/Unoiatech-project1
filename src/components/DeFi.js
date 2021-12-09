@@ -56,7 +56,7 @@ function DeFi() {
                     SHOW CURRENT SUPPLY 104k with a<br /> MAX of 4.3 million
                   </span>
                 </div>
-                <div className="col-md-2 btn-pdd col-btn">
+                <div className="col-md-2 btn-pdd col-btn position-relative">
                   <button class="btn btn-get-nrgy-2" type="submit">
                     <img src={vector} alt="" />
                     <span className="N2N-font">GET NRGY</span>

@@ -21,26 +21,26 @@ function Rewards() {
             <div className="col-md-4 col-sm-6 col-xs-6 classic-12">
               <div>
                 <span className="N2N-span-1 position-relative">
-                  Where Do <br /> Rewards Come <br /> From?
+                  Where Do <br className="mobile40" /> Rewards Come <br className="mobile40" /> From?
                 </span>
-                <br />
+                <br className="mobile40" />
                 <div className="pt-3">
                   <span className=" R3R-para">
                     Market Maker Staking algorithm targets a 4%
-                    <br />
+                    <br className="mobile40" />
                     compounded weekly yield as new coins are
-                    <br />
+                    <br className="mobile40" />
                     minted. Each coin minted into circulation
-                    <br /> from Market Maker Stakers (MMS) creates an <br />
+                    <br className="mobile40" /> from Market Maker Stakers (MMS) creates an <br className="mobile40" />
                     equal reward paid to stakers over a three
-                    <br /> week period.
+                    <br className="mobile40" /> week period.
                   </span>
                 </div>
-                <br />
+                <br className="mobile40" />
                 <div className="pt-3">
                   <span className=" N2N-span-3">
                     Staking rewards are generated and distributed to
-                    <br />
+                    <br className="mobile40" />
                     staked NRGY holders in three ways:
                   </span>
                 </div>
@@ -54,7 +54,7 @@ function Rewards() {
 
             <div className="col-md-4 col-xs-6 col-sm-6">
               <div className="row classic-row1">
-                <div className="col-6">
+                <div className="col-md-6 col-sm-12 col-xs-12">
                   <div class="position-absolute end-0">
                     <img class="img-fluid vector4923" src={Vector4923} alt="" />
                   </div>
@@ -63,35 +63,35 @@ function Rewards() {
                     <span className="R2R-min">4%</span>
                     <span className="R2R-min-2">
                       Minting Reward
-                      <br /> Target
+                      <br className="mobile40" /> Target
                     </span>
                     <span className="R2R-min-6">
-                      NRGY minted through Market <br />
+                      NRGY minted through Market <br className="mobile40" />
                       Maker Staking (MMS)
-                      <br />
-                      producing up to a targeted <br />
+                      <br className="mobile40" />
+                      producing up to a targeted <br className="mobile40" />
                       4% weekly rewards over 100
-                      <br /> weeks.
+                      <br className="mobile40" /> weeks.
                     </span>
                   </div>
                 </div>
-                <div className="col-xs-6 col-sm-6 col-md-4 center-card-R2R">
+                <div className="col-xs-12 col-sm-12 col-md-4 center-card-R2R">
                   <div class="card  bg-R2R2-1 position-absolute">
                     <span className="R2R-min ">20%</span>
                     <span className="R2R-min-2">
-                      DApp Royalty <br />
+                      DApp Royalty <br className="mobile40" />
                       Rewards
                     </span>
                     <span className="R2R-min-6">
                       Decentralized Applications
-                      <br /> built on NRGY share
-                      <br /> produced royalty revenues
-                      <br />
+                      <br className="mobile40" /> built on NRGY share
+                      <br className="mobile40" /> produced royalty revenues
+                      <br className="mobile40" />
                       with NRGY stakers.
-                      <br />
+                      <br className="mobile40" />
                       *must stake 25 coins or
-                      <br /> more to share in DApp
-                      <br /> Rewards
+                      <br className="mobile40" /> more to share in DApp
+                      <br className="mobile40" /> Rewards
                     </span>
                   </div>
                 </div>
@@ -99,18 +99,19 @@ function Rewards() {
               <div class="position-absolute">
                 <img class="img-fluid elli342" src={Ellipse342} alt="" />
               </div>
-              <div class="card bg-R2R2 w-50">
+               {/* <div className="col-xs-12 col-sm-12 col-md-4 center-card-R2R"></div> */}
+              <div class="card bg-R2R2">
                 <span className="R2R-min">25%</span>
                 <span className="R2R-min-2">
-                  Builder Referral <br />
+                  Builder Referral <br className="mobile40" />
                   Rewards
                 </span>
                 <span className="R2R-min-6">
                   NRGY incorporates the first
-                  <br /> fully decentralized <br />
+                  <br className="mobile40" /> fully decentralized <br className="mobile40" />
                   distribution network (DDN)
-                  <br />
-                  with built-in referral rewards <br />
+                  <br className="mobile40" />
+                  with built-in referral rewards <br className="mobile40" />
                   and market incentives.
                 </span>
               </div>
@@ -128,22 +129,22 @@ function Rewards() {
             <div className="pt-3 T2T_head">
               <p className="N2N-span-1">
                 TECHNOLOGY INVISIBLE TO
-                <br /> SEE, IMPOSSIBLE TO
-                <br /> IGNORE.{" "}
+                <br className="mobile40" /> SEE, IMPOSSIBLE TO
+                <br className="mobile40" /> IGNORE.{" "}
               </p>
             </div>
             <div className="pt-5">
               <p>
                 Serving as the world’s first truly decentralized financial
                 system and
-                <br /> economy, NRGY utilizes the Interplanetary File System
+                <br className="mobile40" /> economy, NRGY utilizes the Interplanetary File System
                 (IPFS) to
-                <br /> deliver a faster, safer, and more reliable web
+                <br className="mobile40" /> deliver a faster, safer, and more reliable web
                 experience. NRGY
-                <br />
+                <br className="mobile40" />
                 provides vital services through its powerful DeFi financial
                 system,
-                <br /> decentralized distribution network, and application
+                <br className="mobile40" /> decentralized distribution network, and application
                 economy.
               </p>
             </div>
@@ -166,7 +167,7 @@ function Rewards() {
             <div>
               <p>
                 NRGY is a one-of-a-kind distributed building platform for
-                <br />
+                <br className="mobile40" />
                 independently run decentralized applications (dapps).{" "}
               </p>
             </div>
@@ -177,7 +178,7 @@ function Rewards() {
               <div className="pl-1 col-11 text-light p_a3a">
                 <p>
                   Reduction of available
-                  <span className="F3F_ptagp">$NRGY</span> supply helps <br />
+                  <span className="F3F_ptagp">$NRGY</span> supply helps <br className="mobile40" />
                   increase long-term value
                 </p>
               </div>
@@ -193,7 +194,7 @@ function Rewards() {
             <div>
               <p>
                 NRGY is a one-of-a-kind distributed building platform for
-                <br />
+                <br className="mobile40" />
                 independently run decentralized applications (dapps).{" "}
               </p>
             </div>
@@ -204,7 +205,7 @@ function Rewards() {
               <div className="pl-1 col-11 text-light p_a3a">
                 <p>
                   Reduction of available
-                  <span className="F3F_ptagp">$NRGY</span> supply helps <br />
+                  <span className="F3F_ptagp">$NRGY</span> supply helps <br className="mobile40" />
                   increase long-term value
                 </p>
               </div>
@@ -221,7 +222,7 @@ function Rewards() {
             <div>
               <p>
                 NRGY is a one-of-a-kind distributed building platform for
-                <br />
+                <br className="mobile40" />
                 independently run decentralized applications (dapps).{" "}
               </p>
             </div>
@@ -232,7 +233,7 @@ function Rewards() {
               <div className="pl-1 col-11 text-light p_a3a">
                 <p>
                   Reduction of available
-                  <span className="F3F_ptagp">$NRGY</span> supply helps <br />
+                  <span className="F3F_ptagp">$NRGY</span> supply helps <br className="mobile40" />
                   increase long-term value
                 </p>
               </div>

@@ -13,9 +13,9 @@ import "./Welcome.css";
 function Welcome() {
   return (
     <>
-    <div class="position-absolute end-0">
-              <img className="ellip08" src={Ellipse8} alt="" />
-            </div>
+      <div class="position-absolute end-0">
+        <img className="ellip08" src={Ellipse8} alt="" />
+      </div>
       <section className="section-welcome">
         <div className="row enter-1">
           <div className="col-sm-6 welcol">
@@ -28,19 +28,23 @@ function Welcome() {
             </div>
             <span className="pt-4 N1N-h1">
               {" "}
-              A BETTER <br /> FINANCIAL <br/>SYSTEM FOR <br />
+              A BETTER <br className="mobile40" /> FINANCIAL <br className="mobile40" />
+              SYSTEM FOR <br className="mobile40" />
               EVERYONE
             </span>
-            
+
             <p className="N2N-NRGY pt-4">
-              NRGY is the future of decentralized finance, a one-of-a-kind<br/>
+              NRGY is the future of decentralized finance, a one-of-a-kind
+              <br className="mobile40" />
               distributed business building platform that enables the creation
-              of <br/>decentralized apps (DApps). NRGY leverages the power of its<br/>
+              of <br className="mobile40" />
+              decentralized apps (DApps). NRGY leverages the power of its
+              <br className="mobile40" />
               financial technologies with an incentivized network community.
             </p>
             <div className="pt-4 btn-div">
               <button class="btn  btn-get-nrgy-1" type="submit">
-                <img className="btn-img-W2W"src={vector} alt="" />
+                <img className="btn-img-W2W" src={vector} alt="" />
                 <span className="N2N-font">GET NRGY</span>
               </button>
               <button
@@ -50,7 +54,7 @@ function Welcome() {
                 <span className="N2N-font">LERN MORE</span>
               </button>
             </div>
-         
+
             <div class="position-absolute end-0">
               <img class="ellip09" src={Ellipse174} alt="" />
             </div>
@@ -62,14 +66,17 @@ function Welcome() {
         
           </div> */}
         </div>
-         <div className="pt-5 section2">
+        <div className="pt-5 section2">
           <div className="container">
             <div className="card card-W2W">
               <div className="row">
-                <div className="col-4  st-colm ">
-                  <span className="N2N-1st pt-5">1st</span>
-                  <br />
-                  <div>
+                <div className="col-md-4 col-sm-12 col-xs-12  st-colm ">
+                  <div className="st-elememt">
+                    <span className="N2N-1st pt-5">1st</span>
+                  </div>
+
+                  <br className="mobile40" />
+                  <div className="para-1st">
                     <p className="pt-4 text-light N2N-p">
                       NRGY is the very first DeFi project to introduce the
                       Infinity NFT™ royalty payment technology for licensors of
@@ -78,28 +85,28 @@ function Welcome() {
                   </div>
                 </div>
 
-                <div className="col-2 col-xs-6 st-colm-1">
+                <div className="col-md-2 col-xs-6 st-colm-1">
                   <img className="respo-W2W" src={airo} alt="" />
 
                   <div className="pt-2 text-light text-center share_in">
                     <span className="resp-span-W2W">
-                      Share in the new <br />
+                      Share in the new <br className="mobile40" />
                       digital economy
                     </span>
                   </div>
                 </div>
-                <div className="col-2 st-colm-2">
+                <div className="col-md-2 col-sm-12 col-xs-12  st-colm-2">
                   <img className="respo-W2W" src={airo2} alt="" />
 
                   <div className="pt-2 text-center text-light share_in">
                     <span className="resp-span-W2W">
-                      Share in the new <br />
+                      Share in the new <br className="mobile40" />
                       digital economy
                     </span>
                   </div>
                 </div>
 
-                <div className="col-2 st-colm-3">
+                <div className="col-md-2 col-sm-12 col-xs-12 st-colm-3">
                   <div class="position-absolute end-0 top-0">
                     <img class="img-182_N2N" src={Ellipse182} alt="" />
                   </div>
@@ -112,8 +119,8 @@ function Welcome() {
                     </div>
                     <div className="pt-2  text-center text-light share_in create-with">
                       <span className=" pb-5 resp-span-W2W">
-                        Create with better <br />
-                        technology and <br />
+                        Create with better <br className="mobile40" />
+                        technology and <br className="mobile40" />
                         distribution
                       </span>
                     </div>
@@ -121,10 +128,8 @@ function Welcome() {
                 </div>
               </div>
             </div>
-          </div> 
-        </div> 
-
-      
+          </div>
+        </div>
       </section>
     </>
   );

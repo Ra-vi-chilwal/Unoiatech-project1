@@ -44,7 +44,7 @@ font-weight: bold;
 background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.076) 5.43%, rgba(255, 255, 255, 0.016) 88.67%);
 backdrop-filter: blur(90px);
     border-radius: 34px;
-    border: 1px solid white;
+    border: 1px solid rgba(255, 255, 255, .2);
    
 }
 #cryptography-body{
@@ -60,7 +60,7 @@ backdrop-filter: blur(90px);
 display: inline-block;
 border-radius: 10px;
 padding:5px;
-border: 1px solid white;
+border: 1px solid rgba(255, 255, 255, .2);
 }
 #body-distribution{
     padding-bottom: 39px;

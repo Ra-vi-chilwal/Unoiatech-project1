@@ -19,15 +19,15 @@ function Forntier(){
    
    </div>
        </div>
-     
-       <div className="col-sm-10 col-xs-10 col-md-4 Forntier-F3F">
-       <span className="N2N-span-2 pt-2">TOKENOMICS</span>
-       
-       <div class="position-absolute end-0">
+       <div class="position-absolute end-0 Group61">
    
    <img  className="F3F-82" src={Group82} alt=""/>
    
    </div>
+       <div className="col-sm-10 col-xs-10 col-md-4 Forntier-F3F">
+       <span className="N2N-span-2 pt-2">TOKENOMICS</span>
+       
+     
        <div className="F3F-head pt-0">
        
           <p className="head-F3F">
@@ -51,7 +51,7 @@ function Forntier(){
    
    </div>
  
-<div className="sec-F3F">
+<div className="sec-F3F position-absolute end-0">
     <img className="security" src={SECURING} alt=""/>
 </div>
         <div class="position-absolute start-0">
@@ -62,7 +62,7 @@ function Forntier(){
    </div>
    <div class="position-absolute end-0 vector4">
    
-   <img  className="vector-492" src={Vector492} alt=""/>
+   <img  className="vector-494" src={Vector492} alt=""/>
    
    </div>
        </div>

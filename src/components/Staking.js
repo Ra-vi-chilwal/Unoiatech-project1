@@ -11,7 +11,7 @@ function Staking(){
     <div className="staking">
 
     <div className="row enter-1">
-          <div className="col-xs-6 col-sm-6 col-md-6">
+          <div className="col-xs-6 col-sm-6 col-md-6 stayyou">
             <img className="welcome-img-2" src={STAYOU} alt="" />
           </div>
         

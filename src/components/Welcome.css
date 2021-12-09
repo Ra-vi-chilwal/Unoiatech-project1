@@ -96,7 +96,7 @@ line-height: 110%;
 }
 .card-W2W{
     padding-bottom: 0px;
-
+    border: 1px solid rgba(255, 255, 255, .2);
     background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%);
 backdrop-filter: blur(90px);
 /* Note: backdrop-filter has minimal browser support */
@@ -105,7 +105,7 @@ border-radius: 35px;
 }
 .st-colm{
 margin-left:0px;
-padding-top: 48px;
+padding-top: 40px;
 }
 .st-colm-3{
 margin-left: 28px;
@@ -143,13 +143,19 @@ padding-top: 34px;
    .ellip09{
        display: none;
    }
+   .share_in{
+       display: flex;
+       justify-content: center;
+       text-align: center;
+    padding-right: 0px;
+}
    .ellip08{
     display: none;
 }
 
     .welcome-img-1{
-        width: 248px;
-        height: 240px;
+        width: 280px;
+        height: 257px;
         padding-right: 16px;
     }
     .N2N-font {
@@ -174,7 +180,7 @@ padding-top: 34px;
         display: flex;
         text-align: center;
     justify-content: center;
-        font-size: 24px;
+        font-size: 37px;
         line-height: 100%;
     }
     .N2N-NRGY {
@@ -218,12 +224,14 @@ padding-top: 34px;
         padding-top: 34px;
         }
         .st-colm-2{
-      
+            justify-content: center;
+            text-align: center;
         font-size: 8px;
         padding-top: 34px;
         }
         .st-colm-1{
-      
+            justify-content: center;
+            text-align: center;
         font-size: 8px;
         padding-top: 34px;
         }
@@ -234,22 +242,31 @@ padding-top: 34px;
     font-family: "Poppins";
     font-style: normal;
     font-weight: bold;
-     font-size: 34px;
+     font-size: 74px;
     line-height: 110%;
 }
 .N2N-p {
-    font-size: 6px;
+    font-size: 16px;
     padding-right: 14px;
     font-weight: 400;
 }
+.para-1st{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
 .respo-W2W{
-    width: 80%;
+    /* width: 80%; */
+}
+.inner-img{
+    display: flex;
+    justify-content: center;
 }
 .card-W2W {
   
-    height: 160px;
+    /* height: 160px;
      margin-left:20px;
-     width:90%;
+     width:90%; */
      justify-content: space-between;
     background: linear-gradient(
 117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%);
@@ -258,26 +275,27 @@ padding-top: 34px;
     border-radius: 35px;
 }
 .st-colm {
-margin-left: 10px;
-    padding-top: 30px;
+   
+/* margin-left: 10px;
+    padding-top: 30px; */
 }
 .st-colm-1 {
- margin-left: 10px;
+ /* margin-left: 10px;
     font-size: 6px;
-    padding-top: 33px;
+    padding-top: 33px; */
 }
 .st-colm-3 {
- margin-left: 10px;
+ /* margin-left: 10px;
     font-size: 6px;
-    padding-top: 33px;
+    padding-top: 33px; */
 }
 .st-colm-2 {
- margin-left: 10px;
+ /* margin-left: 10px;
     font-size: 6px;
-    padding-top: 33px;
+    padding-top: 33px; */
 }
 .resp-span-W2W{
-    font-size: 6px;
+    font-size: 16px;
     
 }
 .create-with-1{
@@ -300,8 +318,12 @@ margin-left: 10px;
 .img-182_N2N {
   width: 0%;
 }
+.st-elememt{
+    display: flex;
+    justify-content: center;
 }
-@media  screen and (min-width:1450px)and (max-width:1650px) {
+}
+/* @media  screen and (min-width:1550px)and (max-width:1650px) {
 
 .st-colm-1 {
    padding-left: 50px;
@@ -325,6 +347,6 @@ margin-left: 0px;
 .respo-W2W{
     padding-left: 4px;
 }
-}
+} */
    
  

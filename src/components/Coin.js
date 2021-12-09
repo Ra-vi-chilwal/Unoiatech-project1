@@ -25,7 +25,7 @@ function Coin() {
             <p className="coin-org">$NRGY ON ETHEREUM</p>
             <p className="coin-head">
               A COIN BUILT TO
-              <br /> RULE
+              <br className="mobile40" /> RULE
             </p>
 
             <div className="NRGY_C2C">
@@ -35,7 +35,7 @@ function Coin() {
               stakeholders.
             </div>
             <div className="coin_p_C2C row">
-              <div className="col-2">
+              <div className="col-2 Coin_343">
                 <img className="G-6173" src={Group6173} alt="" />
               </div>
               <div className="col-10">
@@ -43,8 +43,8 @@ function Coin() {
                 currency that fuels independent developers
               </div>
             </div>
-            <br />
-            <div className="coin_p_C2C row">
+            <br className="mobile40" />
+            <div className="coin_p_C2 row">
               <div className="col-2 Coin_343">
                 <img className="G-6173" src={Group6173} alt="" />
               </div>
@@ -56,7 +56,7 @@ function Coin() {
             </div>
             <p className=" see-on text-align-start">See On:</p>
             <div className="coin_p_C2C-1 coin-img-2 row">
-              <div className=" col-2 text-align-center">
+              <div className=" col-2 text-align-center img-col-89">
                 <img className=" img-gol" src={image2} alt="" />
               </div>
               <div className=" img-gol-1 col-10">

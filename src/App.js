@@ -17,7 +17,7 @@ function App() {
    <Welcome />
   <Finiancialsystem />
       <Forntier />
-     <Coin />
+     <Coin /> 
     <DeFi /> 
      <AlwaysReady />
     <Nrgyon />  

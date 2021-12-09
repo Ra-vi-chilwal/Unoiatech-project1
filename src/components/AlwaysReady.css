@@ -2,7 +2,7 @@
 background-color: rgb(2, 12, 41);
 }
 .Always-row{
-    padding-left: 99px;
+    padding-left: 125px;
     padding-top: 52px;
 }
 .THECOIN_23{
@@ -12,20 +12,25 @@ background-color: rgb(2, 12, 41);
     font-weight: bold;
 }
 .nfryf{
-    padding-top: 38px;
-    margin-right: -189px;
+    padding-top: 116px;
+    margin-right: -229px;
     }
 
 .Benefits-A1A{
     
- padding-left: 209px;
+ padding-left: 230px;
+ padding-top: 11px;
 
 }
 .Benefit-A1A{
+    position: relative;
+    padding-top: 29px;
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
     line-height: 120%;
+    padding-left: 8px;
+
     /* padding-left: 66px; */
     color: #FFFFFF;
 }
@@ -74,7 +79,7 @@ padding-left: 12px;
 }
 
 .img-ring{
-    padding-left: 112px;
+    padding-left: 136px;
     padding-top: 39px;
     max-width: 92%;
 }
@@ -83,6 +88,7 @@ padding-left: 12px;
     font-family: "Poppins";
     font-style: italic;
     font-weight: bold;
+    padding-left: 8px;
     font-size: 16px;
     line-height: 110%;
     color:#ED652E;
@@ -119,7 +125,7 @@ line-height: 120%;
 }
 .THECOIN_23 {
      padding-top: 0px;
-     padding-left: 27px;
+     padding-left: 0px;
 }
 
    
@@ -144,7 +150,7 @@ line-height: 120%;
 .Benefit-A1A {
     padding-top: 38px;
     font-size: 17px;
-    text-align: center;
+    /* text-align: center; */
   
 }
 

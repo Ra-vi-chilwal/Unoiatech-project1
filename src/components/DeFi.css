@@ -16,7 +16,7 @@ padding-top: 132px;
 
 .card-W2W2{
     padding-bottom: 29px;
-
+    border: 1px solid rgba(255, 255, 255, .2);
     background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%);
 backdrop-filter: blur(90px);
 /* Note: backdrop-filter has minimal browser support */
@@ -27,7 +27,7 @@ border-radius: 35px;
     padding-top: 20px;
 }
 .Show-Current{
-    padding-left: 39px; 
+    padding-left: 10px; 
 }
 .r2-N2N{
     padding: 24px;
@@ -37,6 +37,7 @@ border-radius: 35px;
 }
 .col-btn{
     padding-left: 24px;
+    position: relative;
 }
 .btn-get-nrgy-2{
     background: linear-gradient(98.56deg, #ED652E -21.77%, #EB5214 106%);
@@ -47,19 +48,28 @@ border-radius: 35px;
     color: white;
     font-weight: 700;
 }
-
+.btn-get-nrgy-2:hover{
+    background: none;
+    /* box-shadow:none; */
+    border: 1px solid #ED652E;
+    color: #ED652E;
+}
 
 .btn-learn-2 {
     border-radius: 64px;
     /* margin-left: 40px; */
     padding: 14px 35px 14px 35px;
 }
+.btn-learn-2:hover{
+    color: black;
+}
 .Defi-D2D{
 font-style: italic;
 font-weight: bold;
 font-size: 48px;
 line-height: 120%;
-padding-left: 39px;
+padding-left: 40px;
+
 }
 .Defi-tomato{
     text-shadow: 3px 4px 54px rgba(255, 255, 255, 0.3);
@@ -79,12 +89,22 @@ line-height: 110%;
     .G-6174{
         width: 100%;
     }
+    .r2-N2N {
+        display: none;
+    }
+    .mobile40{
+        display: none;
+    }
     .Line19_D2D {
         padding-top: 46px;
     }
     .Defi-tomato {
-       
+        padding-bottom: 19px;
         font-size: 12px;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding-left: 0px;
       
     }
     .btn-pdd {
@@ -105,12 +125,18 @@ line-height: 110%;
         font-weight: 700;
     }
     .Defi-D2D {
-       
+        padding-left: 0px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
         font-size: 28px;
       
 }
 .mix-show{
     font-size: 17px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
 }
 .btn-learn-2 {
   

@@ -15,7 +15,7 @@
     padding-top: 177px;
 }
 .bg-R2R2-1{
-   
+    border: 1px solid rgba(255, 255, 255, .2); 
     padding: 16px; 
 background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%);
 backdrop-filter: blur(120px);
@@ -29,6 +29,8 @@ border-radius: 20px;
     margin-left: 33px;
     margin-top: 6px;
     padding: 11px;
+    width: 224px;
+    border: 1px solid rgba(255, 255, 255, .2);
 background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%);
 backdrop-filter: blur(120px);
 /* Note: backdrop-filter has minimal browser support */
@@ -92,22 +94,35 @@ line-height: 160%;
         padding-top:5px;
     }
     .R3R-para {
-        font-size: 12px;
+        font-size: 15px;
         color: white;
         display: flex;
         justify-content: center;
         text-align: center;
+        margin: 11px;
 }
 .center-card-R2R {
      padding-top: 0px;
     margin-left: 12px;
 }
-
-
+.classic-row1 {
+    padding-top: 72px;
+    display: flex;
+    text-align: center;
+}
+.bg-R2R2-1 {
+    margin: 12px;
+}
 .bg-R2R2 {
-    margin-left: 236px;
-    margin-top: 5px;
-    height: 357px;
+   
+         margin-left: 15px; 
+        margin-top: 264px;
+        display: flex;
+        text-align: center;
+        width: 434px;
+        border: 1px solid rgba(255, 255, 255, .2);
+   
+    
  
 }
 .elli342{
@@ -116,6 +131,7 @@ line-height: 160%;
 
 .bg-R2R2-1 {
     margin-top: 7px;
+    border: 1px solid rgba(255, 255, 255, .2);
 }
 .vector4923 {
    display: none;

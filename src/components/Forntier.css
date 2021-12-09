@@ -67,14 +67,15 @@ font-weight: bold;
   left: 0;
   right: 0;
   text-align: center;
-    padding-top: 122px;
+    padding-top: 216px;
     width: 100%;
 
 }
-.vector4{
-    margin-top: -161px;
+.vector-494{
+    padding-top: 686px;
 }
 .svector{
+    padding-top: 45pc;
     /* border: 1px solid rgba(255, 255, 255, 0.3); */
 /* box-shadow: 0px 4px 24px rgba(255, 255, 255, 0.2); */
 /* border-radius: 10px; */
@@ -90,6 +91,7 @@ font-weight: bold;
         font-size: 35px;
         line-height: 99%;
         padding-top: 23px;
+        text-align: center;
     }
     .F3F_ptag {
       
@@ -111,9 +113,8 @@ font-weight: bold;
     padding-left: 0px;
     }
     .N2N-span-2 {
-       padding-left: 96px;
-    
-        font-size: 13px;
+        display: flex;
+        justify-content: center;
       
     }
     .Forntier-F3F {
@@ -121,7 +122,7 @@ font-weight: bold;
     }
    
 
-.vector-492 {
+.vector-494 {
    display: none;
 
 }
@@ -135,10 +136,7 @@ font-weight: bold;
 .svector{
 display: none;
 }   
-.coin12-p {
- width: 100%;
-     padding-top: 0px;
-}
+
     
 }
 @media  screen and (min-width:1390px)and (max-width:1650px) {

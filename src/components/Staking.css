@@ -18,12 +18,18 @@ filter: blur(650px);
     .welcome-img-2{
         width:300px;
     }
+    .stayyou{
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
     .ellipse177-S2S{
         display: none;
     }
     .etih-rin {
        display: none;
     }
+    
     .pin-ball {
       display: none; 
     }

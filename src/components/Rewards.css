@@ -25,6 +25,8 @@ border-radius: 20px;
 }
 
 
+
+
 .bg-R2R2{
     margin-left: 33px;
     margin-top: 6px;
@@ -36,6 +38,11 @@ backdrop-filter: blur(120px);
 /* Note: backdrop-filter has minimal browser support */
 
 border-radius: 20px;
+}
+#col-bg-r2r2{
+    margin-right:192px;
+    margin-left: 29px;
+    margin-top: 10px;
 }
 .R2R-min{
     font-style: normal;
@@ -139,6 +146,11 @@ line-height: 160%;
 .buttn-5{
     display: flex;
     justify-content: center;
+}
+#col-bg-r2r2{
+    margin-top: 261px;
+    margin-right: 13px;
+    margin-left: 14px;
 }
 }
 /* techmology section................................................................................................ */

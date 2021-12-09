@@ -13,10 +13,16 @@ filter: blur(650px);
 .img-176_S2S{
     padding-top: 272px;
 }
+.staytoy{
+    padding-left: 61px;
+}
 
 @media  screen and (min-width:350px)and (max-width:500px) {
     .welcome-img-2{
         width:300px;
+    }
+    .staytoy {
+       padding-left: 0px;
     }
     .stayyou{
         display: flex;

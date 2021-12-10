@@ -24,18 +24,18 @@ function Forntier(){
    <img  className="F3F-82" src={Group82} alt=""/>
    
    </div>
-       <div className="col-sm-10 col-xs-10 col-md-6 col-lg-4 Forntier-F3F">
+       <div className="col-sm-10 col-xs-10 col-md-10 col-lg-4 Forntier-F3F">
        <span className="N2N-span-2 pt-2">TOKENOMICS</span>
        
      
        <div className="F3F-head pt-0">
        
           <p className="head-F3F">
-          SECURING THE <br/> NEW FINANCIAL<br/> FRONTIER 
+          SECURING THE <br className="m-gapp"/> NEW FINANCIAL<br className="m-gapp"/> FRONTIER 
           </p>
         </div>
        
-        <div>
+        <div className="conten-45">
             <p className="F3F_ptag">A high-value digital asset designed to secure the future <br/><span className="F3F_ptagp">-- $NRGY</span> is a strong, liquid cryptocurrency token that <br/>fuels powerful new DeFi innovations.<br/>
             <br/>
              Fair market principals from the start, are used to <br/><span className="F3F_ptagp">promote deep liquidity of $NRGY to ensure capital<br/> input is proportional to the supply.</span></p>
@@ -44,7 +44,7 @@ function Forntier(){
   
   
        </div>
-       <div className=" col-sm-10 col-xs-10 col-md-6 col-lg-4">
+       <div className=" col-sm-10 col-xs-10 col-md-10 col-lg-4">
        <div class="position-absolute end-0 group12">
    
    <img  className="" src={Ellipse181} alt=""/>

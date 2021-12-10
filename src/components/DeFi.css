@@ -89,6 +89,10 @@ line-height: 110%;
     .G-6174{
         width: 100%;
     }
+    .Defi {
+       
+        padding-top: 100px;
+    }
     .r2-N2N {
         display: none;
     }
@@ -144,7 +148,7 @@ line-height: 110%;
     padding: 7px 18px 9px 18px;
 }
 .N2N-font {
-    font-size: 12px;
+    font-size: 8px;
     padding: 18px 10px;
     font-weight: 700;
 }

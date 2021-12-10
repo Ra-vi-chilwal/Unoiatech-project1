@@ -16,12 +16,12 @@ function Coin() {
       <div className="Coin">
         <div className="row coin-row">
         
-          <div className="col-sm-10 col-xs-10 col-md-5">
+          <div className="col-sm-10 col-xs-10 col-md-10 col-lg-5">
             <img className="coin12-p" src={coin12} alt="" />
           </div>
 
           
-          <div className="col-sm-10 col-xs-10 col-md-4 coin-build">
+          <div className="col-sm-10 col-xs-10 col-md-10 col-lg-4 coin-build">
             <p className="coin-org">$NRGY ON ETHEREUM</p>
             <p className="coin-head">
               A COIN BUILT TO

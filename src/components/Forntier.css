@@ -90,13 +90,16 @@ font-weight: bold;
     justify-content: center;
         font-size: 35px;
         line-height: 99%;
-        padding-top: 23px;
+        padding-top: 39px;
         text-align: center;
+    }
+    .m-gapp{
+        display: none;
     }
     .F3F_ptag {
       
         font-size: 14px;
-        line-height: 128%;
+        /* line-height: 128%; */
         /* display: flex; */
         text-align: center;
         padding-top: 23px;
@@ -128,7 +131,7 @@ font-weight: bold;
 }
 
 .F3F-row {
-    padding-top: 100px;
+    padding-top: 60px;
 }
 .ell-8-1{
   display: none;
@@ -159,9 +162,23 @@ display: none;
     
 }
 .security{
-    width: 50%;
+    width: 87%;
 }
 .G-6174{
     width: 100%;
+}
+.conten-45{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.Forntier-F3F {
+     padding-top: 47px;
+}
+.N2N-span-2 ,.F3F-head{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    /* text-align: center; */
 }
 }

@@ -86,4 +86,9 @@ padding-left: 50px;
     padding-left:0px;
     font-family: "Poppins";
 }
+#N2N-logo {
+    font-size: 14px;
+     padding-left: 0px; 
+    /* padding-top: 4px; */
+}
 }

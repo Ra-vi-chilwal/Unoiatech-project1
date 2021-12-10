@@ -132,6 +132,12 @@ line-height: 160%;
    
         padding-top:5px;
     }
+    .classic-12{
+        padding-top: 72px;
+    }
+    .read_top {
+        padding-top: 75px;
+    }
     .R3R-para {
         font-size: 15px;
         color: white;
@@ -184,6 +190,9 @@ line-height: 160%;
     margin-top: 261px;
     margin-right: 13px;
     margin-left: 14px;
+}
+.coin_p_C2{
+    padding-top: 10px;
 }
 .elli344 {
    display: none;

@@ -17,12 +17,12 @@ function App() {
    <Welcome />
   {/* <Finiancialsystem /> */}
       <Forntier />
-     {/* <Coin /> 
-    <DeFi />   */}
-     {/* <AlwaysReady />
+     <Coin /> 
+    <DeFi />  
+     <AlwaysReady />
     <Nrgyon />  
     <Staking />
-    <Rewards />  */}
+    <Rewards /> 
     <Technology />
     </div>
   );

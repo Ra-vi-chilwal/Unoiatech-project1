@@ -5,7 +5,9 @@ function Technology() {
     <>
 
       <section className="Technology">
-    
+    <div>
+      
+    </div>
       </section>
     </>
   );

@@ -152,3 +152,16 @@ display: none;
 
     }
 }
+@media  screen and (min-width:768px)and (max-width:992px) {
+/* coin statement query */
+.ell-8-1{
+    display: none;
+    
+}
+.security{
+    width: 50%;
+}
+.G-6174{
+    width: 100%;
+}
+}

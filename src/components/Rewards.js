@@ -20,6 +20,7 @@ function Rewards() {
           <div className="row">
             <div className="col-md-4 col-sm-6 col-xs-6 classic-12">
               <div>
+              
                 <span className="N2N-span-1 position-relative">
                   Where Do <br className="mobile40" /> Rewards Come{" "}
                   <br className="mobile40" /> From?
@@ -53,15 +54,13 @@ function Rewards() {
                 </button>
               </div>
             </div>
-
-            <div className="col-md-4 col-xs-6 col-sm-6">
-              <div className="row classic-row1">
-                <div className="col-md-6 col-sm-12 col-xs-12">
-                  <div class="position-absolute end-0">
+            <div className="col-md-4 col-sm-6">
+            <div class="position-absolute end-0">
                     <img class="img-fluid vector4923" src={Vector4923} alt="" />
                   </div>
-
-                  <div class="card bg-R2R2-1">
+              <div className=" mobile300">
+                <div>
+                  <div className="card bg-R2R2-1 top-padd-12">
                     <span className="R2R-min">4%</span>
                     <span className="R2R-min-2">
                       Minting Reward
@@ -76,33 +75,10 @@ function Rewards() {
                       <br className="mobile40" /> weeks.
                     </span>
                   </div>
-                </div>
-                <div className="col-xs-12 col-sm-12 col-md-4 center-card-R2R">
-                  <div class="card  bg-R2R2-1 position-absolute">
-                    <span className="R2R-min ">20%</span>
-                    <span className="R2R-min-2">
-                      DApp Royalty <br className="mobile40" />
-                      Rewards
-                    </span>
-                    <span className="R2R-min-6">
-                      Decentralized Applications
-                      <br className="mobile40" /> built on NRGY share
-                      <br className="mobile40" /> produced royalty revenues
-                      <br className="mobile40" />
-                      with NRGY stakers.
-                      <br className="mobile40" />
-                      *must stake 25 coins or
-                      <br className="mobile40" /> more to share in DApp
-                      <br className="mobile40" /> Rewards
-                    </span>
-                  </div>
-                </div>
-              </div>
-              <div class="position-absolute">
+                  <div class="position-absolute">
                 <img class="img-fluid elli342" src={Ellipse342} alt="" />
               </div>
-              <div className="col-xs-12 col-sm-12">
-              <div class="card bg-R2R2-1" id="col-bg-r2r2">
+                  <div className="card bg-R2R2-1 topp-padd-33">
                     <span className="R2R-min">25%</span>
                     <span className="R2R-min-2">
                       Minting Reward
@@ -117,9 +93,29 @@ function Rewards() {
                       <br className="mobile40" /> weeks.
                     </span>
                   </div>
+                
+               
+                </div>
+                <div>
+                  <div className="card bg-R2R2-1 top-padd23">
+                    <span className="R2R-min">20%</span>
+                    <span className="R2R-min-2">
+                      Minting Reward
+                      <br className="mobile40" /> Target
+                    </span>
+                    <span className="R2R-min-6">
+                      NRGY minted through Market <br className="mobile40" />
+                      Maker Staking (MMS)
+                      <br className="mobile40" />
+                      producing up to a targeted <br className="mobile40" />
+                      4% weekly rewards over 100
+                      <br className="mobile40" /> weeks.
+                    </span>
+                  </div>
+                  <div class="position-absolute ">
+                <img class="img-fluid elli344" src={Ellipse344} alt="" />
               </div>
-              <div class="position-absolute end-0">
-                <img class="img-fluid elli342" src={Ellipse344} alt="" />
+                </div>
               </div>
             </div>
           </div>

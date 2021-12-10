@@ -351,5 +351,42 @@ margin-left: 0px;
     padding-left: 4px;
 }
 } */
-   
- 
+  
+@media  screen and (min-width:1400px)and (max-width:1750px) {
+    .share_in {
+        padding-right: 66px;
+    }
+}
+@media  screen and (min-width:768px)and (max-width:992px) {
+    .img-182_N2N {
+        display: none;
+    }
+  
+  
+    .vector2-N2N {
+    display: none;
+}
+.N2N-1st {
+  display: flex;
+    font-size: 90px;
+   justify-content: center;
+   text-align: center;
+}
+.N2N-p {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding-right: 0px;
+}
+.inner-img{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+/* coin statement query */
+.ell-8-1{
+    display: none;
+    
+}
+}

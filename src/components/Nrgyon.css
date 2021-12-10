@@ -2,11 +2,24 @@
     background-color: rgb(2, 12, 41);
     color:#FFFFFF;
 }
+.m-gapp{
+    padding-left: 11px;
+    padding-top: 10px;
+}
+
+.line456::before{
+   position: absolute;
+
+
+
+
+    content: url("../images/Line26.png");
+}
 .etih-rin{
     padding-top: 285px;
 }
 .total-suppl{
-    margin-right: -54px;
+    margin-right: 12px;
     padding-top: 12px;
     display: flex;
     justify-content: end;
@@ -45,7 +58,7 @@
     
 font-style: italic;
 font-weight: bold;
-font-size: 43px;
+font-size: 42px;
 line-height: 120%;
 }
 .N2N-span-3{
@@ -110,7 +123,7 @@ line-height: 120%;
     margin-left: 127px;
 }
 .c-count-1{
-    padding-left: 61px;
+    /* padding-left: 61px; */
     margin-left: 63px;
 }
 .V493{
@@ -165,6 +178,9 @@ line-height: 120%;
         padding-left: 0px; 
          margin-left: 0px;
         
+    }
+    .gapp-09{
+        margin-top: 30px;
     }
     .V493-line{
 display: none;
@@ -267,4 +283,16 @@ display: none;
     justify-content: center;
      padding-right: 0px;
 }
+.m-gapp{
+    padding-left: 0px;
+    padding-top: 0px;
+}
+.line456::before{
+    position: absolute;
+ 
+ 
+ 
+ 
+     content: "";
+ }
 }

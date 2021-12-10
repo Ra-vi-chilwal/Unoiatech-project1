@@ -10,6 +10,7 @@ import El8 from "../images/El8.png";
 function DeFi() {
   return (
     <>
+    
       <section className="AlwaysReady">
         <div className="container-Always">
           <div className="row ">
@@ -19,7 +20,7 @@ function DeFi() {
                 <p className="A2A-org">$NRGYGO ON BNB</p>
                 <p className="the-coin-A2A">
                   THE COIN THAT’S
-                  <br /> ALWAYS READY
+                  <br className="mobile40" /> ALWAYS READY
                 </p>
               </div>
               <div className="pt-3 text-light mix-always">
@@ -28,17 +29,17 @@ function DeFi() {
                     $NRGYGO on Binance Smart Chain
                   </span>
                   is a low-cost
-                  <br />
+                  <br/>
                   transactional coin designed to provide convenience for
-                  <br />
+                  <br className="mobile40" />
                   dapp consumers while providing long-term
-                  <br />
+                  <br className="mobile40" />
                   transactional rewards for the nrgy economy. $NRGYGO
-                  <br />
+                  <br className="mobile40" />
                   provides great opportunities for crypto investors through
-                  <br />
+                  <br className="mobile40" />
                   trading, and new income opportunities for the NRGY
-                  <br />
+                  <br className="mobile40" />
                   community through shared fee rewards.
                 </p>
               </div>
@@ -48,7 +49,7 @@ function DeFi() {
           <img className="THECOIN_23" src={THECOIN} alt="" />
           </div>
             {/*  */}
-          
+           
             <div className="row text-A1A">
               <div className="col-xs-12 col-sm-12 col-md-6 Benefits-A1A">
                 <p className="Benefit-A1A A2A-ben">
@@ -62,7 +63,7 @@ function DeFi() {
                     <p>
                       Reduction of available
                       <span className="F3F_ptagp">$NRGY</span> supply helps{" "}
-                      <br />
+                      <br className="mobile40" />
                       increase long-term value
                     </p>
                   </div>
@@ -72,7 +73,7 @@ function DeFi() {
                   <div className="col-11 text-light p_a3a">
                     <p>
                       Provides a perpetual USDC reward for nrgy
-                      <br /> stakers of 5 coins or more
+                      <br className="mobile40" /> stakers of 5 coins or more
                     </p>
                   </div>
                   <div className="col-1">
@@ -83,7 +84,7 @@ function DeFi() {
                     <p>
                       Increases liquidity in the{" "}
                       <span className="F3F_ptagp">$NRGY</span>/ $USDC
-                      <br /> trading pair on Uniswap
+                      <br className="mobile40" /> trading pair on Uniswap
                     </p>
                   </div>
                 </div>
@@ -101,21 +102,19 @@ function DeFi() {
                   <div className="col-11 text-light Every-trs">
                     <p>
                       Every transaction creates 0.5% $NRGYGO rewards for
-                      <br />
+                      <br className="mobile40" />
                       <span className="F3F_ptagp">$NRGYGO</span> holders
                     </p>
                   </div>
                   <div className="col-1">
                     <img className="pl-1 G-6171" src={Group6173} alt="" />
                   </div>
-                  <div class="position-absolute end-0">
-                    <img class="img-fluid img-El8" src={El8} alt="" />
-                  </div>
+                  
                   <div className="col-11 text-light pl-1 Every-trs">
                     <p>
                       <span className="F3F_ptagp">$NRGYGO</span> provides a
                       low-cost transactional coin for NRGY
-                      <br /> DApps
+                      <br className="mobile40" /> DApps
                     </p>
                   </div>
                   <div className="col-1">
@@ -126,7 +125,7 @@ function DeFi() {
                     <p>
                       Every transaction creates 0.5% BNB reward for
                       <span className="F3F_ptagp">$NRGYGO</span>
-                      <br /> holders
+                      <br className="mobile40" /> holders
                     </p>
                   </div>
                   <div className="col-1">
@@ -138,7 +137,7 @@ function DeFi() {
                     <p>
                       Provides a lower-priced version of
                       <span className="F3F_ptagp">$NRGY</span>to attract new
-                      <br /> buyers
+                      <br className="mobile40" /> buyers
                     </p>
                   </div>
                   <div className="col-1">
@@ -149,7 +148,7 @@ function DeFi() {
                     <p>
                       A Binance Smart Chain version of{" "}
                       <span className="F3F_ptagp">$NRGY</span>, with low
-                      <br /> transaction costs
+                      <br className="mobile40" /> transaction costs
                     </p>
                   </div>
                 </div>
@@ -157,12 +156,17 @@ function DeFi() {
             </div>
           </div>
         </div>
+        <div class="position-absolute end-0">
+                <img className="nfryf" src={NRGY} alt="" />
+              </div>
         <div className="pt-5 section2">
           <div className="container">
             <div class="position-absolute start-0">
               <img class="img-fluid img-ring" src={Ellip343} alt="" />
             </div>
-
+            <div class="position-absolute end-0">
+                    <img class="img-fluid img-El8" src={El8} alt="" />
+                  </div>
             <div className="card card-W2W5">
               <div className="row">
                 <div className="col-6">
@@ -182,12 +186,11 @@ function DeFi() {
                   </button>
                 </div>
               </div>
-              <div class="position-absolute end-0">
-                <img className="nfryf" src={NRGY} alt="" />
-              </div>
+              
             </div>
           </div>
         </div>
+       
       </section>
     </>
   );

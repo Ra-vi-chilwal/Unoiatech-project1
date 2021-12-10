@@ -15,14 +15,14 @@ function App() {
     <div className="App">
   <Navbar />
    <Welcome />
-  <Finiancialsystem />
+  {/* <Finiancialsystem /> */}
       <Forntier />
-     <Coin /> 
-    <DeFi /> 
-     <AlwaysReady />
+     {/* <Coin /> 
+    <DeFi />   */}
+     {/* <AlwaysReady />
     <Nrgyon />  
     <Staking />
-    <Rewards /> 
+    <Rewards />  */}
     <Technology />
     </div>
   );

@@ -18,7 +18,7 @@ function Welcome() {
       </div>
       <section className="section-welcome">
         <div className="row enter-1">
-          <div className="col-sm-6 welcol">
+          <div className="col-sm-12 col-md-12 col-xs-12 col-lg-6 welcol">
             <img className="welcome-img-1" src={welcome} alt="" />
           </div>
 
@@ -28,7 +28,8 @@ function Welcome() {
             </div>
             <span className="pt-4 N1N-h1">
               {" "}
-              A BETTER <br className="mobile40" /> FINANCIAL <br className="mobile40" />
+              A BETTER <br className="mobile40" /> FINANCIAL{" "}
+              <br className="mobile40" />
               SYSTEM FOR <br className="mobile40" />
               EVERYONE
             </span>
@@ -70,7 +71,7 @@ function Welcome() {
           <div className="container">
             <div className="card card-W2W">
               <div className="row">
-                <div className="col-md-4 col-sm-12 col-xs-12  st-colm ">
+                <div className="col-md-12 col-sm-12 col-xs-12 col-lg-4 st-colm ">
                   <div className="st-elememt">
                     <span className="N2N-1st pt-5">1st</span>
                   </div>
@@ -85,9 +86,10 @@ function Welcome() {
                   </div>
                 </div>
 
-                <div className="col-md-2 col-xs-6 st-colm-1">
-                  <img className="respo-W2W" src={airo} alt="" />
-
+                <div className="col-md-12 col-lg-2 col-xs-12 st-colm-1">
+                  <div className="inner-img">
+                    <img className="respo-W2W" src={airo} alt="" />
+                  </div>
                   <div className="pt-2 text-light text-center share_in">
                     <span className="resp-span-W2W">
                       Share in the new <br className="mobile40" />
@@ -95,9 +97,10 @@ function Welcome() {
                     </span>
                   </div>
                 </div>
-                <div className="col-md-2 col-sm-12 col-xs-12  st-colm-2">
-                  <img className="respo-W2W" src={airo2} alt="" />
-
+                <div className="col-md-12 col-lg-2 col-sm-12 col-xs-12  st-colm-2">
+                  <div className="inner-img">
+                    <img className="respo-W2W" src={airo2} alt="" />
+                  </div>
                   <div className="pt-2 text-center text-light share_in">
                     <span className="resp-span-W2W">
                       Share in the new <br className="mobile40" />
@@ -106,7 +109,7 @@ function Welcome() {
                   </div>
                 </div>
 
-                <div className="col-md-2 col-sm-12 col-xs-12 st-colm-3">
+                <div className="col-lg-2 col-md-12 col-sm-12 col-xs-12 st-colm-3">
                   <div class="position-absolute end-0 top-0">
                     <img class="img-182_N2N" src={Ellipse182} alt="" />
                   </div>

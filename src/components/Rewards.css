@@ -12,7 +12,7 @@
     margin-left: 12px;
 }
 .classic-12{
-    padding-top: 177px;
+    padding-top: 202px;
 }
 .bg-R2R2-1{
     border: 1px solid rgba(255, 255, 255, .2); 
@@ -51,16 +51,27 @@ border-radius: 20px;
     line-height: 110%;
     color: #3CEBC8;
 }
+.mobile300{
+    display:flex;
+    align-items: center;
+    }
 .btn-get-nrgy-4{
-    width: 169px;
-    border-radius: 64px;
-    padding: 9px 27px 9px 27px;
-    border: 1px solid white;
-    color: white;
-    font-weight: 700;
-    margin: 12px;
+   
+        width: 225px;
+        border-radius: 64px;
+        padding: 13px 36px 13px 35px;
+        border: 1px solid white;
+        color: white;
+        font-weight: 700;
+        /* margin: 15px; */
+    }
+    
+    .elli344{
+        padding-top: 128px;
+        padding-left: 100px;
+    }
 
-}
+
 .R2R-min-2{
 
 font-style: normal;
@@ -71,9 +82,25 @@ line-height: 120%;
 .classic-row1{
     padding-top: 72px;
 }
-.vector4923{
-    padding-top: 66px;
+.topp-padd-33{
+    margin-top: 12px;
+    margin-left: 30px;
 }
+.top-padd-12{
+  
+    margin-top: 140px;
+    margin-left:30px;
+}
+.top-padd23{
+    margin-top: 12px;
+    margin-left: 11px;
+}
+
+    .vector4923 {
+        padding-top: 142px;
+    padding-right: 0px;
+    }
+
 .read_top{
     padding-top: 249px;
 }
@@ -82,6 +109,11 @@ line-height: 120%;
 }
 .elli342{
     padding-top: 25px;
+}
+.row {
+    display: flex;
+ justify-content: center;
+    /* justify-content: stretch; */
 }
 
 .R3R-para{
@@ -92,7 +124,7 @@ line-height: 120%;
     padding-top: 20px;
     font-style: normal;
 font-weight: normal;
-font-size: 14px;
+font-size: 13px;
 line-height: 160%;
 }
 @media  screen and (min-width:350px)and (max-width:500px) {
@@ -137,7 +169,7 @@ line-height: 160%;
 }
 
 .bg-R2R2-1 {
-    margin-top: 7px;
+    margin-top: 37px;
     border: 1px solid rgba(255, 255, 255, .2);
 }
 .vector4923 {
@@ -147,10 +179,18 @@ line-height: 160%;
     display: flex;
     justify-content: center;
 }
+
 #col-bg-r2r2{
     margin-top: 261px;
     margin-right: 13px;
     margin-left: 14px;
 }
+.elli344 {
+   display: none;
+}
+.mobile300{
+  display: block;
+    align-items: center;
+    }
 }
 /* techmology section................................................................................................ */

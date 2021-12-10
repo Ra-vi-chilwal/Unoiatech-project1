@@ -20,7 +20,7 @@ function Finiancialsystem() {
    <img  class="img-fluid" src={Group61} alt=""/>
    </div>
           <p className="F2F-head">
-            NRGY DEFI FINANCIAL <br />
+            NRGY DEFI FINANCIAL <br className="mobile40" />
             SYSTEM
           </p>
         
@@ -46,16 +46,16 @@ function Finiancialsystem() {
                   <p className="F2F-org">Security</p>
                   <p className="F2F-subgraphy">
                     Cryptography ensures that attackers
-                    <br />
+                    <br className="mobile40" />
                     can’t forge transaction and other
-                    <br />
+                    <br className="mobile40" />
                     interaction on your behalf.
                   </p>
                   <p className="F2F-org">Safety</p>
                   <p className="F2F-subgraphy">
                     You don’t need to share your real world
-                    <br /> identity. Your Ethereum account and
-                    <br />
+                    <br className="mobile40" /> identity. Your Ethereum account and
+                    <br className="mobile40" />
                     wallet serve as you login credentials.
                   </p>
                 </div>
@@ -102,14 +102,14 @@ function Finiancialsystem() {
                   <p className="F2F-org">Efficient</p>
                   <p className="F2F-subgraphy">
                    No human involvement with operations 
-                    <br />
+                    <br className="mobile40" />
                     handled immediately and globally.
                     
                   </p>
                   <p className="F2F-org">Open</p>
                   <p className="F2F-subgraphy">
                   Anyone can build within or on-top of 
-                    <br />
+                    <br className="mobile40" />
                     existing application.
                   </p>
                 </div>

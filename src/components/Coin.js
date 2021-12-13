@@ -61,7 +61,7 @@ function Coin() {
               </div>
               <div className=" img-gol-1 col-10">
                 https://v2.info.uniswap.org/pair/0x51bf9908dac4a283
-                <br />
+                <br className="thebull" />
                 d017edc071d954ec3a4b1376
               </div>
             </div>

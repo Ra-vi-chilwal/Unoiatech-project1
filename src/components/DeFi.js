@@ -53,7 +53,7 @@ function DeFi() {
               <div className="pt-5 row">
                 <div className="col-6 Show-Current">
                   <span className="pt-5 mix-show">
-                    SHOW CURRENT SUPPLY 104k with a<br /> MAX of 4.3 million
+                    SHOW CURRENT SUPPLY 104k with a<br className="mobile40" /> MAX of 4.3 million
                   </span>
                 </div>
                 <div className="col-md-2 btn-pdd col-btn position-relative">
@@ -61,7 +61,7 @@ function DeFi() {
                     <img src={vector} alt="" />
                     <span className="N2N-font">GET NRGY</span>
                   </button>
-                  <br />
+                  <br className="mobile40" />
                   </div>
                   <div className="col-md-3 col-btn">
                   <button

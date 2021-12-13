@@ -22,7 +22,7 @@ function Welcome() {
             <img className="welcome-img-1" src={welcome} alt="" />
           </div>
 
-          <div className="col-sm-6 N2N-item">
+          <div className="col-sm-12 col-md-6 col-lg-6 N2N-item">
             <div>
               <span className="N2N-span pt-4">WELCOME TO NRGY</span>
             </div>

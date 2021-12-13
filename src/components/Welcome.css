@@ -277,26 +277,8 @@ padding-top: 34px;
     backdrop-filter: blur(90px);
     border-radius: 35px;
 }
-.st-colm {
-   
-/* margin-left: 10px;
-    padding-top: 30px; */
-}
-.st-colm-1 {
- /* margin-left: 10px;
-    font-size: 6px;
-    padding-top: 33px; */
-}
-.st-colm-3 {
- /* margin-left: 10px;
-    font-size: 6px;
-    padding-top: 33px; */
-}
-.st-colm-2 {
- /* margin-left: 10px;
-    font-size: 6px;
-    padding-top: 33px; */
-}
+
+
 .resp-span-W2W{
     font-size: 16px;
     
@@ -313,6 +295,9 @@ padding-top: 34px;
     border-radius: 34px;
     width:60%;
 }
+.Group901{
+    display: none;
+}
 .N2N-img-174 {
  padding-left: 0px;
  width: 100%;
@@ -326,31 +311,8 @@ padding-top: 34px;
     justify-content: center;
 }
 }
-/* @media  screen and (min-width:1550px)and (max-width:1650px) {
 
-.st-colm-1 {
-   padding-left: 50px;
-   margin-left: 0px;  
-   }
-   .st-colm-3 {
-    padding-left: 50px;
-    margin-left: 0px;
-   }
-   .st-colm-2 {
-   padding-left: 50px;
-margin-left: 0px;
-   }
-   .st-colm {
-    margin-left: 4px;
-  
-}
-.inner-img{
-    padding-left: 0px;
-}
-.respo-W2W{
-    padding-left: 4px;
-}
-} */
+
   
 @media  screen and (min-width:1400px)and (max-width:1750px) {
     .share_in {
@@ -384,9 +346,87 @@ margin-left: 0px;
     justify-content: center;
 
 }
-/* coin statement query */
-.ell-8-1{
-    display: none;
-    
+
 }
+@media  screen and (min-width:501px)and (max-width:768px) {
+    .N2N-1st {
+        display: flex;
+          font-size: 90px;
+         justify-content: center;
+         text-align: center;
+      }
+      .Group901{
+        display: none;
+    }
+      .N2N-p {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding-right: 0px;
+      }
+    .N2N-p {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding-right: 0px;
+      }
+    .inner-img{
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    
+    }
+    
+    .ellip08{
+        display: none;
+
+    }
+    .N2N-span {
+        display: flex;
+        justify-content: center;
+         font-size: 20px;
+        
+     }
+     .mobile40{
+         display: none;
+     }
+     .N2N-NRGY{
+         display: flex;
+         justify-content: center;
+       text-align: center;
+         margin: 10px;
+     }
+    .btn-div{
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
+    .img-182_N2N{
+        display: none;
+    }
+     .N1N-h1 {
+         display: flex;
+         text-align: center;
+     justify-content: center;
+         font-size: 37px;
+         line-height: 100%;
+     }
+     .st-colm-1 {
+    margin-left: 0px;     
+}
+.share_in {
+    padding-right: 0px;
+}
+.st-colm-2 {
+    margin-left: 0px;
+}
+.st-colm-3 {
+    margin-left: 0px;
+}
+.welcol{
+    display: flex;
+    justify-content: center;
+    padding-left:0px ;
+}
+
 }

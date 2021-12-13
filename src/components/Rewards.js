@@ -18,7 +18,7 @@ function Rewards() {
       <div className="Rewards">
         <div className="container-4">
           <div className="row">
-            <div className="col-md-4 col-sm-6 col-xs-6 classic-12">
+            <div className="col-md-4 col-sm-12 col-xs-6 classic-12">
               <div>
               
                 <span className="N2N-span-1 position-relative">
@@ -50,11 +50,11 @@ function Rewards() {
               </div>
               <div className="pt-3 buttn-5">
                 <button class="btn  btn-get-nrgy-4" type="submit">
-                  <span className="N2N-font">GET STAKING</span>
+                  <span className="N2N-font" id="font-id">GET STAKING</span>
                 </button>
               </div>
             </div>
-            <div className="col-md-4 col-sm-6">
+            <div className="col-md-4 col-sm-12">
             <div class="position-absolute end-0">
                     <img class="img-fluid vector4923" src={Vector4923} alt="" />
                   </div>

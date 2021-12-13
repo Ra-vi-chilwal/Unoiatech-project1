@@ -156,9 +156,7 @@ function DeFi() {
             </div>
           </div>
         </div>
-        <div class="position-absolute end-0">
-                <img className="nfryf" src={NRGY} alt="" />
-              </div>
+        
         <div className="pt-5 section2">
           <div className="container">
             <div class="position-absolute start-0">

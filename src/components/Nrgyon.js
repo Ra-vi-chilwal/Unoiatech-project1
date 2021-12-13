@@ -17,7 +17,7 @@ function Nrgyon() {
             <img className="V493" src={Vector493} alt="" />
           </div>
           <div className="row count-2">
-            <div className="col-md-4 col-xs-6 col-sm-6 c-count-1">
+            <div className="col-md-4 col-xs-6 col-sm-12 c-count-1">
               <div>
                 <span className="N2N-span-1 position-relative">
                   NRGY on
@@ -118,7 +118,7 @@ function Nrgyon() {
               <span className="total-suppl">Total Supply - 4.300.000</span>
             </div>
 
-            <div className="col-md-4 col-md-6 col-xs-6 col-N2N-2">
+            <div className="col-md-4 col-md-6 col-xs-12 col-sm-12 col-N2N-2">
               <div>
                 <span className="N2N-span-1 N_BINANCE">
                   NRGYGO on
@@ -128,7 +128,7 @@ function Nrgyon() {
                     alt=""
                   />
                   <br className="mobile40" />
-                  BINANCE SMART
+                    BINANCE SMART
                   <br className="mobile40" />
                   CHAIN
                 </span>

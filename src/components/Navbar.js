@@ -33,7 +33,8 @@ function Navbar(){
   </ul>
       <form class="btn-form-N2N">
        
-      <button class="btn btn btn-get-nrgy" type="submit"><img className="nav-mgi" src={vector} alt=""/><span className="N2N-font">GET NRGY</span></button>
+      <button class="btn btn btn-get-nrgy" type="submit">
+      <img className="nav-mgi" src={vector} alt=""/><span className="N2N-font">GET NRGY</span></button>
       </form>
     </div>
   </div>

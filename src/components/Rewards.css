@@ -202,4 +202,83 @@ line-height: 160%;
     align-items: center;
     }
 }
+@media  screen and (min-width:501px)and (max-width:768px) {
+    .Rewards {
+   
+        padding-top:5px;
+    }
+    #font-id{
+        font-size: 14px;
+    }
+    .classic-12{
+        padding-top: 72px;
+    }
+    .read_top {
+        padding-top: 75px;
+    }
+    .R3R-para {
+        font-size: 15px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        margin: 11px;
+}
+.center-card-R2R {
+     padding-top: 0px;
+    margin-left: 12px;
+}
+.classic-row1 {
+    padding-top: 72px;
+    display: flex;
+    text-align: center;
+}
+.bg-R2R2-1 {
+    margin: 12px;
+}
+.bg-R2R2 {
+   
+         margin-left: 15px; 
+        margin-top: 264px;
+        display: flex;
+        text-align: center;
+        width: 418px;
+        border: 1px solid rgba(255, 255, 255, .2);
+   
+    
+ 
+}
+.elli342{
+    display: none;
+}
+
+.bg-R2R2-1 {
+    margin-top: 37px;
+    border: 1px solid rgba(255, 255, 255, .2);
+}
+.vector4923 {
+   display: none;
+}
+.buttn-5{
+    display: flex;
+    justify-content: center;
+}
+
+#col-bg-r2r2{
+    margin-top: 261px;
+    margin-right: 13px;
+    margin-left: 14px;
+}
+.coin_p_C2{
+    padding-top: 10px;
+}
+.elli344 {
+   display: none;
+}
+.mobile300{
+  display: block;
+    align-items: center;
+    }
+}
+
 /* techmology section................................................................................................ */

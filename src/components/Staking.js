@@ -11,11 +11,11 @@ function Staking(){
     <div className="staking">
 
     <div className="row enter-1">
-          <div className="col-xs-6 col-sm-6 col-md-6 stayyou">
+          <div className="col-xs-6 col-sm-12 col-md-6 stayyou">
             <img className="welcome-img-2 staytoy" src={STAYOU} alt="" />
           </div>
         
-          <div className="col-xs-6 col-sm-6 col-md-6 N2N-item">
+          <div className="col-xs-6 col-sm-12 col-md-6 N2N-item">
           <div class="position-absolute end-0">
               <img className="img-bgg" src={Vector495} alt="" />
             </div>
@@ -29,13 +29,13 @@ function Staking(){
             <div className="pt-2 Designed">
             <span className="pt-2 N1N-h1">
              
-              STAKING<br/> DESIGNED TO<br/> INCENTIVIZE<br/> YOU
+              STAKING<br className="m-gapp"/> DESIGNED TO<br className="m-gapp"/> INCENTIVIZE<br className="m-gapp"/> YOU
             </span>
             </div>
             <p className="N2N-NRGY pt-5">
-            Staking NRGY provides lucrative rewards for Market<br/> Maker Stakers who lock up $NRGY coins
-             to provide<br/> economic security for the NRGY DeFi financial<br/> ecosystem. Unlike other DeFi projects,
-             NRGY staking<br/> incorporates several new income opportunities for<br/> investors.
+            Staking NRGY provides lucrative rewards for Market<br className="m-gapp"/> Maker Stakers who lock up $NRGY coins
+             to provide<br className="m-gapp"/> economic security for the NRGY DeFi financial<br className="m-gapp"/> ecosystem. Unlike other DeFi projects,
+             NRGY staking<br className="m-gapp"/> incorporates several new income opportunities for<br className="m-gapp"/> investors.
             </p>
             <div class="position-absolute end-0">
         <img class="img-fluid ellipse177-S2S" src={Ellipse177} alt="" />

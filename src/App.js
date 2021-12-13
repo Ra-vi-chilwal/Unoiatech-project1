@@ -17,10 +17,10 @@ function App() {
    <Welcome />
   <Finiancialsystem />
       <Forntier />
-     <Coin /> 
-    <DeFi />  
+     <Coin />  
+   <DeFi />  
      <AlwaysReady />
-    <Nrgyon />  
+      <Nrgyon />  
     <Staking />
     <Rewards /> 
     <Technology />

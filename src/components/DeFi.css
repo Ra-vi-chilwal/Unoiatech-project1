@@ -170,3 +170,88 @@ line-height: 110%;
     width:43%;
 }
 }
+@media  screen and (min-width:501px)and (max-width:768px) {
+    .G-6174{
+        width: 100%;
+    }
+    .Defi {
+       
+        padding-top: 100px;
+    }
+    .r2-N2N {
+        display: none;
+    }
+    .mobile40{
+        display: none;
+    }
+    .Line19_D2D {
+        padding-top: 46px;
+    }
+    .Defi-tomato {
+        padding-bottom: 19px;
+        font-size: 12px;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding-left: 0px;
+      
+    }
+    .btn-pdd {
+        padding-top: 23px;
+    }
+    .col-btn{
+        display: flex;
+        justify-content: center;
+    }
+    .btn-get-nrgy-2{
+        background: linear-gradient(98.56deg, #ED652E -21.77%, #EB5214 106%);
+        box-shadow: 10px 14px 34px rgba(237, 101, 46, 0.3);
+        border-radius: 64px;
+        padding:11px 32px 11px 32px;
+        margin-left: 12px;
+        /* border: 1px solid #ED652E; */
+        color: white;
+        font-weight: 700;
+    }
+    .Defi-D2D {
+        padding-left: 0px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        font-size: 28px;
+      
+}
+.mix-show{
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.btn-learn-2 {
+  
+    margin: 10px;
+    padding: 7px 18px 9px 18px;
+}
+.N2N-font {
+    font-size: 12px;
+    padding: 18px 10px;
+    font-weight: 700;
+}
+
+
+.A2A-org {
+   
+    font-size: 8px;
+  
+}
+
+.the-coin-A2A {
+    
+    font-size: 20px;
+   
+}
+.img-Ekk175 {
+    padding-top: 361px;
+    width:43%;
+}
+}

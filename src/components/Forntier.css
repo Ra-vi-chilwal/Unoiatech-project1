@@ -81,6 +81,7 @@ font-weight: bold;
 /* border-radius: 10px; */
 /* transform: rotate(-92.47deg); */
 }
+
 @media  screen and (min-width:350px)and (max-width:500px) {
     .F3F-82 {
        display: none;
@@ -142,6 +143,66 @@ display: none;
 
     
 }
+@media  screen and (min-width:501px)and (max-width:768px){
+    .F3F-82 {
+        display: none;
+     }
+     .head-F3F {
+         display: flex;
+     justify-content: center;
+         font-size: 38px;
+         line-height: 99%;
+         padding-top: 39px;
+         text-align: center;
+     }
+     .m-gapp{
+         display: none;
+     }
+     .F3F_ptag {
+       
+         font-size: 16px;
+         line-height: 208%;
+         /* display: flex; */
+         text-align: center;
+         padding-top: 23px;
+     }
+     .sec-F3F {
+         padding-left: 0px;
+     }
+     .group12{
+         display: none;
+     }
+     .security{
+         width: 80%;
+     padding-top: 0px;
+     padding-left: 0px;
+     }
+     .N2N-span-2 {
+         display: flex;
+         justify-content: center;
+       
+     }
+     .Forntier-F3F {
+         padding-top: 0px;
+     }
+    
+ 
+ .vector-494 {
+    display: none;
+ 
+ }
+ 
+ .F3F-row {
+     padding-top: 60px;
+ }
+ .ell-8-1{
+   display: none;
+ }
+ .svector{
+ display: none;
+ }   
+ 
+}
 @media  screen and (min-width:1390px)and (max-width:1650px) {
     .sec-F3F {
         padding-left: 55px;
@@ -180,5 +241,12 @@ display: none;
     justify-content: center;
     text-align: center;
     /* text-align: center; */
+}
+}
+
+@media  screen and (min-width:501px)and (max-width:767px) {
+
+.ell-8-1{
+display: none;
 }
 }

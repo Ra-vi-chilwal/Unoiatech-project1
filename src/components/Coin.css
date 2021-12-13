@@ -151,6 +151,73 @@ margin-right: 12px;
     font-size: 7px;
 }
 }
+@media  screen and (min-width:501px)and (max-width:768px) {
+    .coin-org {
+        
+        font-size: 16px;
+        display: flex;
+        justify-content: center;
+      
+}
+/* .thebull{
+    display: none;
+} */
+.coin12-p {
+    width: 92%;
+    padding-top: 428px;
+}
+
+.vector490{
+    display: none;
+}
+.coin_p_C2C {
+    font-size: 14px;
+    width: 99%;
+   
+
+}
+.coin_p_C2C-1{
+    padding: 7px;
+  font-size: 12px;
+
+}
+.coin-build {
+    padding-top: 83px;
+    flex: 0 0 auto;
+    width: 100%;
+}
+
+
+.coin-head {
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+
+    text-align: center;
+   
+}
+.G-6173{
+    width:71%;
+}
+.F3F_ptagp{
+    font-size: 15px;
+
+}
+.NRGY_C2C{
+    font-size: 15px;
+    padding: 16px;
+    text-align: center;
+}
+
+.img-gol {
+    width: 71%;
+
+}
+.img-fol-1{
+    font-size: 9px;
+}
+
+}
 @media  screen and (min-width:768px)and (max-width:992px) {
 
     .svector{

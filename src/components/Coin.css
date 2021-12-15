@@ -6,6 +6,8 @@
 .img-col-89{
     flex: 0 0 auto;
     width: 12.666667%;
+    margin-top: 9px;
+    margin-left:9px;
 }
 .coin-build{
     padding-top: 83px;
@@ -51,7 +53,7 @@ padding-left: 18px;
     font-size: 15px;
 }
 .img-gol-1{
-    padding-top: 9px;
+    padding-top: 19px;
 }
 .coin_p_C2C-1{
 font-size: 13px;

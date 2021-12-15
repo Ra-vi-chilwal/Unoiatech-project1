@@ -3,6 +3,10 @@
     color: #FFFFFF;
     padding-top: 255px;
 }
+.whrer-row{
+    display: flex;
+    justify-content: center;
+}
 .gp-R2R{
     padding-top: 122px;
 }
@@ -110,10 +114,10 @@ line-height: 120%;
 .elli342{
     padding-top: 25px;
 }
-.row {
+.row-chain {
     display: flex;
  justify-content: center;
-    /* justify-content: stretch; */
+    
 }
 
 .R3R-para{
@@ -282,3 +286,126 @@ line-height: 160%;
 }
 
 /* techmology section................................................................................................ */
+.Every-trs01{
+    padding-top: 6px;
+    padding-left: 10px;
+}
+.curve-tech{
+    display: flex;
+    justify-content: center;
+}
+.R2R-min-11{
+    font-size: 14px;
+}
+.two-gap{
+    padding-top: 60px;
+}
+.reward-11{
+    font-size: 14px;
+}
+.WAY-ORG{
+    color: orange;
+}
+.stake-pr{
+    font-size: 13px;
+}
+.btn-id-09{
+    background: linear-gradient( 
+        98.56deg, #ED652E -21.77%, #EB5214 106%);
+    margin: 25px;
+}
+.way-01{
+    color: #3CEBC8;
+}
+.techno-0{
+    display: flex;
+    justify-content: center;
+}
+.tech-gap{
+    padding-top: 12px;
+    padding-left: 10px;
+}
+.appli-top{
+    padding-top: 50px;
+   
+  
+}
+.appli-01{
+    font-size: 14px;
+   
+}
+.application-1{
+   
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 120%;
+
+padding-left: 10px;
+}
+/* block-chain........................ */
+.block-chain{
+    padding-top: 200px;
+}
+/* get Start....................................................... */
+.getStart{
+    padding-top: 200px;
+}
+.get-row{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.GET-CARD{
+    background: rgba(255, 255, 255, 0.038);
+    text-align: center;
+    margin: 10px;
+    border-radius: 24px;
+    padding: 20px;
+    
+}
+.img-getstart{
+    text-align: center;
+}
+.top-get{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.Every-trs012{
+    padding-top: 6px;
+    padding-left: 21px;
+    font-size: 13px;
+}
+.defi-sys{
+    display: flex;
+    justify-content: center;
+}
+.new-to{
+    padding-top: 314px;
+}
+.THEREADY2{
+    padding-top: 200px;
+}
+.new-to-1{
+    padding: 14px;
+}
+.Ecosystem{
+    padding-top: 120px;
+}
+.learn-3{
+    padding-top: 260px;
+}
+.learn-1{
+    padding-top: 290px;
+}
+.learn-2{
+    padding-top: 223px;
+}
+.card-new{
+    background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%);
+backdrop-filter: blur(120px);
+/* Note: backdrop-filter has minimal browser support */
+margin: 38px;
+border-radius: 35px;
+}

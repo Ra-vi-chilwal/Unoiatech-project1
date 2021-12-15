@@ -2,9 +2,13 @@
     background-color: rgb(2, 12, 41);
     color:#FFFFFF;
 }
+.count-2{
+    display: flex;
+    justify-content: center;
+}
 .m-gapp{
-    padding-left: 11px;
-    padding-top: 10px;
+    padding-left: 12px;
+    padding-top: 0px;
 }
 
 .line456::before{
@@ -123,7 +127,7 @@ line-height: 120%;
     margin-left: 127px;
 }
 .c-count-1{
-    /* padding-left: 61px; */
+     padding-left: 61px;
     margin-left: 63px;
 }
 .V493{

@@ -51,7 +51,7 @@ function Nrgyon() {
                 <div className="card bg-N2N2-2">
                   <div className="row">
                     <span className="min-5">Coin Holder Rewards</span>
-                    <div className="col-md-4 col-sm-12 col-xs-12 gapp-09">
+                    <div className="col-md-4 pt-3 col-sm-12 col-xs-12 gapp-09">
                       <span className="min-4">4%</span>
                       <br />
                       <span className="min-5">Transaction Rewards</span>
@@ -63,7 +63,7 @@ function Nrgyon() {
                     {/* <div class="position-absolute">
                       <img className="V495" src={Line26} alt="" />
                     </div> */}
-                    <div className="col-md-4 col-sm-12 col-xs-12 gapp-09">
+                    <div className="col-md-4 pt-3 col-sm-12 col-xs-12 gapp-09">
                       <div className="line456">
                         <span className="min-4 m-gapp">20%</span>
                         <br />
@@ -84,16 +84,15 @@ function Nrgyon() {
                       <img className="V496" src={Line26} alt="" />
                     </div> */}
 
-                    <div className="col-md-4 col-sm-12 col-xs-12 gapp-09">
+                    <div className="col-md-4 pt-3 col-sm-12 col-xs-12 gapp-09">
                       <div className="line456">
                         <span className="min-4 m-gapp">25%</span>
                         <br />
 
                         <span className="min-5 m-gapp">
-                          NRGY Liquidity <br />
-                          <span className="min-5 m-gapp">Pool</span>
+                          NRGY Staker{" "}
+                          <span className="min-5 m-gapp">Rewards</span>
                         </span>
-
                         <br className="" />
                         <div className="m-gapp">
                           <span className="min-6 ">
@@ -169,7 +168,7 @@ function Nrgyon() {
                 <div className="card bg-N2N2-2">
                   <div className="row">
                     <span className="min-5">Coin Holder Rewards</span>
-                    <div className="col-md-4 col-sm-12 col-xs-12 gapp-09">
+                    <div className="col-md-4 pt-3 col-sm-12 col-xs-12 gapp-09">
                       <span className="min-4">1%</span>
                       <br />
                       <span className="min-5">Transaction Rewards</span>
@@ -181,7 +180,7 @@ function Nrgyon() {
                     {/* <div class="position-absolute">
                       <img className="V495" src={Line26} alt="" />
                     </div> */}
-                    <div className="col-md-4 col-sm-12 col-xs-12 gapp-09">
+                    <div className="col-md-4 pt-3 col-sm-12 col-xs-12 gapp-09">
                       <div className="line456">
                         <span className="min-4 m-gapp">0.5%</span>
                         <br />
@@ -202,7 +201,7 @@ function Nrgyon() {
                       <img className="V496" src={Line26} alt="" />
                     </div> */}
 
-                    <div className="col-md-4 col-sm-12 col-xs-12 gapp-09">
+                    <div className="col-md-4 pt-3 col-sm-12 col-xs-12 gapp-09">
                       <div className="line456">
                         <span className="min-4 m-gapp">0.5%</span>
                         <br />

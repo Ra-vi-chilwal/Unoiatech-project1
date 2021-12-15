@@ -13,7 +13,7 @@ function DeFi() {
     
       <section className="AlwaysReady">
         <div className="container-Always">
-          <div className="row ">
+          <div className="row  al-row-01">
           <div className="col-md-6 col-sm-12 col-xs-12">
           <div className="Always-row">
               <div className="coin-A2A position-relative">
@@ -158,7 +158,7 @@ function DeFi() {
         </div>
         
         <div className="pt-5 section2">
-          <div className="container">
+          <div className="container pancake">
             <div class="position-absolute start-0">
               <img class="img-fluid img-ring" src={Ellip343} alt="" />
             </div>

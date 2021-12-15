@@ -1,0 +1,163 @@
+
+body {
+    background: #04050a;
+  }
+  
+  .text-small {
+    font-size: 0.9rem;
+  }
+  #img-ico{
+    margin: 10px;
+  }
+  #inner-footer{
+   
+      margin: 0 auto; /* Added */
+      float: none; /* Added */
+      margin-bottom: 10px; /* Added */
+     
+}
+ #input-box{
+  border-radius: 18px;
+  padding: 12px 60px;
+  
+} 
+#button-addon2 {
+
+  margin: 7px;
+border-radius: 7px;
+}
+#inner-card{
+  background:linear-gradient(
+    91.45deg,#564ece 25.74%,#7d74ff 69.14%);
+        border-radius: 16px;
+        padding: 49px 79px;
+        margin: 0px -76px;
+        float: left;
+}
+.F2F_logo{
+  width:40px;
+  height:44px;
+}
+#btn{ 
+  padding: 18px 58px;
+  font-family: 'Poppins';
+  font-size: 22px;
+  border-radius: 55px;
+  float: right;
+  margin: -92px 6px;
+            
+
+}
+.F2F_ptag{
+  font-family: 'Poppins';
+  color: #fff;
+  font-size: 16px;
+  display: flex;
+    justify-content: center;
+}
+.social-icon{
+  background-color: #564ece;
+}
+.F2F_menu2{
+  font-family: "poppins";
+font-size: 18px;
+  color: white;
+  /* box-shadow: 0 4px 70px rgb(14 13 30 / 50%); */
+}
+.F2F_menu{
+  font-family: "poppins";
+
+  font-weight: 500;
+  font-size: 16px;
+}
+.F2F_menu:hover{
+color: #564ece;
+}
+#footer-img{
+  font-family: 'Poppins';
+
+}
+.F2F_starstake{
+  font-family: 'Poppins';
+  font-size: 53px;
+  padding: 1px 7px 4px 4px;
+}  
+.input_F2F{
+  
+  width: 397px;
+  height: 49px;
+  background: hsla(0,0%,76.9%,.1);
+  border-radius: 28.5px;
+  border: none;
+  padding: 0 30px;
+  font-weight: 500;
+  font-family: "poppins";
+  font-size: 16px;
+  line-height: 37px;
+  color: #858585;
+
+} 
+.input_F2F:hover{
+  border: 2px solid #5a52ff;
+}
+.h-divider{
+  margin-top:45px;
+  margin-bottom:5px;
+  height:1px;
+  width:86%;
+  border-top:2px solid gray;
+}
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+  }
+  
+  a:hover, a:focus {
+    text-decoration: none;
+  }
+  
+  .form-control {
+    background: #212529;
+    border-color: #545454;
+  }
+  
+  .form-control:focus {
+    background: #212529;
+  }
+  
+  footer{
+    
+    background:  #0a0c15;
+   
+    background-repeat: no-repeat;
+  width: "100%";
+  background-image: 'right';
+
+  }
+  .n4n-para{
+    display: flex;
+    justify-content: center;
+  }
+  #N5N-logo{
+   
+    padding-left: 144px;
+    padding-top: 46px;
+  }
+  .F2F_heading{
+    font-weight: 400;
+    font-size: 43px;
+    line-height: 52px;
+    color: #fff;
+    font-family: 'Poppins';
+    display: inline;
+}
+ 
+    /* body, html {
+      height: 100%;
+    } */
+
+
+
+    

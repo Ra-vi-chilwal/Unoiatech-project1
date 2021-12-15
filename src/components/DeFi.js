@@ -32,7 +32,7 @@ function DeFi() {
             <div>
               <span className="Defi-D2D">Democratizing DeFi</span>
             </div>
-            <div className=" pt-5 row">
+            <div className=" pt-5 row def-row-01">
               <div className="col-xs-1 col-3">
                 <img className="G-6174" src={Group6174} alt="" />
               </div>
@@ -50,7 +50,7 @@ function DeFi() {
                 <img className="G-6174" src={Group6176} alt="" />
               </div>
 
-              <div className="pt-5 row">
+              <div className="pt-5 row def-row-01">
                 <div className="col-6 Show-Current">
                   <span className="pt-5 mix-show">
                     SHOW CURRENT SUPPLY 104k with a<br className="mobile40" /> MAX of 4.3 million

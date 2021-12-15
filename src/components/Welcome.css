@@ -6,6 +6,10 @@
 .share_in{
     padding-right: 23px;
 }
+.row-st-col{
+    display: flex;
+    justify-content: center;
+}
 .welcol{
     padding-left: 101px;
 }

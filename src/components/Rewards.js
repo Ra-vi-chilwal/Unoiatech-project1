@@ -2,13 +2,23 @@ import React from "react";
 import "./Rewards.css";
 import Group61 from "../images/Group61.png";
 import Vector4923 from "../images/Vector4923.png";
+import Vector494 from "../images/Vector494.png";
 import Group6173 from "../images/Group6173.png";
 import one from "../images/1.png";
 import two from "../images/2.png";
 import three from "../images/3.png";
+import SHARE from "../images/SHARE.png";
+import STAKE from "../images/STAKE.png";
+import CREATE from "../images/CREATE.png";
 import Ellips177 from "../images/Ellips177.png";
 import Ellipse342 from "../images/Ellipse342.png";
 import Ellipse344 from "../images/Ellipse344.png";
+import Elips from "../images/Elips.png";
+import Ellipse178 from "../images/Ellipse178.png";
+import POWER from "../images/POWER.png";
+import Newto from "../images/Newto.png";
+import THEREADY2 from "../images/THEREADY2.png";
+import Ecosystem from "../images/Ecosystem.png";
 function Rewards() {
   return (
     <>
@@ -17,10 +27,9 @@ function Rewards() {
       </div>
       <div className="Rewards">
         <div className="container-4">
-          <div className="row">
+          <div className="row whrer-row">
             <div className="col-md-4 col-sm-12 col-xs-6 classic-12">
               <div>
-              
                 <span className="N2N-span-1 position-relative">
                   Where Do <br className="mobile40" /> Rewards Come{" "}
                   <br className="mobile40" /> From?
@@ -50,14 +59,16 @@ function Rewards() {
               </div>
               <div className="pt-3 buttn-5">
                 <button class="btn  btn-get-nrgy-4" type="submit">
-                  <span className="N2N-font" id="font-id">GET STAKING</span>
+                  <span className="N2N-font" id="font-id">
+                    GET STAKING
+                  </span>
                 </button>
               </div>
             </div>
             <div className="col-md-4 col-sm-12">
-            <div class="position-absolute end-0">
-                    <img class="img-fluid vector4923" src={Vector4923} alt="" />
-                  </div>
+              <div class="position-absolute end-0">
+                <img class="img-fluid vector4923" src={Vector4923} alt="" />
+              </div>
               <div className=" mobile300">
                 <div>
                   <div className="card bg-R2R2-1 top-padd-12">
@@ -76,8 +87,8 @@ function Rewards() {
                     </span>
                   </div>
                   <div class="position-absolute">
-                <img class="img-fluid elli342" src={Ellipse342} alt="" />
-              </div>
+                    <img class="img-fluid elli342" src={Ellipse342} alt="" />
+                  </div>
                   <div className="card bg-R2R2-1 topp-padd-33">
                     <span className="R2R-min">25%</span>
                     <span className="R2R-min-2">
@@ -93,8 +104,6 @@ function Rewards() {
                       <br className="mobile40" /> weeks.
                     </span>
                   </div>
-                
-               
                 </div>
                 <div>
                   <div className="card bg-R2R2-1 top-padd23">
@@ -113,14 +122,14 @@ function Rewards() {
                     </span>
                   </div>
                   <div class="position-absolute ">
-                <img class="img-fluid elli344" src={Ellipse344} alt="" />
-              </div>
+                    <img class="img-fluid elli344" src={Ellipse344} alt="" />
+                  </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <div className="row">
+        <div className="row curve-tech">
           <div className="col-md-8 col-sm-10 col-xs-10 read_top">
             <div>
               <p>TECHNOLOGY AHEAD OF THE CURVE</p>
@@ -150,93 +159,574 @@ function Rewards() {
           </div>
         </div>
         {/* technology .................................................. */}
-        <div className="row">
+        <div className="row ">
           <div class="position-absolute start-0">
             <img class="img-fluid elli342" src={Ellips177} alt="" />
           </div>
-
-          <div className="col-md-4 col-sm-12 col-sm-12">
-            <div class="position-absolute ">
-              <img class="img-fluid elli342" src={one} alt="" />
-            </div>
-            <div>
-              <p>Application Economy (DApps)</p>
-            </div>
-            <div>
-              <p>
-                NRGY is a one-of-a-kind distributed building platform for
-                <br className="mobile40" />
-                independently run decentralized applications (dapps).{" "}
-              </p>
-            </div>
-            <div className="row">
-              <div className="col-1">
-                <img className="G-6171" src={Group6173} alt="" />
-              </div>
-              <div className="pl-1 col-11 text-light p_a3a">
-                <p>
-                  Reduction of available
-                  <span className="F3F_ptagp">$NRGY</span> supply helps{" "}
-                  <br className="mobile40" />
-                  increase long-term value
-                </p>
-              </div>
-            </div>
+          <div class="position-absolute start-0">
+            <img class="img-fluid vector4923" src={Ellipse178} alt="" />
           </div>
-          <div className="col-md-4 col-sm-12 col-sm-12">
-            <div class="position-absolute ">
-              <img class="img-fluid elli342" src={two} alt="" />
-            </div>
-            <div>
-              <p>Application Economy (DApps)</p>
-            </div>
-            <div>
-              <p>
-                NRGY is a one-of-a-kind distributed building platform for
-                <br className="mobile40" />
-                independently run decentralized applications (dapps).{" "}
-              </p>
-            </div>
-            <div className="row">
-              <div className="col-1">
-                <img className="G-6171" src={Group6173} alt="" />
-              </div>
-              <div className="pl-1 col-11 text-light p_a3a">
-                <p>
-                  Reduction of available
-                  <span className="F3F_ptagp">$NRGY</span> supply helps{" "}
-                  <br className="mobile40" />
-                  increase long-term value
-                </p>
-              </div>
-            </div>
+          <div class="position-absolute start-0">
+            <img class="img-fluid vector4923" src={Elips} alt="" />
           </div>
-          <div className="row">
-            <div className="col-md-6 col-sm-12 col-sm-12">
-              <div class="position-absolute ">
-                <img class="img-fluid elli342" src={three} alt="" />
-              </div>
+          <div className="techno-0 position-relative">
+            <div className=" mobile300">
               <div>
-                <p>Application Economy (DApps)</p>
-              </div>
-              <div>
-                <p>
-                  NRGY is a one-of-a-kind distributed building platform for
-                  <br className="mobile40" />
-                  independently run decentralized applications (dapps).{" "}
-                </p>
-              </div>
-              <div className="row">
-                <div className="col-1">
-                  <img className="G-6171" src={Group6173} alt="" />
+                <div className="">
+                  <div class="position-absolute ">
+                    <img class="img-fluid " src={one} alt="" />
+                  </div>
+                  <div className="appli-top">
+                    <span className="application-1">
+                      Application Economy (DApps)
+                    </span>
+                    <br />
+                    <div className="tech-gap">
+                      <span className="appli-01">
+                        NRGY is a one-of-a-kind distributed building platform
+                        <br className="m-gapp" />
+                        <div class="position-absolute ">
+                          <img class="img-fluid" src={Vector494} alt="" />
+                        </div>
+                        for independently run decentralized applications
+                        (dapps). <br className="m-gapp" />
+                      </span>
+                    </div>
+                    <div className="row tech-gap">
+                      <div className="col-1">
+                        <img className="G-6171" src={Group6173} alt="" />
+                      </div>
+                      <div className="col-11 text-light Every-trs01">
+                        {" "}
+                        <p className="reward-11">
+                          Global economy with autonomous Dapp reliance
+                        </p>
+                      </div>
+                    </div>
+                    <div className="row tech-gap">
+                      <div className="col-1">
+                        <img className="G-6171" src={Group6173} alt="" />
+                      </div>
+                      <div className="col-11 text-light Every-trs01">
+                        {" "}
+                        <p className="reward-11">
+                          Utilize NRGY Infinity NFT technology.
+                        </p>
+                      </div>
+                    </div>
+                    <div className="row tech-gap">
+                      <div className="col-1">
+                        <img className="G-6171" src={Group6173} alt="" />
+                      </div>
+                      <div className="col-11 text-light Every-trs01">
+                        {" "}
+                        <p className="reward-11">
+                          NRGY Decentralized cross-chain bridge takes
+                          <br className="m-gapp" />
+                          advantage of two powerful networks Ethereum and
+                          <br className="m-gapp" /> Binance Smart Chain.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
                 </div>
-                <div className="pl-1 col-11 text-light p_a3a">
+                <div className="pt-3 btn-34">
+                  <button class="btn  btn-get-nrgy-3" type="submit">
+                    <span className="N2N-font">GET $NRGYGO</span>
+                  </button>
+                </div>
+                <div className="">
+                  <div class="position-absolute ">
+                    <img class="img-fluid " src={three} alt="" />
+                  </div>
+                  <div className="appli-top">
+                    <span className="application-1">
+                      Application Economy (DApps)
+                    </span>
+                    <br />
+                    <div className="tech-gap">
+                      <span className="appli-01">
+                        NRGY is a one-of-a-kind distributed building platform
+                        <br className="m-gapp" />
+                        for independently run decentralized applications
+                        (dapps). <br className="m-gapp" />
+                      </span>
+                    </div>
+                    <div className="row tech-gap">
+                      <div className="col-1">
+                        <img className="G-6171" src={Group6173} alt="" />
+                      </div>
+                      <div className="col-11 text-light Every-trs01">
+                        {" "}
+                        <p className="reward-11">
+                          Global economy with autonomous Dapp reliance
+                        </p>
+                      </div>
+                    </div>
+                    <div className="row tech-gap">
+                      <div className="col-1">
+                        <img className="G-6171" src={Group6173} alt="" />
+                      </div>
+                      <div className="col-11 text-light Every-trs01">
+                        {" "}
+                        <p className="reward-11">
+                          Utilize NRGY Infinity NFT technology.
+                        </p>
+                      </div>
+                    </div>
+                    <div className="row tech-gap">
+                      <div className="col-1">
+                        <img className="G-6171" src={Group6173} alt="" />
+                      </div>
+                      <div className="col-11 text-light Every-trs01">
+                        {" "}
+                        <p className="reward-11">
+                          NRGY Decentralized cross-chain bridge takes
+                          <br className="m-gapp" />
+                          advantage of two powerful networks Ethereum and
+                          <br className="m-gapp" /> Binance Smart Chain.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="pt-3 btn-34">
+                    <button class="btn  btn-get-nrgy-3" type="submit">
+                      <span className="N2N-font">GET $NRGYGO</span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div className="">
+                  <div class="position-absolute ">
+                    <img class="img-fluid " src={Vector494} alt="" />
+                  </div>
+                  <div class="position-absolute ">
+                    <img class="img-fluid " src={two} alt="" />
+                  </div>
+                  <div className="two-gap">
+                    <span className="R2R-min-2">Infinity NFTs (iNFTs)</span>{" "}
+                    <br className="m-gapp" />
+                    <span className="R2R-min-11">
+                      NRGY is the very first DeFi project to introduce the
+                      Infinity
+                      <br className="m-gapp" />
+                      NFT royalty payment technology for licensors of{" "}
+                      <br className="m-gapp" />
+                      intellectual property.{" "}
+                      <strong>
+                        Infinity NFTs (iNFTs) are
+                        <br className="m-gapp" />
+                        revolutionizing the financial distribution of royalties
+                        <br className="m-gapp" />
+                        using new decentralized markets and algorithms. iNFTs
+                      </strong>
+                      <br className="m-gapp" /> open up new royalty
+                      opportunities for intellectual
+                      <br className="m-gapp" /> property owners and licensors.
+                    </span>{" "}
+                    <br className="m-gapp" />
+                    <span>
+                      <strong>What’s an iNFT</strong>
+                    </span>{" "}
+                    <br className="m-gapp" />
+                    <span className="R2R-min-11">
+                      Infinity NFTs or “iNFTs'' are DeFi tokens that add many
+                      financial <br className="m-gapp" />
+                      advantages to traditional NFTs. An iNFT starts with a
+                      regular NFT, <br className="m-gapp" />
+                      that stores intellectual property data, royalty contracts,
+                      and
+                      <br className="m-gapp" />
+                      historical payment information. INFTs introduce the
+                      ability to <br className="m-gapp" />
+                      receive payments on the underlying royalty contract within
+                      the
+                      <br className="m-gapp" /> iNFT.
+                    </span>{" "}
+                    <br className="m-gapp" />
+                    <span className="R2R-min-11">
+                      <strong>
+                        Unlike traditional NFTs, iNFTs can produce income
+                        <br className="m-gapp" /> rather than capital gains.
+                      </strong>
+                    </span>
+                    <div className="pt-3 buttn-5">
+                      <button class="btn  btn-get-nrgy-4" type="submit">
+                        <span className="N2N-font" id="font-id">
+                          GET STAKING
+                        </span>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* Block chain section ..................................... */}
+        <div className="row row-chain">
+          <div className="col-md-8 col-sm-10 col-xs-10 read_top">
+            <div>
+              <p className="WAY-ORG">
+                <strong>THE BETTER WAY</strong>
+              </p>
+            </div>
+            <div className="pt-3 T2T_head">
+              <p className="N2N-span-1">
+                BLOCKCHAIN DOESN’T
+                <br className="mobile40" /> NEED TO BE COMPLEX
+              </p>
+            </div>
+            <div className="pt-5">
+              <p>
+                Serving as the world’s first truly decentralized financial
+                system and
+                <br className="mobile40" /> economy, NRGY utilizes the
+                Interplanetary File System (IPFS) to
+                <br className="mobile40" /> deliver a faster, safer, and more
+                reliable web experience. NRGY
+                <br className="mobile40" />
+                provides vital services through its powerful DeFi financial
+                system,
+                <br className="mobile40" /> decentralized distribution network,
+                and application economy.
+              </p>
+            </div>
+
+            <div className="row">
+              <div className="col-md-4">
+                <span className="way-01">
+                  <strong>01</strong>
+                </span>
+                <br />
+                <span>
+                  <strong>
+                    A BETTER WAY TO BUILD <br className="m-gapp" /> DAPPS
+                  </strong>
+                </span>
+                <br />
+                <span>
+                  NRGY makes financial technology accessible and affordable for
+                  anyone to create, stake, and distribute their own Dapp.
+                </span>
+              </div>
+              <div className="col-md-4">
+                <span className="way-01">
+                  <strong>02</strong>
+                </span>
+                <br />
+                <span>
+                  <strong>BETTER DISTRIBUTION</strong>
+                </span>
+                <br />
+                <span>
+                  NRGY makes financial technology accessible and affordable for
+                  anyone to create, stake, and distribute their own Dapp.
+                </span>
+              </div>
+              <div className="col-md-4">
+                <span className="way-01">
+                  <strong>03</strong>
+                </span>
+                <br />
+                <span>
+                  <strong>BETTER OPPORTUNITIES</strong>
+                </span>
+                <br />
+                <span>
+                  NRGY makes financial technology accessible and affordable for
+                  anyone to create, stake, and distribute their own Dapp.
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* get started  */}
+        <div className="getStart">
+          <div className="row get-row">
+            <div className="col-md-8">
+              <div>
+                <div>
+                  <h1>
+                    <strong>GET STARTED</strong>
+                  </h1>
+                  <h4>
+                    <strong>
+                      GET $NRGY TO STAKE, SHARE, and CREATE A BETTER FUTURE
+                    </strong>
+                  </h4>
                   <p>
-                    Reduction of available
-                    <span className="F3F_ptagp">$NRGY</span> supply helps{" "}
-                    <br className="mobile40" />
-                    increase long-term value
+                    Whether you’re a developer, token holder, or community
+                    builder earning rewards,
+                    <br className="m-gapp" /> there’s a place for everyone in
+                    the NRGY Universe.
                   </p>
+                </div>
+                <div className="pt-3 buttn-5">
+                  <button class="btn  btn-get-nrgy-4 btn-id-09" type="submit">
+                    <span className="N2N-font" id="font-id">
+                      GET STAKING
+                    </span>
+                  </button>
+
+                  <button class="btn  btn-get-nrgy-4" type="submit">
+                    <span className="N2N-font" id="font-id">
+                      GET STAKING
+                    </span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="row top-get">
+            <div className="col-md-8">
+              <div className="row">
+                <div className="col-md-4">
+                  <div className="img-getstart">
+                    <img src={STAKE} alt="" />
+                  </div>
+                  <div className="card GET-CARD">
+                    <h5>
+                      <strong>STAKE</strong>
+                    </h5>
+                    <span className="stake-pr">
+                      Earn Rewards for being a liquidity
+                      <br />
+                      provider in NRGY while having full
+                      <br />
+                      access to your funds
+                    </span>
+                  </div>
+                </div>
+                <div className="col-md-4">
+                  <div className="img-getstart">
+                    <img src={SHARE} alt="" />
+                  </div>
+                  <div className="card GET-CARD">
+                    <h5>
+                      <strong>SHARE</strong>
+                    </h5>
+                    <span className="stake-pr">
+                      Participate in the incentivized
+                      <br />
+                      distribution of NRGY DApps and
+                      <br />
+                      iNFT ecosystem
+                    </span>
+                  </div>
+                </div>
+                <div className="col-md-4">
+                  <div className="img-getstart">
+                    <img src={CREATE} alt="" />
+                  </div>
+                  <div className="card GET-CARD">
+                    <h5>
+                      <strong>CREATE</strong>
+                    </h5>
+                    <span className="stake-pr">
+                      Build your own decentralized
+                      <br />
+                      application or monetize your
+                      <br />
+                      intellectual property with an iNFT
+                    </span>
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* Power Project .......................... */}
+
+        <div className="row enter-1">
+          <div className="col-xs-6 col-sm-12 col-md-6 stayyou">
+            <img className="welcome-img-2 staytoy" src={POWER} alt="" />
+          </div>
+
+          <div className="col-xs-6 col-sm-12 col-md-6 N2N-item">
+            <div className="pt-5">
+              <span className="N2N-span">BUILT A DAPP</span>
+            </div>
+            <div className="pt-2 Designed">
+              <h1>
+                <strong>
+                  POWER YOUR OWN DEFI <br className="m-gapp" />
+                  PROJECT TODAY!
+                </strong>
+              </h1>
+              <h5>WHAT WILL WE BUILD, TOGETHER?</h5>
+            </div>
+            <p className="N2N-NRGY pt-5">
+              Staking NRGY provides lucrative rewards for Market
+              <br className="m-gapp" /> Maker Stakers who lock up $NRGY coins to
+              provide
+              <br className="m-gapp" /> economic security for the NRGY DeFi
+              financial
+              <br className="m-gapp" /> ecosystem. Unlike other DeFi projects,
+              NRGY staking
+              <br className="m-gapp" /> incorporates several new income
+              opportunities for
+              <br className="m-gapp" /> investors.
+            </p>
+
+            <h4>What can you build?</h4>
+            <div className="row">
+              <div className="col-md-6">
+                <div className="row tech-gap">
+                  <div className="col-1">
+                    <img className="G-6171" src={Group6173} alt="" />
+                  </div>
+                  <div className="col-11 text-light Every-trs012">
+                    {" "}
+                    <p>
+                      <strong>Decentralized Finance Applications</strong>
+                    </p>
+                  </div>
+                </div>
+                <div className="row tech-gap">
+                  <div className="col-1">
+                    <img className="G-6171" src={Group6173} alt="" />
+                  </div>
+                  <div className="col-11 text-light Every-trs012">
+                    {" "}
+                    <p>
+                      <strong>Intellectual Property iNFT’s</strong>
+                    </p>
+                  </div>
+                </div>
+                <div className="row tech-gap">
+                  <div className="col-1">
+                    <img className="G-6171" src={Group6173} alt="" />
+                  </div>
+                  <div className="col-11 text-light Every-trs012">
+                    {" "}
+                    <p>
+                      <strong>Fundraising systems</strong>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-6">
+                <div className="row tech-gap">
+                  <div className="col-1">
+                    <img className="G-6171" src={Group6173} alt="" />
+                  </div>
+                  <div className="col-11 text-light Every-trs012">
+                    {" "}
+                    <p>
+                      <strong>Incentivized Referral Programs</strong>
+                    </p>
+                  </div>
+                </div>
+                <div className="row tech-gap">
+                  <div className="col-1">
+                    <img className="G-6171" src={Group6173} alt="" />
+                  </div>
+                  <div className="col-11 text-light Every-trs012">
+                    {" "}
+                    <p>
+                      <strong>And much much more...</strong>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="row defi-sys">
+          <div className="col-md-10 col-sm-12 col-xs-12">
+            <div className="row">
+             
+              <div className="col-md-4 new-to">
+              <div className="position-absolute">
+                <img src={Newto} alt="" />
+              </div>
+              <div className="learn-3">
+                <div className="card card-new">
+                  <div className="new-to-1 position-relative ">
+                    <span>LEARN</span>
+                    <h4>
+                      <strong>New To Defi?</strong>
+                    </h4>
+                    <span>
+                      Understand NRGY DeFi and the <br />
+                      incentivized opportunities by
+                      <br /> attending a free Rapid Concept
+                      <br />
+                      Workshop online.
+                    </span>
+                    <div className="pt-3 buttn-5">
+                      <button class="btn  btn-get-nrgy-4" type="submit">
+                        <span className="N2N-font" id="font-id">
+                          GET STAKING
+                        </span>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                </div>
+              </div>
+              
+              <div className="col-md-4 THEREADY2">
+              <div className="position-absolute">
+                <img src={THEREADY2} alt="" />
+              </div>
+              <div className="learn-1">
+                <div className="card card-new">
+                <div className="new-to-1">
+                    <span>LEARN</span>
+                    <h4>
+                      <strong>New To Defi?</strong>
+                    </h4>
+                    <span>
+                      Understand NRGY DeFi and the <br />
+                      incentivized opportunities by
+                      <br /> attending a free Rapid Concept
+                      <br />
+                      Workshop online.
+                    </span>
+                    <div className="pt-3 buttn-5">
+                      <button class="btn  btn-get-nrgy-4" type="submit">
+                        <span className="N2N-font" id="font-id">
+                          GET STAKING
+                        </span>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                </div>
+              </div>
+             
+              <div className="col-md-4 Ecosystem">
+              <div className="position-absolute">
+                  <img src={Ecosystem} alt="" />
+                </div>
+                <div className="learn-2">
+                <div className="card card-new">
+                <div className="new-to-1">
+                    <span>LEARN</span>
+                    <h4>
+                      <strong>New To Defi?</strong>
+                    </h4>
+                    <span>
+                      Understand NRGY DeFi and the <br />
+                      incentivized opportunities by
+                      <br /> attending a free Rapid Concept
+                      <br />
+                      Workshop online.
+                    </span>
+                    <div className="pt-3 buttn-5">
+                      <button class="btn  btn-get-nrgy-4" type="submit">
+                        <span className="N2N-font" id="font-id">
+                          GET STAKING
+                        </span>
+                      </button>
+                    </div>
+                  </div>
+                </div>
                 </div>
               </div>
             </div>

@@ -1,6 +1,10 @@
 .AlwaysReady{
 background-color: rgb(2, 12, 41);
 }
+.al-row-01{
+    display: flex;
+    justify-content: center;
+}
 .Always-row{
     padding-left: 125px;
     padding-top: 52px;

@@ -4,9 +4,9 @@ function Technology() {
   return (
     <>
 
-      <section className="Technology">
+      <section className="tevh">
     <div>
-      
+      <h1>Hi welcome</h1>
     </div>
       </section>
     </>

@@ -35,6 +35,10 @@ border-radius: 35px;
     padding-top: 133px;
 
 }
+.def-row-01{
+    display: flex;
+    justify-content: center;
+}
 .col-btn{
     padding-left: 24px;
     position: relative;

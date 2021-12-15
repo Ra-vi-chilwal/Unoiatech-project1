@@ -10,6 +10,7 @@ import Nrgyon from './components/Nrgyon';
 import Staking from "./components/Staking";
 import Rewards from "./components/Rewards";
 import Technology from "./components/Technology";
+import Footer from "./components/Footer";
 function App() {
   return (
     <div className="App">
@@ -23,7 +24,8 @@ function App() {
       <Nrgyon />  
     <Staking />
     <Rewards /> 
-    <Technology />
+    {/* <Technology /> */}
+    <Footer />
     </div>
   );
 }

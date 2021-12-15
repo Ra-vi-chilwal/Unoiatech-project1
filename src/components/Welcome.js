@@ -27,7 +27,7 @@ function Welcome() {
               <span className="N2N-span pt-4">WELCOME TO NRGY</span>
             </div>
             <span className="pt-4 N1N-h1">
-              {" "}
+              
               A BETTER <br className="mobile40" /> FINANCIAL{" "}
               <br className="mobile40" />
               SYSTEM FOR <br className="mobile40" />
@@ -36,7 +36,7 @@ function Welcome() {
 
             <p className="N2N-NRGY pt-4">
               NRGY is the future of decentralized finance, a one-of-a-kind
-              <br className="mobile40" />
+              <br className="mobile40"/>
               distributed business building platform that enables the creation
               of <br className="mobile40" />
               decentralized apps (DApps). NRGY leverages the power of its
@@ -70,7 +70,7 @@ function Welcome() {
         <div className="pt-5 section2">
           <div className="container">
             <div className="card card-W2W">
-              <div className="row">
+              <div className="row row-st-col">
                 <div className="col-md-12 col-sm-12 col-xs-12 col-lg-4 st-colm ">
                   <div className="st-elememt">
                     <span className="N2N-1st pt-5">1st</span>

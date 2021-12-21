@@ -533,6 +533,9 @@
   }
   .N2N-span-33 {
     font-size: 14px;
+    justify-content: center;
+    display: flex;
+    text-align:center;
   }
   .new-to {
     padding-top: 0px;
@@ -576,6 +579,10 @@
     justify-content: center;
     text-align: center;
     margin: 11px;
+  }
+  .market-make{
+    font-size: 14px;
+    text-align: center;
   }
 }
 

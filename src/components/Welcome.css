@@ -193,7 +193,7 @@ padding-top: 34px;
     .N2N-NRGY {
         display: flex;
         text-align: center;
-        font-size: 13px;
+        font-size: 14px;
         line-height: 166%;
         padding: 10px;
         justify-content: center;
@@ -221,13 +221,15 @@ padding-top: 34px;
     margin-top: 12px;
     padding: 9px 22px 9px 25px;
     font-size: 14px;
+    margin: 0px;
     }
     .st-colm{
-        padding-left: 24px;
+        /* padding-left: 24px; */
         padding-top: 34px;
+        margin-left: 0px;
         }
         .st-colm-3{
-       
+            margin-left: 0px;
         font-size: 8px;
         padding-top: 34px;
         }
@@ -236,6 +238,7 @@ padding-top: 34px;
             text-align: center;
         font-size: 8px;
         padding-top: 34px;
+        margin-left: 0px;
         }
         .st-colm-1{
             justify-content: center;

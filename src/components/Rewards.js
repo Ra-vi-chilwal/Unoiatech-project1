@@ -36,7 +36,7 @@ function Rewards() {
                   <br className="mobile40" /> From?
                 </span>
                 <br className="mobile40" />
-                <div className="pt-3">
+                <div className="pt-3 market-make">
                   <span className="">
                     Market Maker Staking algorithm targets a 4%
                     <br className="mobile40" />

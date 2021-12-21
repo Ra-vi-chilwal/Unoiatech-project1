@@ -123,7 +123,7 @@ function Welcome() {
                     <div className="pt-2  text-center text-light share_in create-with">
                       <span className=" pb-5 resp-span-W2W">
                         Create with better <br className="mobile40" />
-                        technology and <br className="mobile40" />
+                        technology and <br className="" />
                         distribution
                       </span>
                     </div>

@@ -36,7 +36,7 @@ function Forntier(){
         </div>
        
         <div className="conten-45">
-            <p className="F3F_ptag">A high-value digital asset designed to secure the future <br/><span className="F3F_ptagp">-- $NRGY</span> is a strong, liquid cryptocurrency token that <br  className="m-gapp"/>fuels powerful new DeFi innovations.<br className="m-gapp"/>
+            <p className="F3F_ptag">A high-value digital asset designed to secure the future <br className="m-gapp"/><span className="F3F_ptagp">-- $NRGY</span> is a strong, liquid cryptocurrency token that <br  className="m-gapp"/>fuels powerful new DeFi innovations.<br className="m-gapp"/>
             <br  className="m-gapp"/>
              Fair market principals from the start, are used to <br  className="m-gapp"/><span className="F3F_ptagp">promote deep liquidity of $NRGY to ensure capital<br  className="m-gapp"/> input is proportional to the supply.</span></p>
         </div>

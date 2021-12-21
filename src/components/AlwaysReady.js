@@ -179,9 +179,10 @@ function DeFi() {
                   </div>
                 </div>
                 <div className="col-6 NARGYGO-A5A">
-                  <button class="btn  btn-get-nrgy-2" type="submit">
-                    <span className="N2N-font">GET $NRGYGO</span>
-                  </button>
+                <button class="btn  btn-get-nrgy-1 panch" type="submit">
+                
+                <span className="N2N-font">GET NRGY</span>
+              </button>
                 </div>
               </div>
               

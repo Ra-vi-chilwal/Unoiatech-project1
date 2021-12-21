@@ -195,6 +195,7 @@ padding-top: 34px;
         text-align: center;
         font-size: 13px;
         line-height: 166%;
+        padding: 10px;
         justify-content: center;
     }
     .btn-get-nrgy-1{
@@ -203,7 +204,7 @@ padding-top: 34px;
         border-radius: 64px;
        
         margin-top: 12px;
-        padding: 1px 27px 1px 27px;
+        padding: 7px 27px 7px 27px;
         font-size: 14px;
         /* border: 1px solid #ED652E; */
     }

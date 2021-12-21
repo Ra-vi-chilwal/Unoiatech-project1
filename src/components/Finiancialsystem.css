@@ -96,7 +96,7 @@ border: 1px solid rgba(255, 255, 255, .2);
 @media  screen and (min-width:350px)and (max-width:768px) {
 
     .F2F-head {
-        padding-top: 70px;
+        padding-top: 10px;
         position: relative;
         font-size: 35px;
         line-height: 120%;
@@ -135,7 +135,7 @@ border: 1px solid rgba(255, 255, 255, .2);
     padding-right: 24px;
 }
 }
-@media  screen and (min-width:501px)and (max-width:767px) {
+@media  screen and (min-width:501px)and (max-width:768px) {
 
 }
 @media  screen and (min-width:1450px)and (max-width:1650px) {

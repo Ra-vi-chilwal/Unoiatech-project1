@@ -29,7 +29,7 @@ function Rewards() {
       <div className="Rewards">
         <div className="container-4">
           <div className="row whrer-row">
-            <div className="col-md-4 col-sm-12 col-xs-6 classic-12">
+            <div className="col-md-12 col-lg-4 col-sm-12 col-xs-6 classic-12">
               <div>
                 <span className="N2N-span-1 position-relative">
                   Where Do <br className="mobile40" /> Rewards Come{" "}
@@ -66,7 +66,7 @@ function Rewards() {
                 </button>
               </div>
             </div>
-            <div className="col-md-4 col-sm-12">
+            <div className="col-md-12 col-lg-4 col-sm-12">
               <div class="position-absolute end-0">
                 <img class="img-fluid vector4923" src={Vector4923} alt="" />
               </div>
@@ -131,7 +131,7 @@ function Rewards() {
           </div>
         </div>
         <div className="row curve-tech">
-          <div className="col-md-8 col-sm-10 col-xs-10 read_top">
+          <div className="col-md-11 col-lg-8 col-sm-11 col-xs-11 read_top">
             <div className="tech-ahead">
               <p>TECHNOLOGY AHEAD OF THE CURVE</p>
             </div>
@@ -373,7 +373,7 @@ function Rewards() {
         </div>
         {/* Block chain section ..................................... */}
         <div className="row row-chain position-relative">
-          <div className="col-md-8 col-sm-10 col-xs-10 read_top">
+          <div className="col-md-10 col-lg-8 col-sm-10 col-xs-10 read_top">
             <div>
               <p className="WAY-ORG">
                 <strong>THE BETTER WAY</strong>
@@ -500,7 +500,7 @@ function Rewards() {
             </div>
           </div>
           <div className="row top-get">
-            <div className="col-md-10">
+            <div className="col-md-12 col-lg-10">
               <div className="row">
                 <div className="col-md-4">
                   <div className="img-getstart">
@@ -512,9 +512,9 @@ function Rewards() {
                     </h5>
                     <span className="stake-pr">
                       Earn Rewards for being a liquidity
-                      <br />
+                      <br className="g-cap"/>
                       provider in NRGY while having full
-                      <br />
+                      <br className="g-cap"/>
                       access to your funds
                     </span>
                   </div>
@@ -529,9 +529,9 @@ function Rewards() {
                     </h5>
                     <span className="stake-pr">
                       Participate in the incentivized
-                      <br />
+                      <br className="g-cap"/>
                       distribution of NRGY DApps and
-                      <br />
+                      <br className="g-cap"/>
                       iNFT ecosystem
                     </span>
                   </div>
@@ -546,9 +546,9 @@ function Rewards() {
                     </h5>
                     <span className="stake-pr">
                       Build your own decentralized
-                      <br />
+                      <br className="g-cap"/>
                       application or monetize your
-                      <br />
+                      <br className="g-cap"/>
                       intellectual property with an iNFT
                     </span>
                   </div>
@@ -560,13 +560,13 @@ function Rewards() {
         {/* Power Project .......................... */}
 
         <div className="row enter-1">
-          <div className="col-xs-6 col-sm-12 col-md-6 stayyou">
+          <div className="col-xs-6 col-sm-12 col-md-10 col-lg-6 stayyou">
             <img className="welcome-img-2 staytoy" src={POWER} alt="" />
           </div>
 <div className="position-absolute start-0">
   <img className="v4935" src={Vector4935} alt=""/>
 </div>
-          <div className="col-xs-6 col-sm-12 col-md-6 N2N-item">
+          <div className="col-xs-6 col-sm-12 col-md-11 col-lg-6 N2N-item">
             <div className="pt-5">
               <span className="N2N-span pro-01">BUILT A DAPP</span>
             </div>
@@ -666,9 +666,9 @@ function Rewards() {
         </div>
 
         <div className="row defi-sys">
-          <div className="col-md-10 col-sm-12 col-xs-12">
+          <div className="col-md-12 col-lg-10 col-sm-12 col-xs-12">
             <div className="row">
-              <div className="col-md-4 new-to">
+              <div className="col-md-6 col-lg-4 new-to">
               
                 <div className="learn-3">
                <div className="img-tp">
@@ -701,7 +701,7 @@ function Rewards() {
                 </div>
               </div>
 
-              <div className="col-md-4 THEREADY2">
+              <div className="col-md-6 col-lg-4 THEREADY2">
               
                 <div className="learn">
                   <img className="ent-1 position-relative" src={THEREADY2} alt="" />
@@ -730,7 +730,7 @@ function Rewards() {
                 </div>
               </div>
 
-              <div className="col-lg-4 col-mEcosystem">
+              <div className="col-md-6 col-lg-4 col-mEcosystem">
                
                 <div className="learn-2">
                   <img className="ent-2 position-relative" src={Ecosystem} alt="" />

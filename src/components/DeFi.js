@@ -51,19 +51,20 @@ function DeFi() {
               </div>
 
               <div className="pt-5 row def-row-01">
-                <div className="col-6 Show-Current">
+                <div className="col-sm-6 col-lg-6 col-md-12 Show-Current">
                   <span className="pt-5 mix-show">
                     SHOW CURRENT SUPPLY 104k with a<br className="mobile40" /> MAX of 4.3 million
                   </span>
                 </div>
-                <div className="col-md-2 btn-pdd col-btn position-relative">
+               
+                <div className="col-md-4 col-lg-2 btn-pdd col-btn position-relative">
                   <button class="btn btn-get-nrgy-2" type="submit">
                     <img src={vector} alt="" />
                     <span className="N2N-font">GET NRGY</span>
                   </button>
                   <br className="mobile40" />
                   </div>
-                  <div className="col-md-3 col-btn">
+                  <div className="col-md-6 col-lg-3  col-btn">
                   <button
                     class="btn btn-outline-light btn-learn-2"
                     type="submit"
@@ -71,7 +72,8 @@ function DeFi() {
                     <span className="N2N-font">LEARN ABOUT STAKING</span>
                   </button>
                 </div>
-              </div>
+                </div>
+            
             </div>
           </div>
         </div>

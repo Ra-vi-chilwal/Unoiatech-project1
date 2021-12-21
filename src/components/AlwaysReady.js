@@ -14,7 +14,7 @@ function DeFi() {
       <section className="AlwaysReady">
         <div className="container-Always">
           <div className="row  al-row-01">
-          <div className="col-md-6 col-sm-12 col-xs-12">
+          <div className="col-md-12 col-lg-6 col-sm-12 col-xs-12">
           <div className="Always-row">
               <div className="coin-A2A position-relative">
                 <p className="A2A-org">$NRGYGO ON BNB</p>
@@ -45,13 +45,13 @@ function DeFi() {
               </div>
             </div>
           </div>
-          <div className="col-md-4 col-xs-12 col-sm-12">
+          <div className="col-md-12 col-lg-4 col-xs-12 col-sm-12">
           <img className="THECOIN_23" src={THECOIN} alt="" />
           </div>
             {/*  */}
            
             <div className="row text-A1A">
-              <div className="col-xs-12 col-sm-12 col-md-6 Benefits-A1A">
+              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6 Benefits-A1A">
                 <p className="Benefit-A1A A2A-ben">
                   Benefits to $NRGY Stakers:
                 </p>
@@ -93,7 +93,7 @@ function DeFi() {
                 <img class="img-fluid" src={Group61} alt="" />
               </div>
            
-              <div className="col-xs-12 col-sm-12 col-md-6">
+              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                 <p className="Benefit-A1A A2A-ben">Benefits of $NRGYGO:</p>
                 <div className="coin_p_C2A row">
                   <div className="col-1">

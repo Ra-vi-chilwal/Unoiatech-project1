@@ -174,7 +174,7 @@ line-height: 110%;
     width:43%;
 }
 }
-@media  screen and (min-width:501px)and (max-width:768px) {
+@media  screen and (min-width:501px)and (max-width:767px) {
     .G-6174{
         width: 100%;
     }
@@ -258,4 +258,18 @@ line-height: 110%;
     padding-top: 361px;
     width:43%;
 }
+}
+@media  screen and (min-width:768px)and (max-width:900px) {
+    .mix-show{
+        text-align: center;
+    display: flex;
+    justify-content: center;
+    }
+    .col-btn {
+        padding-top: 12px;
+
+        padding-left: 69px;
+    }
+    
+    
 }

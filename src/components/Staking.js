@@ -11,11 +11,11 @@ function Staking(){
     <div className="staking">
 
     <div className="row enter-1">
-          <div className="col-xs-6 col-sm-12 col-md-6 stayyou">
+          <div className="col-xs-6 col-sm-12 col-md-12 col-lg-6 stayyou">
             <img className="welcome-img-2 staytoy" src={STAYOU} alt="" />
           </div>
         
-          <div className="col-xs-6 col-sm-12 col-md-6 N2N-item">
+          <div className="col-xs-6 col-sm-12 col-md-12 col-lg-6 N2N-item">
           <div class="position-absolute end-0">
               <img className="img-bgg" src={Vector495} alt="" />
             </div>

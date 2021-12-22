@@ -17,13 +17,13 @@ function Nrgyon() {
             <img className="V493" src={Vector493} alt="" />
           </div>
           <div className="row count-2">
-            <div className="col-md-12 col-lg-4 col-xs-6 col-sm-12 c-count-1">
+            <div className="col-md-12 col-lg-6 col-xl-4 col-xs-6 col-sm-12 c-count-1">
               <div>
                 <span className="N2N-span-1 position-relative">
                   NRGY on
                   <br className="mobile40" /> ETHEREUM
                 </span>
-                <br className="mobile40" />
+                <br/>
                 <span className="pt-5 N2N-span-3">
                   The NRGY DeFi coin is our foundational currency that
                   <br className="mobile40" />
@@ -131,7 +131,7 @@ function Nrgyon() {
                   <br className="mobile40" />
                   CHAIN
                 </span>
-                <br className="mobile40" />
+                <br />
                 {/* choti ball */}
 
                 <span className="N2N-span-3">

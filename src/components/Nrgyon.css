@@ -160,6 +160,21 @@ line-height: 120%;
         color: white;
         font-weight: 700;
 }
+
+.btn-get-nrgy-3:hover {
+    background: none;
+    /* box-shadow:none; */
+    border: 1px solid #ED652E;
+    
+    color: #ED652E;
+}
+.btn-get-nrgy-3:focus {
+    background: none;
+    /* box-shadow:none; */
+    border: 1px solid #ED652E;
+    
+    color: #ED652E;
+}
 .total-supply{
     display: flex;
     justify-content: end;
@@ -237,6 +252,7 @@ display: none;
         display: flex;
         font-size: 30px;
         justify-content: center;
+        padding: 10px;
     }
     .c-count-1 {
         padding-left: 0px;
@@ -443,6 +459,50 @@ display: none;
 }
 @media  screen and (min-width:768px)and (max-width:968px) {
     .play-none{
+        display: none;
+    }
+}
+@media  screen and (min-width:1024px)and (max-width:1200px) {
+    .c-count-1 {
+        padding: 13px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    .container-6 {
+        margin-right: 0px;
+        padding-top: 30px;
+    }
+    .col-N2N-2 {
+        padding-left: 0px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    .bg-N2N2-2 {
+        margin-right: 72px;
+    }
+    .play-none{
+        display: none;
+    }
+    .total-suppl {
+        margin-right: 76px;
+       
+    }
+    .etih-rin{
+        display: none;
+    }
+    .total-supply {
+        
+        padding-right: 77px;
+    }
+    .N2N-span-3 {
+        
+       
+       
+        font-size: 15px;
+       
+        
+    }
+    .pin-ball{
         display: none;
     }
 }

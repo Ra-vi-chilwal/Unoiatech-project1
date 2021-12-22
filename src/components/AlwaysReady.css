@@ -294,7 +294,7 @@ line-height: 120%;
         font-size: 16px;
         text-align: center;
         line-height: 195%;
-  
+        padding: 10px;
 }
 .Every-trs{
     padding-top: 23px;
@@ -353,6 +353,36 @@ line-height: 120%;
 .img-ring{
     display: none;
 }
+}
+@media  screen and (min-width:1024px)and (max-width:1200px) {
+    .Always-row {
+        padding-left: 0px;
+        padding-top: 52px;
+    }
+    .Benefits-A1A {
+        padding-left: 0px;
+        padding-top: 11px;
+    }
+    .card-W2W5 {
+        padding: 24px;
+        margin-right: 0px; 
+         margin-left: 0px;
+    
+    }
+    .img-ring {
+        display: none;
+    }
+    .img-El8{
+        display: none;
+    }
+    .Group61{
+        display: none;
+    }
+    .V493{
+        display: none;
+    }
+    
+    
 }
 
 @media  screen and (min-width:1400px)and (max-width:1500px) {

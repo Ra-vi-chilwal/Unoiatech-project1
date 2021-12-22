@@ -1,13 +1,24 @@
 
-body {
-    background: #04050a;
-  }
+.last{
+  background-color: rgb(2, 12, 41);
+}
+.for-mhi{
+  padding-top: 3rem;
+}
   
   .text-small {
     font-size: 0.9rem;
   }
   #img-ico{
     margin: 10px;
+  }
+  .img-foot-ls{
+    display: flex;
+    justify-content: center;
+  }
+  .img-foot-ls0{
+    display: flex;
+    justify-content: end;
   }
   #inner-footer{
    
@@ -60,8 +71,9 @@ border-radius: 7px;
 }
 .F2F_menu2{
   font-family: "poppins";
-font-size: 18px;
+font-size: 15px;
   color: white;
+  padding-left: 131px;
   /* box-shadow: 0 4px 70px rgb(14 13 30 / 50%); */
 }
 .F2F_menu{
@@ -69,6 +81,9 @@ font-size: 18px;
 
   font-weight: 500;
   font-size: 16px;
+}
+.menu{
+  padding-right: 7px;
 }
 .F2F_menu:hover{
 color: #564ece;
@@ -103,8 +118,9 @@ color: #564ece;
 .h-divider{
   margin-top:45px;
   margin-bottom:5px;
+  margin-left: -54px;
   height:1px;
-  width:86%;
+  width:80%;
   border-top:2px solid gray;
 }
   
@@ -129,7 +145,7 @@ color: #564ece;
   
   footer{
     
-    background:  #0a0c15;
+    /* background:  #0a0c15; */
    
     background-repeat: no-repeat;
   width: "100%";
@@ -139,10 +155,33 @@ color: #564ece;
   .n4n-para{
     display: flex;
     justify-content: center;
+    padding-left: 131px;
+  }
+  .findus{
+    display: flex;
+    justify-content: center;
+    padding-left: 66px;
+  }
+  .foot-ls-1{
+    padding-left: 55px;
+  }
+  .re-end{
+    text-align: end;
+  }
+  .foot-ls{
+    text-align: end;
+  }
+  .foot-ls-2{
+    padding-left: 20px;
+    text-align: center;
+    
+  }
+  .fs-last5{
+    padding-left: 77px;
   }
   #N5N-logo{
    
-    padding-left: 144px;
+    padding-left: 139px;
     padding-top: 46px;
   }
   .F2F_heading{
@@ -163,6 +202,68 @@ color: #564ece;
         padding-left: 0px;
         padding-top: 6px;
     }
+    }
+    @media screen and (min-width: 350px) and (max-width: 768px) {
+      .ft-0p{
+        display: none;
+      }
+      .re-end {
+       padding-left: 0px;
+        text-align: center;
+    }
+    #N5N-logo {
+      padding-left: 0px;
+      padding-top: 46px;
+  }
+  .findus {
+    display: flex;
+    justify-content: center;
+    padding-left: 0px;
+}
+.n4n-para {
+  display: flex;
+  justify-content: center;
+  padding-left: 0px;
+}
+.vt-0{
+  display: none;
+}
+.foot-ls {
+  text-align: center;
+}
+.foot-ls-1 {
+   padding-left: 0px;
+  text-align: center;
+}
+.foot-ls-1 {
+ 
+ text-align: center;
+}
+.foot-09{
+  text-align: center;
+}
+.fs-last5 {
+  padding-left: 38px;
+}
+.F2F_menu2 {
+ 
+  font-size: 13px;
+  color: white;
+   padding-left: 0px;
+  /* box-shadow: 0 4px 70px rgb(14 13 30 / 50%); */
+}
+.h-divider {
+  margin-top: 45px;
+  margin-bottom: 5px;
+  margin-left: 0px;
+  height: 1px;
+  width: 100%;
+  border-top: 2px solid gray;
+}
+.last2021{
+  text-align: center;
+}
+
     }
 
     

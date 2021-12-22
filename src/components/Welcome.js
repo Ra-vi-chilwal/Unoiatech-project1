@@ -43,10 +43,10 @@ function Welcome() {
               <br className="mobile40" />
               financial technologies with an incentivized network community.
             </p>
-            <div className="pt-4 btn-div">
-              <button class="btn  btn-get-nrgy-1" type="submit">
+            <div className="pt-4 btn-div position-relative">
+              <button class="btn  btn-get-nrgy-1 h-btn" type="submit">
                 <img className="btn-img-W2W" src={vector} alt="" />
-                <span className="N2N-font">GET NRGY</span>
+                <span className="N2N-font ">GET NRGY</span>
               </button>
               <button
                 class="btn btn-outline-light success btn-learn"

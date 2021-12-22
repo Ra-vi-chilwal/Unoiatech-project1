@@ -273,3 +273,28 @@ line-height: 110%;
     
     
 }
+@media  screen and (min-width:1024px)and (max-width:1200px) {
+    .Defi{
+        padding-top: 50px;
+    }
+    .G-6174{
+        width: 100%;
+    }
+    .Line19_D2D {
+        padding-top: 96px;
+    }
+    .N2N-font {
+        font-size: 12px;
+      
+    }
+    .col-btn {
+        padding-left: 0px;
+       
+        position: relative;
+    }
+    .btn-learn-2 {
+        border-radius: 64px;
+        margin-left: -22px;
+        padding: 14px 35px 14px 35px;
+    }
+}

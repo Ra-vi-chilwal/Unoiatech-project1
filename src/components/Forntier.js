@@ -24,7 +24,7 @@ function Forntier(){
    <img  className="F3F-82" src={Group82} alt=""/>
    
    </div>
-       <div className="col-sm-10 col-xs-10 col-md-10 col-lg-4 Forntier-F3F">
+       <div className="col-sm-10 col-xs-10 col-md-10 col-lg-6 col-xl-4 Forntier-F3F">
        <span className="N2N-span-2 pt-2">TOKENOMICS</span>
        
      
@@ -44,7 +44,7 @@ function Forntier(){
   
   
        </div>
-       <div className=" col-sm-10 col-xs-10 col-md-10 col-lg-4">
+       <div className=" col-sm-10 col-xs-10 col-md-10 col-lg-5 col-xl-4">
        <div class="position-absolute end-0 group12">
    
    <img  className="" src={Ellipse181} alt=""/>

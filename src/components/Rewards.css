@@ -7,6 +7,9 @@
   display: flex;
   justify-content: center;
 }
+.Ellipse187{
+  padding-top: 652px;
+}
 .gp-R2R {
   padding-top: 122px;
 }
@@ -63,6 +66,20 @@
   line-height: 110%;
   color: #3cebc8;
 }
+.exp-0{
+  font-family: "Poppins";
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 160%;
+}
+.explore-0{
+  font-family: "Poppins";
+font-style: italic;
+font-weight: bold;
+font-size: 54px;
+line-height: 120%;
+}
 .mobile300 {
   display: flex;
   align-items: center;
@@ -76,6 +93,19 @@
   font-weight: 700;
   /* margin: 15px; */
 }
+.btn-get-nrgy-4:focus{
+  background: white;
+  /* box-shadow:none; */
+  border: 1px solid white;
+  color: black; 
+}
+.btn-get-nrgy-4:hover{
+  background: white;
+  /* box-shadow:none; */
+  border: 1px solid white;
+  color: black; 
+}
+
 
 .elli344 {
   padding-top: 128px;
@@ -103,12 +133,23 @@
   margin-top: 134px;
   margin-left: 11px;
 }
-
+.help{
+  font-size: 12px;
+}
+.c-learn{
+  color: #ed652e;
+  font-style: italic;
+font-weight: bold;
+font-size: 16px;
+line-height: 110%;
+}
 .vector4923 {
   padding-top: 142px;
   padding-right: 0px;
 }
-
+.tp-pd{
+  padding-top: 360px;
+}
 .read_top {
   padding-top: 249px;
 }
@@ -116,7 +157,7 @@
   padding-top: 220px;
 }
 .elli342 {
-  padding-top: 17px;
+  padding-top: 78px;
 }
 .row-chain {
   display: flex;
@@ -187,7 +228,7 @@
 }
 .two-mg {
     padding-left: 39px;
-    padding-top: 100px;
+    padding-top: 120px;
   }
 /* techmology section................................................................................................ */
 .Every-trs01 {
@@ -210,7 +251,7 @@
   font-size: 14px;
 }
 .two-gap {
-  padding-top: 165px;
+  padding-top: 187px;
   padding-left: 38px;
 }
 .reward-11 {
@@ -234,6 +275,21 @@
 .btn-id-09 {
   background: linear-gradient(98.56deg, #ed652e -21.77%, #eb5214 106%);
   margin: 25px;
+  border: 1px solid  #ed652e;
+}
+.btn-id-09:hover{
+  background: none;
+  /* box-shadow:none; */
+  border: 1px solid #ED652E;
+  
+  color: #ED652E;
+}
+.btn-id-09:focus{
+  background: none;
+  /* box-shadow:none; */
+  border: 1px solid #ED652E;
+  
+  color: #ED652E;
 }
 .way-01 {
   color: #3cebc8;
@@ -261,7 +317,7 @@
   margin: 6px;
 }
 .appli-top {
-  padding-top: 102px;
+  padding-top: 124px;
 }
 .head-three-mg {
   padding-top: 31px;
@@ -381,6 +437,9 @@
     .Rewards {
       padding-top: 5px;
     }
+    .v-tr{
+      display: none;
+    }
 
 .learn-3 {
   padding-top: 0px;
@@ -487,6 +546,9 @@
     display: flex;
     justify-content: center;
   }
+  .help{
+    font-size: 15px;
+  }
   .THEREADY2 {
     padding-top: 0px;
     display: flex;
@@ -507,18 +569,23 @@
   .new-to-defi0 {
     width: 100%;
   }
-  .ent{
-    width: 100%;
+ 
+   
     
-      top: 0px;
+    .ent {
+      width: 100%;
+      top: -129px;
       z-index: 1;
+      margin-bottom: -287px;
+
   
   }
   .ent-1{
     width: 100%;
     
-      top: 0px;
-      z-index: 1;
+    top: 23px;
+    z-index: 1;
+    margin-bottom: -97px;
   
   }
   .N2N-span-33{
@@ -528,9 +595,9 @@
   }
   .ent-2{
     width: 100%;
-    
-      top: 0px;
-      z-index: 1;
+    top: 0px;
+    z-index: 1;
+    margin-bottom: -170px;
   
   }
   .pad-12 {
@@ -593,6 +660,10 @@
     font-size: 14px;
     text-align: center;
   }
+  .tp-pd {
+    padding: 17px;
+    text-align: center;
+  }
   .grt-yu{
     padding: 10px;
   }
@@ -601,6 +672,15 @@
 @media screen and (min-width: 501px) and (max-width: 768px) {
   .WAY-ORG {
     text-align: center;
+  }
+ 
+
+  .tp-pd {
+    padding: 17px;
+    text-align: center;
+  }
+  .v-tr{
+    display: none;
   }
   .Ecosystem {
     padding-top: 0px;
@@ -611,6 +691,7 @@
     display: flex;
     text-align: center;
     justify-content: center;
+    padding: 10px;
   }
   .market-make{
     text-align: center;
@@ -688,6 +769,22 @@
     margin-top: 37px;
     border: 1px solid rgba(255, 255, 255, 0.2);
   }
+  .help{
+    font-size: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+  .gop{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  .c-learn{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
   .vector4923 {
     display: none;
   }
@@ -760,7 +857,7 @@ margin: 10px;
 }
 .ent-1{
   width:100%;
-  top: 117px;
+  top: 86px;
   z-index: 1;
 }
 .ent-2{
@@ -769,4 +866,64 @@ margin: 10px;
   z-index: 1;
 }
 
+
+}
+@media screen and (min-width: 501px) and (max-width: 767px) {
+  .m-ecosys{
+  
+    margin-right: 101px;
+    margin-left: 180px;
+  }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1200px) {
+  .Rewards {
+ 
+    padding-top: 0px;
+}
+.v4935{
+  display: none;
+}
+.ft-0p{
+  display: none;
+}
+.help{
+  font-size: 15px;
+}
+.mobile40{
+  display: none;
+}
+.whrer-row {
+  padding-left:20px ;
+  display: flex;
+  justify-content: start;
+}
+.xclass-12{
+  padding-left: 127px;
+}
+.read_top {
+  padding-top: 49px;
+  text-align: center;
+}
+.curve-tech {
+ position: relative;
+  text-align: center;
+}
+.getStart {
+  padding-top: 135px;
+}
+.GET-CARD {
+
+  margin-left: 11px;
+  margin-right: 15px;
+}
+.v-tr{
+  display: none;
+}
+.tp-pd {
+  padding-top: 119px;
+}
+.btn-get-nrgy-4 {
+  width: 175px;
+}
 }

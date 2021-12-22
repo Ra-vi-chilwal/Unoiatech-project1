@@ -90,3 +90,28 @@ filter: blur(650px);
      padding-top: 39px;
     }
 }
+@media  screen and (min-width:1024px)and (max-width:1200px) {
+    .img-176_S2S {
+     display: none;
+    
+    }
+    .img-bgg{
+        display: none;
+    }
+    .staytoy {
+        padding-left: 0px;
+        padding-top: 100px;
+    }
+    .N1N-h1 {
+        
+        font-size: 46px;
+        
+    }
+    .staking {
+      
+        padding-top: 10px;
+    
+    }
+    
+    
+}

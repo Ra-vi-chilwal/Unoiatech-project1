@@ -57,7 +57,7 @@ function DeFi() {
                   </span>
                 </div>
                
-                <div className="col-md-4 col-lg-2 btn-pdd col-btn position-relative">
+                <div className="col-md-4 col-lg-3 col-xl-2 btn-pdd col-btn position-relative">
                   <button class="btn btn-get-nrgy-2" type="submit">
                     <img src={vector} alt="" />
                     <span className="N2N-font">GET NRGY</span>

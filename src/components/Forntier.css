@@ -251,3 +251,14 @@ display: none;
 display: none;
 }
 }
+
+@media  screen and (min-width:1024px)and (max-width:1200px) {
+    .F3F-82{
+        display: none;
+    }
+    .Coin {
+        background-color: rgb(2, 12, 41);
+        color: white;
+        padding-top: 50px;
+    }
+}

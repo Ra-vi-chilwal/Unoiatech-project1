@@ -7,148 +7,167 @@ import fVector from "../images/fVector.png";
 import yVector from "../images/yVector.png";
 import iVector from "../images/iVector.png";
 import Vector93 from "../images/Vector93.png";
+import Vector4977 from "../images/Vector4977.png";
 function Footer() {
   return (
     <>
-     
-      <div class=" d-flex flex-column h-50">
-     
-        
-
-        <footer class="w-100 py-4 flex-shrink-0">
-          <div class="container py-4">
-            <div class="row gy-4 gx-5">
-          
-              <div class="col-lg-4 col-md-4 pl-5">
-              
-                <div className="position-absolute start-0">
-              <img id="" src={Vector93} alt=""/>
+      <div className="last">
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-3 col-md-12 col-sm-12 pt-5 re-end">
+              <img
+                className="position-absolute start-0 ft-0p"
+                src={Vector93}
+                alt=""
+              />
+              <img id="N5N-logo" src={logo} alt="" />
+              <div className="pt-5 text-light text-center">
+               
+              <h6 className="findus">Find Us:</h6>
               </div>
-                <form action="#">
-                <img id="N5N-logo" src={logo} alt=""/>
-                </form>
-                <p class="mb-2 mt-3 F2F_ptag">
-             find us:
-                </p>
-                <div className="n4n-para">
-                 <img id="img-ico" src={fVector} alt=""/>
 
-                 <img id="img-ico" src={iVector} alt=""/>
-                 <img id="img-ico" src={tVector} alt=""/>
-                 <img id="img-ico" src={yVector} alt=""/>
+              <div className="n4n-para pt-3">
+                <img id="img-ico" src={fVector} alt="" />
 
-                  
-                
-                </div>
+                <img id="img-ico" src={iVector} alt="" />
+                <img id="img-ico" src={tVector} alt="" />
+                <img id="img-ico" src={yVector} alt="" />
               </div>
-              
-              <div class="col-lg-2 col-md-4" id="footer-img">
-              
+            </div>
+            <div className="col-lg-2 col-md-4 col-4 pt-5 foot-ls">
+              <h6 class="text-white mb-3">LEARN</h6>
+              <ul class="list-unstyled text-muted F2F_menu">
+                <li>
+                  <a href="_blank " className="F2F_menu  pt-0">
+                    LEARN
+                  </a>
+                </li>
+                <li>
+                  <a href="_blank" className="F2F_menu  pt-0">
+                    LEARN
+                  </a>
+                </li>
+                <li>
+                  <a href="_blank" className="F2F_menu pt-0">
+                    LEARN
+                  </a>
+                </li>
+                <li>
+                  <a href="_blank" className="F2F_menu pt-0">
+                    LEARN
+                  </a>
+                </li>
+                <li>
+                  <a href="_blank" className="F2F_menu pt-0">
+                    LEARN
+                  </a>
+                </li>
+                <li>
+                  <a href="_blank" className="F2F_menu pt-0">
+                    LEARN
+                  </a>
+                </li>
+                <li>
+                  <a href="_blank" className="F2F_menu pt-0">
+                    LEARN
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div className="col-lg-2 col-md-4 col-4 pt-5 foot-ls-1">
+              <h6 class="text-white mb-3">DISCOVER</h6>
+              <ul class="list-unstyled text-muted F2F_menu">
+                <li>
+                  <a href="_blank" className=" menu90 pt-0">
+                    Discover
+                  </a>
+                </li>
+                <li>
+                  <a href="_blank" className=" menu90 pt-0">
+                    Discover
+                  </a>
+                </li>
+                <li>
+                  <a href="_blank" className=" menu90 pt-0">
+                    Discover
+                  </a>
+                </li>
+                <li>
+                  <a href="_blank" className=" menu90 pt-0">
+                    Discover
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div className="col-lg-1 col-4 pt-5 foot-09">
+              <h6 class="text-white mb-3">DAPPS</h6>
+              <ul class="list-unstyled text-muted F2F_menu">
+                <li>
+                  <a href="_blank " className="F2F_menu pt-0">
+                    DAPPS
+                  </a>
+                </li>
 
-              <div class="col-lg-2 col-md-4 pl-5" id="footer-img">
-          
-          <h5 class="text-white mb-3">LEARN</h5>
-         <ul class="list-unstyled text-muted F2F_menu">
-           <li>
-             <a href="_blank " className="F2F_menu pt-0">LEARN</a>
-           </li>
-           <li>
-             <a href="_blank" className="F2F_menu pt-0">LEARN</a>
-           </li>
-           <li>
-             <a href="_blank" className="F2F_menu pt-0">LEARN</a>
-           </li>
-           <li>
-             <a href="_blank" className="F2F_menu pt-0">LEARN</a>
-           </li>
-           <li>
-             <a href="_blank" className="F2F_menu pt-0">LEARN</a>
-           </li>
-         </ul>
-     
-       </div>
-              </div>
-      
-              
-              <div class="col-lg-2 col-md-4 pl-5" id="footer-img">
-          
-                 <h5 class="text-white mb-3">Discover</h5>
-                <ul class="list-unstyled text-muted F2F_menu">
-                  <li>
-                    <a href="_blank " className="F2F_menu pt-0">Discover</a>
-                  </li>
-                  <li>
-                    <a href="_blank" className="F2F_menu pt-0">Discover</a>
-                  </li>
-                  <li>
-                    <a href="_blank" className="F2F_menu pt-0">Discover</a>
-                  </li>
-                  <li>
-                    <a href="_blank" className="F2F_menu pt-0">Discover</a>
-                  </li>
-                  <li>
-                    <a href="_blank" className="F2F_menu pt-0">Discover</a>
-                  </li>
-                </ul>
+                <li>
+                  <a href="_blank" className="F2F_menu pt-0">
+                    DAPPS
+                  </a>
+                </li>
+                <li>
+                  <a href="_blank" className="F2F_menu pt-0">
+                    DAPPS
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div className="col-lg-1 col-mg-4 col-4 pt-5 foot-ls-2">
+              <h6 class="text-white mb-3">DASHBORD</h6>
+              <ul class="list-unstyled text-muted F2F_menu">
+                <li>
+                  <a href="_blank " className=" pt-0">
+                    Dashboard
+                  </a>
+                </li>
+                <li>
+                  <a href="_blank" className=" pt-0">
+                    Dashboard
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div className="col-lg-2 col-4  fs-last5">
             
-              </div>
-              <div class="col-lg-2 col-md-4 pl-5" id="footer-img">
-          
-          <h5 class="text-white mb-3">DAPPS</h5>
-         <ul class="list-unstyled text-muted F2F_menu">
-           <li>
-             <a href="_blank " className="F2F_menu pt-0">DAPPS</a>
-           </li>
-           <li>
-             <a href="_blank" className="F2F_menu pt-0">DAPPS</a>
-           </li>
-           <li>
-             <a href="_blank" className="F2F_menu pt-0">DAPPS</a>
-           </li>
-          
-         </ul>
-     
-       </div>
-              <div class="col-lg-2 col-md-2 pl-5" id="footer-img">
-              <h5 class="text-white mb-3 ">New to DeFi</h5>
-                <ul class="list-unstyled text-muted">
-                  <li>
-                    <a href="_blank" className="F2F_menu pt-0">New to DeFi</a>
-                  </li>
-                  <li>
-                    <a href="_blank" className="F2F_menu pt-0">New to DeFi</a>
-                  </li>
-                  
-                  <li>
-                    <a href="_blank" className="F2F_menu pt-0">New to DeFi
-                    </a>
-                  </li>
-                 
-                </ul>
-              </div>
-              <div class="col-lg-2 col-md-4 F2F_menu">
-              
-              </div>
-             
-              <div className="h-divider">
-
-
-                </div>
-
+              <img
+                className="position-absolute end-0 vt-0 "
+                src={Vector4977}
+                alt=""
+              />
+              <h6 class="text-white mb-3 for-mhi">New to DeFi</h6>
+              <ul class="list-unstyled text-muted F2F_menu">
+                <li>
+                  <a href="_blank " className="pt-0">
+                    New to DeFi
+                  </a>
+                </li>
+              </ul>
             </div>
-            <div className="row pt-2">
-            <div className="col-6">
-                 <p className="F2F_menu2">2021 - Starstake™. All rights reserved</p>
-            </div>
-            <div className="col-6">
-            <p className="F2F_menu2">Terms & Conditions
-Privacy Policy</p>
-            </div>
+            <div class="col-lg-2 col-md-4 F2F_menu"></div>
 
+            <div className="h-divider"></div>
+          </div>
+          <div className="row pt-2">
+            <div className="col-lg-6 col-12 ">
+              <p className="F2F_menu2 last2021">
+                2021 - Starstake™. All rights reserved
+              </p>
+            </div>
+            <div className="col-lg-6 col-12">
+              <p className="F2F_menu2 text-center">
+                Terms & Conditions Privacy Policy
+              </p>
             </div>
           </div>
-                
-        </footer>
+        </div>
       </div>
     </>
   );

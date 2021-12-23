@@ -166,7 +166,7 @@ function Footer() {
           <div className="d-flex h-head">
             <div className="">
             <p className="text-light term">
-                Terms & Conditions Privacy Policy
+            2021 - Starstake™. All rights reserved
               </p> 
             </div>
             <div className="text-light">

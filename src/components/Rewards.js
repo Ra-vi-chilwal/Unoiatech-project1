@@ -708,7 +708,7 @@ function Rewards() {
                     <div className="card card-new">
                       <div className="new-to-1 position-relative ">
                         <span className="c-learn">LEARN</span>
-                        <h4 >
+                        <h4  className="gop">
                           <strong>New To Defi?</strong>
                         </h4>
                         <span className="help">

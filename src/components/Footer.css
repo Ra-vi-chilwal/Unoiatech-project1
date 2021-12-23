@@ -5,12 +5,27 @@
 .for-mhi{
   padding-top: 3rem;
 }
-  
+.foor-to{
+  padding-top: 100px;
+}
+.logo-items12{
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  padding-top: 33px;
+}
+.ft-0p{
+  padding-top: 119px;
+  width: 13%;
+}
   .text-small {
     font-size: 0.9rem;
   }
   #img-ico{
     margin: 10px;
+  }
+  #img-ico-1{
+    padding: 19px;
   }
   .img-foot-ls{
     display: flex;
@@ -49,6 +64,9 @@ border-radius: 7px;
   width:40px;
   height:44px;
 }
+.h-head{
+  justify-content: space-between;
+}
 #btn{ 
   padding: 18px 58px;
   font-family: 'Poppins';
@@ -73,8 +91,17 @@ border-radius: 7px;
   font-family: "poppins";
 font-size: 15px;
   color: white;
-  padding-left: 131px;
+  padding-top: 94px;
+  /* padding-left: 131px; */
   /* box-shadow: 0 4px 70px rgb(14 13 30 / 50%); */
+}
+.m-fluxs{
+  padding-top: 70px;
+  display: flex;
+  justify-content: end;
+  font-family: "poppins";
+  font-size: 15px;
+    color: white;
 }
 .F2F_menu{
   font-family: "poppins";
@@ -118,9 +145,9 @@ color: #564ece;
 .h-divider{
   margin-top:45px;
   margin-bottom:5px;
-  margin-left: -54px;
+ 
   height:1px;
-  width:80%;
+  width:100%;
   border-top:2px solid gray;
 }
   
@@ -215,6 +242,17 @@ color: #564ece;
       padding-left: 0px;
       padding-top: 46px;
   }
+  .col{
+   
+    flex:30%;
+  }
+  .logo-items12 {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    padding-top: 33px;
+    text-align: center;
+}
   .findus {
     display: flex;
     justify-content: center;
@@ -229,6 +267,9 @@ color: #564ece;
   display: none;
 }
 .foot-ls {
+  text-align: center;
+}
+.term{
   text-align: center;
 }
 .foot-ls-1 {
@@ -264,6 +305,13 @@ color: #564ece;
   text-align: center;
 }
 
+    }
+    @media screen and (min-width: 769px) and (max-width: 900px) {
+      .logo-items12 {
+        display: flex;
+    justify-content: center;
+    text-align: center;
+      }
     }
 
     

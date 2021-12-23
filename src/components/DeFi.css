@@ -4,7 +4,8 @@
     padding-top: 300px;
 }
 .Line19_D2D{
-padding-top: 132px;
+    display: flex;
+    align-items: center;
 }
 .img-Ekk175{
     padding-top: 320px;
@@ -104,7 +105,7 @@ line-height: 110%;
         display: none;
     }
     .Line19_D2D {
-        padding-top: 46px;
+        padding-top: 0px;
     }
     .Defi-tomato {
         padding-bottom: 19px;
@@ -189,7 +190,7 @@ line-height: 110%;
         display: none;
     }
     .Line19_D2D {
-        padding-top: 46px;
+        padding-top: 0px;
     }
     .Defi-tomato {
         padding-bottom: 19px;

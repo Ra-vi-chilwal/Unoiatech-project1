@@ -360,16 +360,19 @@ line-height: 110%;
   justify-content: center;
 }
 .ent{
-  top: 160px;
+  margin-bottom: -100px;
+  top: 79px;
   z-index: 1;
 }
 .ent-1{
-  top: 99px;
+  top: 14px;
   z-index: 1;
+  margin-bottom: -120px;
 }
 .ent-2{
-  top: 123px;
+  top: -27px;
   z-index: 1;
+  margin-bottom: -146px;
 }
 .GET-CARD {
   background: rgba(255, 255, 255, 0.038);
@@ -452,7 +455,7 @@ line-height: 110%;
     }
     .G-6170 {
       width: 40px;
-      margin-top: 4px;
+      /* margin-top: 4px; */
     }
     .left-padd-02 {
       padding-left: 0px;
@@ -852,17 +855,17 @@ margin: 10px;
 }
 .ent{
   width:100%;
-  top: 119px;
+  top: 55px;
   z-index: 1;
 }
 .ent-1{
   width:100%;
-  top: 86px;
+  top: 0px;
   z-index: 1;
 }
 .ent-2{
   width:100%;
-  top: 95px;
+  top: 0px;
   z-index: 1;
 }
 
@@ -871,8 +874,13 @@ margin: 10px;
 @media screen and (min-width: 501px) and (max-width: 767px) {
   .m-ecosys{
   
-    margin-right: 101px;
-    margin-left: 180px;
+    margin-right: 110px;
+    margin-left: 110px;
+  }
+}
+@media screen and (min-width: 769px) and (max-width: 900px) {
+  .exp-0 {
+    text-align: center;
   }
 }
 

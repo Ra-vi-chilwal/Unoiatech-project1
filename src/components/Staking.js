@@ -29,7 +29,7 @@ function Staking(){
             <div className="pt-2 Designed">
             <span className="pt-2 N1N-h1">
              
-              STAKING<br className="m-gapp"/> DESIGNED TO<br className="m-gapp"/> INCENTIVIZE<br className="m-gapp"/> YOU
+              STAKING<br className="m-gap1"/> DESIGNED TO<br className="m-gap1"/> INCENTIVIZE<br className="m-gap1"/> YOU
             </span>
             </div>
             <p className="N2N-NRGY pt-5">

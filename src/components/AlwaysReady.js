@@ -173,7 +173,7 @@ function DeFi() {
                       <img className="respo" src={Group6152} alt="" />
                     </div>
 
-                    <div className="col-md-10 col-sm-6 col-xs-4 pt-6">
+                    <div className="col-md-10 col-sm-6 col-xs-4 pt-6 pan-kp">
                       <span className="pancak">PancakeSwap</span>
                     </div>
                   </div>

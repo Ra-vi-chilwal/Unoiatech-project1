@@ -35,7 +35,9 @@ filter: blur(650px);
     .etih-rin {
        display: none;
     }
-    
+    .m-gap1 {
+        display: none;
+    }
     .pin-ball {
       display: none; 
     }
@@ -58,6 +60,9 @@ filter: blur(650px);
 @media  screen and (min-width:501px)and (max-width:768px) {
     .welcome-img-2{
         width:auto;
+    }
+    .m-gap1{
+        display: none;
     }
     .staytoy {
        padding-left: 0px;
@@ -100,7 +105,7 @@ filter: blur(650px);
     }
     .staytoy {
         padding-left: 0px;
-        padding-top: 100px;
+        padding-top: 0px;
     }
     .N1N-h1 {
         
@@ -111,6 +116,9 @@ filter: blur(650px);
       
         padding-top: 10px;
     
+    }
+    .m-gap1{
+        display: none;
     }
     
     

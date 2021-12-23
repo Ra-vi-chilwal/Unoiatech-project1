@@ -244,6 +244,25 @@ display: none;
     /* text-align: center; */
 }
 }
+@media  screen and (min-width:769px)and (max-width:992px) {
+    .m2-gp{
+        display: none;
+    }
+    .head-F3F {
+        display: flex;
+        justify-content: center;
+        font-size: 38px;
+        line-height: 99%;
+        padding-top: 39px;
+        text-align: center;
+    }
+    .etih-rin{
+        display: none;
+    }
+    .line456{
+display: none;
+    }
+}
 
 @media  screen and (min-width:501px)and (max-width:768px) {
 
@@ -255,6 +274,10 @@ display: none;
 @media  screen and (min-width:1024px)and (max-width:1200px) {
     .F3F-82{
         display: none;
+    }
+    
+    .F3F-row {
+        padding-top: 0px;
     }
     .Coin {
         background-color: rgb(2, 12, 41);

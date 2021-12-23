@@ -141,7 +141,7 @@ line-height: 120%;
    
 
 .p_a3a {
-    padding-left: 12px;
+    padding-left: 0px;
     font-size: 13px;
     padding-top: 20px;
 }
@@ -152,7 +152,7 @@ line-height: 120%;
         justify-content: center;
     }
      .Benefits-A1A {
-        padding-left: 16px;
+        padding-left: 2px;
     }
     .Always-row {
         padding-left: 0px; 
@@ -310,6 +310,21 @@ line-height: 120%;
    .Always-row {
     padding-left: 0px; 
 }
+.Group61{
+    display: none;
+}
+.pan-kp{
+    padding-top: 24px;
+    padding-left: 12px;
+}
+    .p_a3a {
+        padding-left: 0px;
+        padding-top: 5px;
+    }
+.Every-trs{
+    padding-top: 5px;
+}
+
 .NGRYGO_A3A{
    
     font-size: 16px;
@@ -381,7 +396,19 @@ line-height: 120%;
     .V493{
         display: none;
     }
-    
+    .coin-A2A {
+        padding-top: 87px;
+    }
+    .THECOIN_23 {
+        padding-top: 132px;
+    }
+    .pan-kp{
+        padding-top: 25px;
+    }
+    .staytoy {
+        padding-left: 0px;
+        padding-top: 0px;
+    }
     
 }
 

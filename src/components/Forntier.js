@@ -31,14 +31,14 @@ function Forntier(){
        <div className="F3F-head pt-0">
        
           <p className="head-F3F">
-          SECURING THE <br className="m-gapp"/> NEW FINANCIAL<br className="m-gapp"/> FRONTIER 
+          SECURING THE <br className="m-gapp m2-gp"/> NEW FINANCIAL<br className="m-gapp m2-gp"/> FRONTIER 
           </p>
         </div>
        
         <div className="conten-45">
-            <p className="F3F_ptag">A high-value digital asset designed to secure the future <br className="m-gapp"/><span className="F3F_ptagp">-- $NRGY</span> is a strong, liquid cryptocurrency token that <br  className="m-gapp"/>fuels powerful new DeFi innovations.<br className="m-gapp"/>
+            <p className="F3F_ptag">A high-value digital asset designed to secure the future <br className="m-gapp m2-gp"/><span className="F3F_ptagp">-- $NRGY</span> is a strong, liquid cryptocurrency token that <br  className="m-gapp"/>fuels powerful new DeFi innovations.<br className="m-gapp"/>
             <br  className="m-gapp"/>
-             Fair market principals from the start, are used to <br  className="m-gapp"/><span className="F3F_ptagp">promote deep liquidity of $NRGY to ensure capital<br  className="m-gapp"/> input is proportional to the supply.</span></p>
+             Fair market principals from the start, are used to <br  className="m-gapp m2-gp"/><span className="F3F_ptagp">promote deep liquidity of $NRGY to ensure capital<br  className="m-gapp m2-gp"/> input is proportional to the supply.</span></p>
         </div>
        
   

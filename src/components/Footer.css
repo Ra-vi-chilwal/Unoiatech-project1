@@ -313,5 +313,12 @@ color: #564ece;
     text-align: center;
       }
     }
+    @media screen and (min-width: 1024px) and (max-width: 1200px) {
+      .logo-items12 {
+        display: flex;
+    justify-content: center;
+    text-align: center;
+      }
+    }
 
     

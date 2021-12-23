@@ -663,6 +663,9 @@ line-height: 110%;
     font-size: 14px;
     text-align: center;
   }
+  .read_top{
+    text-align: center;
+  }
   .tp-pd {
     padding: 17px;
     text-align: center;
@@ -878,9 +881,12 @@ margin: 10px;
     margin-left: 110px;
   }
 }
-@media screen and (min-width: 769px) and (max-width: 900px) {
+@media screen and (min-width: 768px) and (max-width: 900px) {
   .exp-0 {
     text-align: center;
+  }
+  .dece{
+    text-align: start;
   }
 }
 

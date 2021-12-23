@@ -604,7 +604,7 @@ function Rewards() {
               <strong>What can you build?</strong>
             </h5>
             <div className="row">
-              <div className="col-md-6">
+              <div className="col-md-6 dece">
                 <div className="row ">
                   <div className="col-1">
                     <img className="G-6170" src={Group6173} alt="" />
@@ -639,7 +639,7 @@ function Rewards() {
                   </div>
                 </div>
               </div>
-              <div className="col-md-6">
+              <div className="col-md-6 dece">
                 <div className="row">
                   <div className="col-1">
                     <img className="G-6170" src={Group6173} alt="" />

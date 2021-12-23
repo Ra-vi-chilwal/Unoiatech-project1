@@ -262,7 +262,7 @@ margin-right: 12px;
 @media  screen and (min-width:1024px)and (max-width:1200px) {
     .coin-img-2 {
    
-        margin-left: 26px;
+        /* margin-left: 26px; */
         margin-right: -70px;
     }
     .ell-8-1{

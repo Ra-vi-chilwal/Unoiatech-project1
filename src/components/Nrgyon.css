@@ -462,6 +462,17 @@ display: none;
         display: none;
     }
 }
+@media  screen and (min-width:769px)and (max-width:1000px) {
+    .col-N2N-2 {
+        padding-left: 0px;
+        margin-left: 0px;
+    }.c-count-1 {
+        padding-left: 0px;
+        margin-left: 0px;
+    }
+    
+    
+}
 @media  screen and (min-width:1024px)and (max-width:1200px) {
     .c-count-1 {
         padding: 13px;

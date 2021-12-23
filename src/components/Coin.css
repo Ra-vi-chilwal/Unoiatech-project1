@@ -49,7 +49,7 @@ padding-left: 18px;
     width: 11.666667%;
 }
 .NRGY_C2C{
-    padding-left: 20px;
+    padding-left: 7px;
     font-size: 15px;
 }
 .img-gol-1{
@@ -66,7 +66,7 @@ font-style: normal;
 font-weight: 500;
 font-size: 14px;
 line-height: 140%;
-padding-left: 24px;
+padding-left: 14px;
 }
 .coin-img-2{
     background: linear-gradient(117.24deg, rgba(255, 255, 255, 0.038) 5.43%, rgba(255, 255, 255, 0.008) 88.67%);
@@ -74,7 +74,7 @@ backdrop-filter: blur(90px);
 /* Note: backdrop-filter has minimal browser support */
 color: #FFFFFF;
 border-radius: 4px;
-margin-left: 18px;
+margin-left: 13px;
 margin-right: 12px;
 }
 

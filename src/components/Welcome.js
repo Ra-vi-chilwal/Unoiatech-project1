@@ -22,7 +22,7 @@ function Welcome() {
             <img className="welcome-img-1" src={welcome} alt="" />
           </div>
 
-          <div className="col-sm-12 col-md-6 col-lg-6 N2N-item">
+          <div className="col-sm-12 col-md-12 col-lg-6 N2N-item">
             <div>
               <span className="N2N-span pt-4">WELCOME TO NRGY</span>
             </div>
@@ -44,7 +44,7 @@ function Welcome() {
               financial technologies with an incentivized network community.
             </p>
             <div className="pt-4 btn-div position-relative">
-              <button class="btn  btn-get-nrgy-1 h-btn" type="submit">
+              <button class="btn  btn-get-nrgy-1 " type="submit">
                 <img className="btn-img-W2W" src={vector} alt="" />
                 <span className="N2N-font ">GET NRGY</span>
               </button>
